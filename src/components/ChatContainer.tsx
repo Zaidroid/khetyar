@@ -1,6 +1,7 @@
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import ChatMessage from "./ChatMessage";
 import { cn } from "@/lib/utils";
+import { useIsMobile } from "@/hooks/use-mobile";
 
 interface Message {
   id: string;
@@ -20,14 +21,114 @@ interface ChatContainerProps {
 
 const ChatContainer = ({ messages, language, isLoading, onFeedback, onSendMessage }: ChatContainerProps) => {
   const messagesEndRef = useRef<HTMLDivElement>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
+  const [scrollLock, setScrollLock] = useState(false);
+  const isMobile = useIsMobile();
 
+  // Track scroll position
+  const [prevScrollPos, setPrevScrollPos] = useState(0);
+  const [atBottom, setAtBottom] = useState(true);
+
+  // Enhanced scroll management with debouncing
   useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
-  }, [messages]);
+    const container = containerRef.current;
+    if (!container) return;
+
+    const handleScroll = () => {
+      const { scrollTop, scrollHeight, clientHeight } = container;
+      setPrevScrollPos(scrollTop);
+      setAtBottom(scrollHeight - scrollTop - clientHeight < 50);
+    };
+
+    container.addEventListener('scroll', handleScroll, { passive: true });
+    return () => container.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  // Scroll to bottom logic
+  useEffect(() => {
+    const container = containerRef.current;
+    if (!container || scrollLock) return;
+
+    if (atBottom || messages.length <= 1) {
+      const scrollTo = () => {
+        messagesEndRef.current?.scrollIntoView({
+          behavior: "smooth",
+          block: "nearest"
+        });
+      };
+
+      // Delay slightly to allow DOM updates
+      const timer = setTimeout(scrollTo, 50);
+      return () => clearTimeout(timer);
+    } else {
+      // Maintain scroll position when not at bottom
+      container.scrollTop = prevScrollPos;
+    }
+  }, [messages, scrollLock, atBottom, prevScrollPos]);
+
+  // Touch event handlers for mobile
+  useEffect(() => {
+    const container = containerRef.current;
+    if (!container || !isMobile) return;
+
+    let startY = 0;
+    let isScrolling = false;
+
+    const handleTouchStart = (e: TouchEvent) => {
+      startY = e.touches[0].clientY;
+      isScrolling = false;
+    };
+
+    const handleTouchMove = (e: TouchEvent) => {
+      const y = e.touches[0].clientY;
+      const diff = startY - y;
+      if (Math.abs(diff) > 5) {
+        isScrolling = true;
+        setScrollLock(true);
+      }
+    };
+
+    const handleTouchEnd = () => {
+      if (isScrolling) {
+        setTimeout(() => {
+          const { scrollTop, scrollHeight, clientHeight } = container;
+          const nearBottom = scrollHeight - scrollTop - clientHeight < 100;
+          setScrollLock(!nearBottom);
+        }, 300);
+      }
+    };
+
+    container.addEventListener('touchstart', handleTouchStart, { passive: true });
+    container.addEventListener('touchmove', handleTouchMove, { passive: false });
+    container.addEventListener('touchend', handleTouchEnd, { passive: true });
+
+    return () => {
+      container.removeEventListener('touchstart', handleTouchStart);
+      container.removeEventListener('touchmove', handleTouchMove);
+      container.removeEventListener('touchend', handleTouchEnd);
+    };
+  }, [isMobile]);
 
   return (
     // Increased bottom padding (pb-20 sm:pb-24) to accommodate input height
-    <div className="flex-1 overflow-y-auto p-2 sm:p-4 space-y-4 pb-20 sm:pb-24 chat-messages">
+    <div
+      ref={containerRef}
+      className="flex-1 overflow-y-auto p-2 sm:p-4 space-y-4 pb-20 sm:pb-24 chat-messages touch-pan-y"
+      style={{
+        paddingTop: 'env(safe-area-inset-top)',
+        WebkitOverflowScrolling: 'touch',
+        overscrollBehavior: 'contain',
+        scrollbarWidth: 'thin',
+        scrollbarGutter: 'stable',
+        scrollBehavior: 'smooth',
+        scrollSnapType: isMobile ? 'y mandatory' : 'y proximity'
+      }}
+      tabIndex={0}
+      aria-label="Chat messages"
+      role="log"
+      aria-live="polite"
+      aria-atomic="false"
+    >
       {messages.length === 0 ? (
         // Initial welcome message if no messages yet
         <div className="flex flex-col items-center justify-center h-full text-center p-4 sm:p-6">
