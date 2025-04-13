@@ -1,0 +1,89 @@
+[
+    {
+      "id": "nakba001",
+      "topic": "Nakba",
+      "subtopic": "Definition & Date",
+      "keywords": ["nakba", "definition", "meaning", "catastrophe", "1948", "date", "palestinian history"],
+      "arabic_keywords": ["نكبة", "تعريف", "معنى", "كارثة", "1948", "تاريخ", "تاريخ فلسطين"],
+      "arabic_fact": "النكبة تعني 'الكارثة' بالعربية، وتشير إلى التطهير العرقي وتهجير الفلسطينيين وتدمير مجتمعهم وأراضيهم خلال الأحداث المحيطة بإنشاء دولة إسرائيل عام ١٩٤٨.",
+      "english_fact": "Nakba means 'Catastrophe' in Arabic. It refers to the ethnic cleansing, displacement of Palestinians, and destruction of their society and homeland during the events surrounding Israel's establishment in 1948.",
+      "persona_lens_ref": "nakba_lens",
+      "related_ids": ["hist002"]
+    },
+    {
+      "id": "nakba002",
+      "topic": "Nakba",
+      "subtopic": "Scale of Displacement",
+      "keywords": ["nakba", "scale", "refugees", "numbers", "displacement", "population", "majority", "ethnic cleansing"],
+      "arabic_keywords": ["نكبة", "حجم", "لاجئون", "أعداد", "تهجير", "سكان", "أغلبية", "تطهير عرقي"],
+      "arabic_fact": "حوالي ٧٥٠ ألف فلسطيني، أي ما يقارب ٨٠٪ من السكان العرب الأصليين في الأراضي التي أصبحت إسرائيل، تم طردهم أو أُجبروا على الفرار من منازلهم.",
+      "english_fact": "Around 750,000 Palestinians, approximately 80% of the native Arab population in the lands that became Israel, were expelled or forced to flee their homes.",
+      "persona_lens_ref": "nakba_lens",
+      "related_ids": ["hist002", "nakba005"]
+    },
+    {
+      "id": "nakba003",
+      "topic": "Nakba",
+      "subtopic": "Village Destruction",
+      "keywords": ["nakba", "villages", "destruction", "depopulation", "erasure", "history", "maps", "ruins", "500+"],
+      "arabic_keywords": ["نكبة", "قرى", "تدمير", "تهجير سكاني", "محو", "تاريخ", "خرائط", "أطلال", "500+"],
+      "arabic_fact": "تم إخلاء أكثر من ٥٣٠ قرية وبلدة فلسطينية من سكانها وتدمير معظمها بشكل منهجي خلال النكبة وبعدها، بهدف منع عودة اللاجئين ومحو الوجود الفلسطيني المادي.",
+      "english_fact": "Over 530 Palestinian villages and towns were systematically depopulated and largely destroyed during and after the Nakba, aiming to prevent refugee return and erase Palestinian physical presence.",
+      "persona_lens_ref": "nakba_lens",
+      "related_ids": ["hist002"]
+    },
+    {
+      "id": "nakba004",
+      "topic": "Nakba",
+      "subtopic": "Causes",
+      "keywords": ["nakba", "causes", "war", "expulsion", "fear", "massacres", "plan dalet", "zionist militias", " Haganah", "irgun", "stern gang"],
+      "arabic_keywords": ["نكبة", "أسباب", "حرب", "طرد", "خوف", "مجازر", "خطة دالت", "ميليشيات صهيونية", "هاغاناه", "إرغون", "شتيرن"],
+      "arabic_fact": "تسببت النكبة مجموعة من العوامل ضمن حرب ١٩٤٨، بما في ذلك هجمات الميليشيات الصهيونية (مثل الهاغاناه والإرغون وشتيرن)، وعمليات الطرد المخطط لها (مثل خطة دالت)، والمذابح التي أثارت الرعب.",
+      "english_fact": "The Nakba resulted from factors within the 1948 war, including attacks by Zionist militias (Haganah, Irgun, Stern Gang), planned expulsions (e.g., Plan Dalet), and massacres that induced fear and flight.",
+      "related_ids": ["hist002"]
+    },
+    {
+      "id": "nakba005",
+      "topic": "Nakba",
+      "subtopic": "Consequences - Refugees",
+      "keywords": ["nakba", "consequences", "refugees", "camps", "diaspora", "statelessness", "unrwa", "generations", "ongoing"],
+      "arabic_keywords": ["نكبة", "نتائج", "لاجئون", "مخيمات", "شتات", "انعدام الجنسية", "أونروا", "أجيال", "مستمر"],
+      "arabic_fact": "خلقت النكبة مشكلة اللاجئين الفلسطينيين المستمرة، حيث يعيش ملايين اللاجئين وأحفادهم في مخيمات بالضفة وغزة والدول المجاورة وفي الشتات، وغالباً بدون جنسية أو حقوق كاملة.",
+      "english_fact": "The Nakba created the ongoing Palestinian refugee issue, with millions of refugees and their descendants living in camps (West Bank, Gaza, neighboring states) and diaspora, often stateless and lacking full rights.",
+      "persona_lens_ref": "refugee_camps_lens",
+      "related_ids": ["hist009", "nakba002", "nakba006"]
+    },
+    {
+      "id": "nakba006",
+      "topic": "Nakba",
+      "subtopic": "Consequences - Right of Return Denial",
+      "keywords": ["nakba", "consequences", "right of return", "awda", "un 194", "denial", "israel policy", "present absentees"],
+      "arabic_keywords": ["نكبة", "نتائج", "حق العودة", "عودة", "قرار 194", "رفض", "سياسة إسرائيل", "حاضر غائب"],
+      "arabic_fact": "تواصل إسرائيل رفض حق اللاجئين الفلسطينيين في العودة إلى ديارهم، بما يخالف القانون الدولي وقرار ١٩٤. حتى الفلسطينيون الذين بقوا داخل إسرائيل لكنهم نزحوا من قراهم يُعتبرون 'غائبين حاضرين'.",
+      "english_fact": "Israel continues to deny Palestinian refugees their right to return, contrary to international law and UN 194. Even Palestinians remaining inside Israel but displaced from their villages are deemed 'present absentees'.",
+      "persona_lens_ref": "right_of_return_lens",
+      "related_ids": ["hist003", "nakba005"]
+    },
+    {
+      "id": "nakba007",
+      "topic": "Nakba",
+      "subtopic": "Personal Impact & Memory",
+      "keywords": ["nakba", "impact", "personal", "memory", "trauma", "loss", "home", "identity", "key", "oral history", "intergenerational"],
+      "arabic_keywords": ["نكبة", "تأثير", "شخصي", "ذاكرة", "صدمة", "خسارة", "بيت", "هوية", "مفتاح", "تاريخ شفهي", "بين الأجيال"],
+      "arabic_fact": "النكبة ليست مجرد تاريخ، بل ذاكرة حية تنتقل عبر الأجيال من خلال التاريخ الشفهي، وتجربة مستمرة من الصدمة والخسارة والتشبث بالهوية وحلم العودة.",
+      "english_fact": "The Nakba isn't just history; it's a living memory passed through generations via oral history, an ongoing experience of trauma, loss, holding onto identity, and the dream of return.",
+      "persona_lens_ref": "nakba_lens", 
+      "related_ids": ["nakba008"]
+    },
+    {
+      "id": "nakba008",
+      "topic": "Nakba",
+      "subtopic": "Symbol - The Key",
+      "keywords": ["nakba", "symbol", "key", "miftah", "return", "awda", "memory", "loss", "hope", "material culture", "inheritance"],
+      "arabic_keywords": ["نكبة", "رمز", "مفتاح", "عودة", "ذاكرة", "خسارة", "أمل", "ثقافة مادية", "ميراث"],
+      "arabic_fact": "مفتاح البيت القديم (المفتاح) هو رمز مادي وعاطفي قوي للنكبة، يمثل البيوت المفقودة، حق العودة، الذاكرة المتوارثة، والأمل الذي لا يموت بالعودة يوماً ما.",
+      "english_fact": "The key (miftah) to the old house is a potent material and emotional symbol of the Nakba, representing lost homes, the right of return (awda), inherited memory, and the undying hope of one day going back.",
+      "persona_lens_ref": "nakba_key_symbol_lens",
+      "related_ids": ["nakba007"]
+    }
+  ]

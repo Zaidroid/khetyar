@@ -1,0 +1,138 @@
+[
+    {
+      "id": "hist001",
+      "topic": "History",
+      "subtopic": "Pre-1948 Palestine",
+      "keywords": ["history", "palestine", "british mandate", "ottoman", "pre-1948", "diversity", "jaffa", "haifa", "jerusalem", "lydda", "neighbors"],
+      "arabic_keywords": ["تاريخ", "فلسطين", "انتداب بريطاني", "عثماني", "قبل 1948", "تنوع", "يافا", "حيفا", "القدس", "اللد", "جيران"],
+      "arabic_fact": "قبل عام ١٩٤٨، كانت فلسطين منطقة متنوعة السكان، غالبية عربية (مسلمون ومسيحيون) وأقلية يهودية وغيرهم. كانت الحياة تتشارك بين الجيران في المدن مثل يافا وحيفا والقدس وفي القرى الزراعية.",
+      "english_fact": "Before 1948, Palestine was a diverse region, majority Arab (Muslim and Christian) with Jewish and other minorities. Life involved shared communities in cities like Jaffa, Haifa, Jerusalem and agricultural villages.",
+      "persona_lens_ref": "pre_1948_lens",
+      "related_ids": ["geo008", "geo002"]
+    },
+    {
+      "id": "hist002",
+      "topic": "History",
+      "subtopic": "Nakba",
+      "keywords": ["history", "nakba", "1948", "catastrophe", "refugees", "expulsion", "displacement", "villages destroyed", "palestinian history"],
+      "arabic_keywords": ["تاريخ", "نكبة", "1948", "كارثة", "لاجئون", "طرد", "تهجير", "قرى مدمرة", "تاريخ فلسطين"],
+      "arabic_fact": "النكبة عام ١٩٤٨، التي تعني 'الكارثة'، شهدت تهجير أو فرار حوالي ٧٥٠ ألف فلسطيني من ديارهم، وتدمير أكثر من ٥٠٠ قرية وبلدة فلسطينية، وهو حدث محوري في التاريخ الفلسطيني.",
+      "english_fact": "The Nakba in 1948 ('Catastrophe') involved the expulsion or flight of ~750,000 Palestinians, the destruction of >500 villages/towns, and is a central event in Palestinian history.",
+      "persona_lens_ref": "nakba_lens",
+      "related_ids": ["hist003", "nakba001", "nakba002", "nakba003", "nakba005", "nakba007"],
+      "detail_level": 1
+    },
+    {
+      "id": "hist003",
+      "topic": "History",
+      "subtopic": "Right of Return",
+      "keywords": ["history", "nakba", "right of return", "un resolution 194", "refugees", "awda", "international law", "denial"],
+      "arabic_keywords": ["تاريخ", "نكبة", "حق العودة", "قرار 194", "لاجئون", "عودة", "قانون دولي", "رفض"],
+      "arabic_fact": "قرار الأمم المتحدة ١٩٤ يؤكد على حق اللاجئين الفلسطينيين في العودة لديارهم إذا رغبوا بالعيش بسلام، وهو حق مكفول بالقانون الدولي لكنه مرفوض من إسرائيل.",
+      "english_fact": "UN Resolution 194 affirms the right of Palestinian refugees to return home if they wish to live in peace, a right under international law denied by Israel.",
+      "persona_lens_ref": "right_of_return_lens",
+      "related_ids": ["hist002", "nakba006"]
+    },
+    {
+      "id": "hist004",
+      "topic": "History",
+      "subtopic": "1967 War",
+      "keywords": ["history", "naksa", "1967", "setback", "occupation", "west bank", "gaza", "east jerusalem", "six day war"],
+      "arabic_keywords": ["تاريخ", "نكسة", "1967", "هزيمة", "احتلال", "ضفة غربية", "غزة", "قدس شرقية", "حرب الأيام الستة"],
+      "arabic_fact": "حرب ١٩٦٧ (النكسة)، أدت لاحتلال إسرائيل للضفة الغربية (بما فيها القدس الشرقية) وقطاع غزة، مما أخضع كل فلسطين التاريخية للاحتلال العسكري وأدى لموجة نزوح جديدة.",
+      "english_fact": "The 1967 War (Naksa - Setback) resulted in Israel occupying the West Bank (incl. East Jerusalem) and Gaza Strip, bringing all of historic Palestine under military occupation and causing further displacement.",
+      "persona_lens_ref": "naksa_lens",
+      "related_ids": ["hist005", "hist006", "hist007", "geo001"]
+    },
+    {
+      "id": "hist005",
+      "topic": "History",
+      "subtopic": "Occupation Overview",
+      "keywords": ["history", "occupation", "military rule", "control", "daily life", "restrictions", "international law"],
+      "arabic_keywords": ["تاريخ", "احتلال", "حكم عسكري", "سيطرة", "حياة يومية", "قيود", "قانون دولي"],
+      "arabic_fact": "الاحتلال العسكري الإسرائيلي المستمر منذ ١٩٦٧ يفرض سيطرة على حياة الفلسطينيين من خلال وسائل متعددة تنتهك القانون الدولي.",
+      "english_fact": "The ongoing Israeli military occupation since 1967 imposes control over Palestinian lives through various means violating international law.",
+      "persona_lens_ref": "occupation_lens",
+      "related_ids": ["hist010", "hist006", "hist007", "hist012"],
+      "detail_level": 1
+    },
+     {
+      "id": "hist006",
+      "topic": "History",
+      "subtopic": "Settlements",
+      "keywords": ["history", "occupation", "settlements", "mustawtanat", "illegal", "land confiscation", "fragmentation", "geneva convention", "obstacle to peace"],
+      "arabic_keywords": ["تاريخ", "احتلال", "مستوطنات", "مصادرة أراضي", "غير شرعي", "تفتيت", "اتفاقية جنيف", "عقبة للسلام"],
+      "arabic_fact": "المستوطنات هي مجتمعات مدنية إسرائيلية تُبنى على أرض فلسطينية محتلة، وهي غير شرعية بموجب اتفاقية جنيف الرابعة وتُعيق قيام دولة فلسطينية وتعتبر عقبة رئيسية أمام السلام.",
+      "english_fact": "Settlements are Israeli civilian communities built on occupied Palestinian land, illegal under the Fourth Geneva Convention, fragmenting territory and hindering a Palestinian state; a major obstacle to peace.",
+      "persona_lens_ref": "settlements_lens",
+      "related_ids": ["hist005"]
+    },
+     {
+      "id": "hist007",
+      "topic": "History",
+      "subtopic": "Separation Wall",
+      "keywords": ["history", "occupation", "wall", "jidar al-fasl", "separation barrier", "annexation", "ghettoization", "icj ruling", "land confiscation"],
+      "arabic_keywords": ["تاريخ", "احتلال", "جدار", "جدار الفصل", "ضم", "عزل", "محكمة العدل الدولية", "مصادرة أراضي"],
+      "arabic_fact": "الجدار الفاصل (أجزاء منه جدار وأخرى سياج) بُني معظمه داخل الضفة الغربية، مما أدى لمصادرة أراضي وعزل مجتمعات. اعتبرته محكمة العدل الدولية غير قانوني.",
+      "english_fact": "The Separation Wall (part concrete, part fence) is built mostly inside the West Bank, annexing land and isolating communities. Deemed illegal by the International Court of Justice (ICJ).",
+      "persona_lens_ref": "wall_lens",
+      "related_ids": ["hist005"]
+    },
+     {
+      "id": "hist008",
+      "topic": "History",
+      "subtopic": "Intifadas Overview",
+      "keywords": ["history", "intifada", "uprising", "resistance", "first intifada", "second intifada", "al-aqsa intifada", "popular resistance"],
+      "arabic_keywords": ["تاريخ", "انتفاضة", "مقاومة", "انتفاضة أولى", "انتفاضة ثانية", "انتفاضة الأقصى", "مقاومة شعبية"],
+      "arabic_fact": "الانتفاضات هي انتفاضات شعبية فلسطينية كبرى ضد الاحتلال. الأولى (١٩٨٧-١٩٩٣) تميزت بالمقاومة الشعبية والعصيان المدني. الثانية (٢٠٠٠-٢٠٠٥) شهدت تصعيداً كبيراً.",
+      "english_fact": "The Intifadas ('shaking off') were major popular Palestinian uprisings against occupation. The First (1987-1993) featured civil disobedience. The Second (2000-2005) involved greater violence.",
+      "persona_lens_ref": "intifadas_lens"
+    },
+    {
+      "id": "hist009",
+      "topic": "History",
+      "subtopic": "Refugee Camps",
+      "keywords": ["history", "refugees", "camps", "mukhayyamat", "displacement", "nakba", "naksa", "unrwa", "living conditions", "temporary permanent"],
+      "arabic_keywords": ["تاريخ", "لاجئون", "مخيمات", "تهجير", "نكبة", "نكسة", "أونروا", "ظروف معيشية", "مؤقت دائم"],
+      "arabic_fact": "مخيمات اللاجئين، التي أُنشئت كحل مؤقت بعد ١٩٤٨ و ١٩٦٧، أصبحت مناطق سكنية دائمة مكتظة ذات بنية تحتية محدودة، تديرها الأونروا غالباً.",
+      "english_fact": "Refugee camps, created as temporary solutions after 1948 and 1967, became permanent, crowded residential areas with limited infrastructure, often managed by UNRWA.",
+      "persona_lens_ref": "refugee_camps_lens",
+      "related_ids": ["hist002", "hist003"]
+    },
+    {
+      "id": "hist010",
+      "topic": "History",
+      "subtopic": "Occupation - Checkpoints",
+      "keywords": ["history", "occupation", "checkpoints", "hajjiz", "movement restrictions", "daily life", "humiliation", "delay", "permits"],
+      "arabic_keywords": ["تاريخ", "احتلال", "حواجز", "تقييد حركة", "حياة يومية", "إذلال", "تأخير", "تصاريح"],
+      "arabic_fact": "نقاط التفتيش (الحواجز) العسكرية، الثابتة والطيارة، تقيد بشدة حرية الحركة للفلسطينيين داخل الضفة الغربية وبينها وبين القدس وإسرائيل، وتتطلب تصاريح خاصة.",
+      "english_fact": "Military checkpoints (fixed and flying) severely restrict Palestinian freedom of movement within the West Bank and between it, Jerusalem, and Israel, often requiring special permits.",
+      "persona_lens_ref": "checkpoints_lens",
+      "related_ids": ["hist005", "hist011"],
+      "detail_level": 1
+    },
+    {
+      "id": "hist011",
+      "topic": "History",
+      "subtopic": "Occupation - Checkpoints Impact",
+      "keywords": ["history", "occupation", "checkpoints", "hajjiz", "impact", "economy", "health", "education", "fragmentation", "time", "dignity"],
+      "arabic_keywords": ["تاريخ", "احتلال", "حواجز", "تأثير", "اقتصاد", "صحة", "تعليم", "تفتيت", "وقت", "كرامة"],
+      "arabic_fact": "تؤثر نقاط التفتيش سلباً على الاقتصاد (نقل البضائع)، الصحة (وصول الإسعاف والمرضى)، التعليم (وصول الطلاب والمعلمين)، وتزيد تفتيت الأرض وتستهلك الوقت والكرامة.",
+      "english_fact": "Checkpoints negatively impact the economy (goods transport), health (ambulance/patient access), education (student/teacher access), increase land fragmentation, and consume time and dignity.",
+      "persona_lens_ref": "checkpoints_impact_lens",
+      "related_ids": ["hist010"],
+      "detail_level": 2
+    },
+     {
+      "id": "hist012",
+      "topic": "History",
+      "subtopic": "Occupation - Permit System",
+      "keywords": ["history", "occupation", "permits", "tasareeh", "movement", "restrictions", "israel", "jerusalem", "work", "medical", "bureaucracy"],
+      "arabic_keywords": ["تاريخ", "احتلال", "تصاريح", "حركة", "قيود", "إسرائيل", "القدس", "عمل", "علاج", "بيروقراطية"],
+      "arabic_fact": "يحتاج الفلسطينيون في الضفة الغربية وقطاع غزة لنظام معقد من التصاريح الإسرائيلية لدخول إسرائيل والقدس الشرقية، وحتى للتنقل بين بعض مناطق الضفة، لأغراض العمل أو العلاج أو الزيارة.",
+      "english_fact": "Palestinians in the West Bank and Gaza require a complex Israeli permit system (Tasareeh) to enter Israel and East Jerusalem, and even for movement between some West Bank areas, for work, medical care, or visits.",
+      "persona_lens_ref": "occupation_lens", 
+      "related_ids": ["hist005", "hist010"],
+      "detail_level": 2
+    }
+  ]

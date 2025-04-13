@@ -1,0 +1,121 @@
+[
+    {
+      "id": "cult001",
+      "topic": "Culture",
+      "subtopic": "Food Overview",
+      "keywords": ["culture", "food", "cuisine", "maqloubeh", "musakhan", "knafeh", "falafel", "hummus", "olive oil", "zaatar", "sharing", "hospitality"],
+      "arabic_fact": "المطبخ الفلسطيني غني ومتنوع، يعتمد على زيت الزيتون، الزعتر، والخضروات الطازجة. الأكل هو تجربة جماعية ومظهر للكرم، ويشمل أطباقاً شهيرة كالمقلوبة والمسخن.",
+      "english_fact": "Palestinian cuisine is rich, diverse, relying on olive oil, za'atar, fresh vegetables. Eating is communal and part of hospitality, featuring famous dishes like Maqloubeh and Musakhan.",
+      "persona_lens_ref": "food_lens",
+      "related_ids": ["cult004", "cult010", "geo009"]
+    },
+    {
+      "id": "cult002",
+      "topic": "Culture",
+      "subtopic": "Tatreez Overview",
+      "keywords": ["culture", "heritage", "tatreez", "embroidery", "thobe", "patterns", "identity", "women", "art", "preservation"],
+      "arabic_fact": "التطريز الفلسطيني (التطريز) هو فن نسائي تقليدي ذو قيمة عالية، يحافظ على الهوية والتراث عبر الأنماط والألوان التي تزين الثوب الفلسطيني وتختلف من منطقة لأخرى.",
+      "english_fact": "Palestinian embroidery (Tatreez) is a highly valued traditional women's art, preserving identity and heritage through patterns and colors adorning the Palestinian dress (thobe), varying by region.",
+      "persona_lens_ref": "tatreez_lens",
+      "related_ids": ["cult012"]
+    },
+    {
+      "id": "cult003",
+      "topic": "Culture",
+      "subtopic": "Music & Dance Overview",
+      "keywords": ["culture", "music", "dance", "dabke", "oud", "tabla", "mijwez", "shababa", "folk songs", "celebrations", "weddings", "community"],
+      "arabic_fact": "الموسيقى والرقص جزء حيوي من الثقافة الفلسطينية، خاصة الدبكة التي تؤدى في الأفراح وتعبر عن الوحدة. تشمل الآلات العود والطبلة والمجوز/الشبابة.",
+      "english_fact": "Music and dance are vital parts of Palestinian culture, especially Dabke performed at weddings expressing unity. Instruments include the Oud, Tabla, and Mijwiz/Shababa.",
+      "persona_lens_ref": "music_dance_lens",
+      "related_ids": ["cult013"]
+    },
+    {
+      "id": "cult004",
+      "topic": "Culture",
+      "subtopic": "Hospitality",
+      "keywords": ["culture", "values", "hospitality", "karam", "coffee", "qahwa", "welcome", "guest", "sharing", "respect"],
+      "arabic_fact": "الكرم (الكرم) قيمة أساسية مقدسة في الثقافة الفلسطينية. يُعامل الضيوف بأقصى درجات الاحترام والتقدير، وتقديم القهوة هو أولى علامات الترحيب الحار.",
+      "english_fact": "Hospitality (Karam) is a sacred core value. Guests are treated with utmost respect and generosity; offering coffee (qahwa) is the first sign of warm welcome.",
+      "persona_lens_ref": "hospitality_lens",
+      "related_ids": ["cult001"]
+    },
+    {
+      "id": "cult005",
+      "topic": "Culture",
+      "subtopic": "Family & Community",
+      "keywords": ["culture", "society", "family", "community", "elders", "solidarity", "a'ila", "mujtama'", "kinship", "support"],
+      "arabic_fact": "الأسرة (العائلة) هي نواة المجتمع الفلسطيني، مع تركيز قوي على روابط القرابة الممتدة والتكافل المجتمعي، واحترام كبار السن.",
+      "english_fact": "Family (A'ila) is the nucleus of Palestinian society, with strong emphasis on extended kinship ties, community solidarity (mujtama'), and respect for elders.",
+      "persona_lens_ref": "family_community_lens"
+    },
+    {
+      "id": "cult006",
+      "topic": "Culture",
+      "subtopic": "Language",
+      "keywords": ["culture", "language", "arabic", "palestinian dialect", "lugha", "identity", "proverbs", "levantine", "variation"],
+      "arabic_fact": "اللهجة العربية الفلسطينية هي جزء من اللهجات الشامية وتختلف داخل فلسطين (مدن، قرى، شمال، جنوب). اللغة غنية بالأمثال وتحمل الهوية الثقافية.",
+      "english_fact": "Palestinian Arabic dialect is part of Levantine Arabic, varying within Palestine (urban, rural, north, south). The language is rich in proverbs and carries cultural identity.",
+      "persona_lens_ref": "language_lens",
+      "related_ids": ["prov001"] 
+    },
+    {
+      "id": "cult007",
+      "topic": "Culture",
+      "subtopic": "Sumud",
+      "keywords": ["culture", "politics", "sumud", "steadfastness", "resilience", "resistance", "land", "identity", "non-violent", "survival", "olive tree"],
+      "arabic_fact": "الصمود هو مفهوم ثقافي وسياسي يعني الثبات والصمود في وجه الصعاب، البقاء على الأرض، الحفاظ على الهوية، مقاومة الاحتلال بالبقاء والحياة اليومية.",
+      "english_fact": "Sumud (Steadfastness) is a cultural/political concept meaning resilience against hardship, staying on the land, maintaining identity, resisting occupation through existence and daily life.",
+      "persona_lens_ref": "sumud_lens",
+      "related_ids": ["geo009"]
+    },
+    {
+      "id": "cult008",
+      "topic": "Culture",
+      "subtopic": "Hakawati",
+      "keywords": ["culture", "heritage", "storytelling", "hakawati", "folklore", "oral history", "coffee house", "tradition"],
+      "arabic_fact": "الحكواتي هو الراوي التقليدي الذي كان يحافظ على التراث الشفهي برواية القصص الشعبية والتاريخية في الأماكن العامة كالمقاهي.",
+      "english_fact": "The Hakawati is the traditional storyteller who preserved oral heritage by narrating folk tales and histories in public spaces like coffee houses.",
+      "persona_lens_ref": "folklore_proverbs_lens",
+      "related_ids": ["story001"] 
+    },
+    {
+      "id": "cult010",
+      "topic": "Culture",
+      "subtopic": "Food - Nabulsi Knafeh",
+      "keywords": ["culture", "food", "dessert", "knafeh", "nablus", "cheese", "pastry", "sweet", "pistachio", "syrup"],
+      "arabic_fact": "الكنافة النابلسية، أصلها من نابلس، هي حلوى شهيرة عالمياً مصنوعة من جبنة بيضاء خاصة (جبنة نابلسية)، عجينة كنافة برتقالية، قطر، ومزينة بالفستق.",
+      "english_fact": "Nabulsi Knafeh, originating from Nablus, is world-famous: a dessert of special white cheese (Nabulsi cheese), orange shredded pastry (kataifi), soaked in sweet syrup, topped with pistachios.",
+      "persona_lens_ref": "knafeh_lens",
+      "related_ids": ["cult001", "geo004"]
+    },
+     {
+      "id": "cult011",
+      "topic": "Culture",
+      "subtopic": "Food - Gaza Variations",
+      "keywords": ["culture", "food", "cuisine", "gaza", "regional", "spicy", "seafood", "sumagiyya", "rummaniyya", "dagga", "hot peppers"],
+      "arabic_fact": "يشتهر مطبخ غزة بنكهاته الحارة واستخدام الفلفل والشطة، والمأكولات البحرية، وأطباق فريدة مثل السماقية (بالسماق والطحينة) والرمانية (عدس ورمان) والدقة الغزاوية.",
+      "english_fact": "Gazan cuisine is known for distinct spicy flavors (hot peppers/shatta), seafood, and unique dishes like Sumagiyya (sumac-tahini stew), Rummaniyya (lentil-pomegranate), and Gazan Dagga (spicy tomato salad).",
+      "persona_lens_ref": "gaza_food_lens",
+      "related_ids": ["cult001", "geo007"]
+    },
+    {
+      "id": "cult012",
+      "topic": "Culture",
+      "subtopic": "Tatreez Motifs",
+      "keywords": ["culture", "heritage", "tatreez", "embroidery", "motifs", "symbols", "meaning", "cypress", "star", "birds", "regional"],
+      "arabic_fact": "تحمل أنماط التطريز (الرسومات) معاني رمزية: فشجرة السرو قد ترمز للخلود، والنجمة الثمانية للحظ الجيد، والطيور للحرية. تختلف الأنماط والألوان بشكل كبير حسب المنطقة.",
+      "english_fact": "Tatreez motifs carry symbolic meaning: cypress trees for eternity, eight-pointed stars for good luck, birds for freedom. Patterns and colors vary significantly by region (e.g., Hebron vs Ramallah vs Gaza).",
+      "persona_lens_ref": "tatreez_detail_lens",
+      "related_ids": ["cult002"]
+    },
+    {
+      "id": "cult013",
+      "topic": "Culture",
+      "subtopic": "Dabke Details",
+      "keywords": ["culture", "dance", "dabke", "line dance", "stomp", "rhythm", "group", "unity", "leader", "variations"],
+      "arabic_fact": "الدبكة هي رقصة خط جماعية يقودها 'اللوّيح'، تتميز بضربات أقدام إيقاعية قوية ومتزامنة على الأرض، ترمز للوحدة والتجذر في الأرض. لها أنواع مختلفة.",
+      "english_fact": "Dabke is a group line dance led by a 'lawweeh', characterized by synchronized rhythmic stomping and footwork, symbolizing unity and rootedness. Different regional variations exist.",
+      "persona_lens_ref": "music_dance_lens",
+      "related_ids": ["cult003"]
+    }
+  ]

@@ -1,0 +1,189 @@
+[
+    {
+      "id": "event001",
+      "year": 1917,
+      "title_arabic": "وعد بلفور",
+      "title_english": "Balfour Declaration",
+      "description_arabic": "تصريح بريطاني يصدر خلال الحرب العالمية الأولى يدعم إنشاء 'وطن قومي للشعب اليهودي' في فلسطين، متجاهلاً حقوق الأغلبية العربية.",
+      "description_english": "British declaration issued during WWI supporting the establishment of a 'national home for the Jewish people' in Palestine, disregarding the rights of the Arab majority.",
+      "keywords": ["balfour declaration", "1917", "british mandate", "history", "zionism", "palestine"],
+      "arabic_keywords": ["وعد بلفور", "1917", "انتداب بريطاني", "تاريخ", "صهيونية", "فلسطين"],
+      "related_knowledge_ids": ["hist001"]
+    },
+    {
+      "id": "event002",
+      "year": 1920,
+      "title_arabic": "بدء الانتداب البريطاني",
+      "title_english": "Start of British Mandate",
+      "description_arabic": "عصبة الأمم تمنح بريطانيا رسمياً الانتداب على فلسطين، والذي استمر حتى عام ١٩٤٨، بهدف معلن هو مساعدة السكان على تأسيس حكم ذاتي، ولكن سهّل أيضاً الهجرة الصهيونية.",
+      "description_english": "The League of Nations formally grants Britain the Mandate for Palestine, lasting until 1948, ostensibly to help inhabitants towards self-government but also facilitating Zionist immigration.",
+      "keywords": ["british mandate", "1920", "history", "league of nations", "colonialism", "palestine"],
+      "arabic_keywords": ["انتداب بريطاني", "1920", "تاريخ", "عصبة الأمم", "استعمار", "فلسطين"],
+      "related_knowledge_ids": ["hist001"]
+    },
+    {
+      "id": "event003",
+      "year": 1936,
+      "title_arabic": "الثورة العربية الكبرى في فلسطين",
+      "title_english": "The Great Arab Revolt in Palestine",
+      "description_arabic": "انتفاضة وثورة فلسطينية واسعة ضد الحكم البريطاني والهجرة الصهيونية المتزايدة، استمرت بشكل متقطع حتى عام ١٩٣٩ وتم قمعها بقوة.",
+      "description_english": "A major Palestinian uprising and revolt against British rule and increasing Zionist immigration, lasting intermittently until 1939 and suppressed forcefully.",
+      "keywords": ["arab revolt", "1936", "1939", "history", "palestinian resistance", "british mandate", "uprising", "qassam"],
+      "arabic_keywords": ["ثورة عربية", "1936", "1939", "تاريخ", "مقاومة فلسطينية", "انتداب بريطاني", "انتفاضة", "قسام"],
+      "related_knowledge_ids": ["fig003"]
+    },
+    {
+      "id": "event004",
+      "year": 1947,
+      "title_arabic": "قرار التقسيم (١٨١)",
+      "title_english": "UN Partition Plan (Resolution 181)",
+      "description_arabic": "قرار الجمعية العامة للأمم المتحدة يوصي بتقسيم فلسطين إلى دولتين، عربية ويهودية، مع وضع القدس تحت إدارة دولية. قوبل بالرفض من العرب الفلسطينيين والدول العربية.",
+      "description_english": "UN General Assembly resolution recommending the partition of Palestine into Arab and Jewish states, with Jerusalem under international administration. Rejected by Palestinian Arabs and Arab states.",
+      "keywords": ["partition plan", "resolution 181", "1947", "un", "history", "nakba context", "division"],
+      "arabic_keywords": ["قرار التقسيم", "قرار 181", "1947", "أمم متحدة", "تاريخ", "سياق النكبة", "تقسيم"],
+      "related_knowledge_ids": ["hist002", "nakba001"]
+    },
+    {
+      "id": "event005",
+      "year": 1948,
+      "title_arabic": "النكبة وإعلان قيام دولة إسرائيل",
+      "title_english": "The Nakba & Establishment of Israel",
+      "description_arabic": "وقوع النكبة الفلسطينية مع تهجير مئات الآلاف، وتدمير مئات القرى. إعلان قيام دولة إسرائيل في مايو، مما أدى إلى الحرب العربية الإسرائيلية الأولى.",
+      "description_english": "The Palestinian Nakba occurs with the displacement of hundreds of thousands and destruction of hundreds of villages. The State of Israel is declared in May, leading to the first Arab-Israeli War.",
+      "keywords": ["nakba", "1948", "catastrophe", "israel establishment", "refugees", "displacement", "history", "war"],
+      "arabic_keywords": ["نكبة", "1948", "كارثة", "قيام إسرائيل", "لاجئون", "تهجير", "تاريخ", "حرب"],
+      "related_knowledge_ids": ["hist002", "nakba001", "nakba002", "nakba003", "nakba004"]
+    },
+    {
+      "id": "event006",
+      "year": 1949,
+      "title_arabic": "تأسيس الأونروا",
+      "title_english": "Establishment of UNRWA",
+      "description_arabic": "تأسيس وكالة الأمم المتحدة لإغاثة وتشغيل اللاجئين الفلسطينيين في الشرق الأدنى (الأونروا) لتقديم المساعدة للاجئين الفلسطينيين.",
+      "description_english": "The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) is established to provide assistance to Palestinian refugees.",
+      "keywords": ["unrwa", "1949", "un", "refugees", "humanitarian aid", "history", "nakba aftermath"],
+      "arabic_keywords": ["أونروا", "1949", "أمم متحدة", "لاجئون", "مساعدات إنسانية", "تاريخ", "ما بعد النكبة"],
+      "related_knowledge_ids": ["hist009", "nakba005"]
+    },
+    {
+      "id": "event007",
+      "year": 1964,
+      "title_arabic": "تأسيس منظمة التحرير الفلسطينية",
+      "title_english": "Founding of the PLO",
+      "description_arabic": "تأسيس منظمة التحرير الفلسطينية (م.ت.ف) في القدس بمبادرة من جامعة الدول العربية، بهدف تمثيل الشعب الفلسطيني.",
+      "description_english": "The Palestine Liberation Organization (PLO) is founded in Jerusalem under Arab League auspices, aiming to represent the Palestinian people.",
+      "keywords": ["plo", "palestine liberation organization", "1964", "history", "politics", "national movement"],
+      "arabic_keywords": ["منظمة التحرير الفلسطينية", "م.ت.ف", "1964", "تاريخ", "سياسة", "حركة وطنية"],
+      "related_knowledge_ids": ["fig005", "fig008"]
+    },
+    {
+      "id": "event008",
+      "year": 1967,
+      "title_arabic": "النكسة / حرب حزيران",
+      "title_english": "The Naksa / Six-Day War",
+      "description_arabic": "هزيمة عربية في حرب يونيو تؤدي إلى احتلال إسرائيل للضفة الغربية (بما فيها القدس الشرقية)، قطاع غزة، سيناء، والجولان. موجة نزوح فلسطينية جديدة.",
+      "description_english": "Arab defeat in the June War leads to Israeli occupation of the West Bank (incl. East Jerusalem), Gaza Strip, Sinai, and Golan Heights. A new wave of Palestinian displacement occurs.",
+      "keywords": ["naksa", "1967", "setback", "six day war", "occupation", "west bank", "gaza", "east jerusalem", "history", "displacement"],
+      "arabic_keywords": ["نكسة", "1967", "انتكاسة", "حرب حزيران", "احتلال", "ضفة غربية", "غزة", "قدس شرقية", "تاريخ", "تهجير"],
+      "related_knowledge_ids": ["hist004"]
+    },
+      {
+      "id": "event009",
+      "year": 1976,
+      "title_arabic": "يوم الأرض",
+      "title_english": "Land Day (Yawm al-Ard)",
+      "description_arabic": "إضرابات ومظاهرات واسعة للفلسطينيين داخل إسرائيل احتجاجاً على مصادرة أراضيهم في الجليل. استشهاد ستة متظاهرين برصاص الشرطة الإسرائيلية. أصبح يوماً وطنياً سنوياً.",
+      "description_english": "Mass strikes and protests by Palestinians inside Israel against the confiscation of their lands in the Galilee. Six protesters killed by Israeli police. Became an annual national commemoration.",
+      "keywords": ["land day", "yawm al-ard", "1976", "history", "palestinians in israel", "48 palestinians", "land confiscation", "protest", "commemoration"],
+      "arabic_keywords": ["يوم الأرض", "1976", "تاريخ", "فلسطينيو الداخل", "فلسطينيو 48", "مصادرة أراضي", "احتجاج", "إحياء ذكرى"],
+      "related_knowledge_ids": ["poetry_zayyad_lens"]
+    },
+    {
+      "id": "event010",
+      "year": 1987,
+      "title_arabic": "بدء الانتفاضة الأولى",
+      "title_english": "Start of First Intifada",
+      "description_arabic": "اندلاع انتفاضة شعبية واسعة ضد الاحتلال الإسرائيلي في الضفة الغربية وقطاع غزة، تميزت بالمظاهرات والإضرابات والمواجهات الشعبية (الحجارة).",
+      "description_english": "A widespread popular uprising against Israeli occupation begins in the West Bank and Gaza Strip, characterized by demonstrations, strikes, and popular confrontations (stones).",
+      "keywords": ["first intifada", "1987", "uprising", "resistance", "occupation", "stones", "history", "popular resistance"],
+      "arabic_keywords": ["انتفاضة أولى", "1987", "مقاومة", "احتلال", "حجارة", "تاريخ", "مقاومة شعبية"],
+      "related_knowledge_ids": ["hist008"]
+    },
+    {
+      "id": "event011",
+      "year": 1993,
+      "title_arabic": "اتفاقيات أوسلو",
+      "title_english": "Oslo Accords",
+      "description_arabic": "توقيع إعلان المبادئ بين منظمة التحرير الفلسطينية وإسرائيل في واشنطن، بهدف إقامة حكم ذاتي فلسطيني انتقالي ومفاوضات للحل النهائي.",
+      "description_english": "Declaration of Principles signed between the PLO and Israel in Washington D.C., aiming for interim Palestinian self-government and negotiations towards a final status.",
+      "keywords": ["oslo accords", "1993", "peace process", "plo", "israel", "history", "palestinian authority", "negotiations"],
+      "arabic_keywords": ["اتفاقيات أوسلو", "1993", "عملية سلام", "منظمة التحرير", "إسرائيل", "تاريخ", "سلطة فلسطينية", "مفاوضات"],
+      "related_knowledge_ids": ["fig005"]
+    },
+    {
+      "id": "event012",
+      "year": 1994,
+      "title_arabic": "قيام السلطة الوطنية الفلسطينية",
+      "title_english": "Establishment of Palestinian Authority",
+      "description_arabic": "تأسيس السلطة الوطنية الفلسطينية كهيئة حكم ذاتي مؤقت في أجزاء من الضفة الغربية وقطاع غزة بموجب اتفاقيات أوسلو.",
+      "description_english": "The Palestinian National Authority (PA) is established as an interim self-governing body in parts of the West Bank and Gaza Strip under the Oslo Accords.",
+      "keywords": ["palestinian authority", "pa", "1994", "oslo accords", "history", "politics", "self-government"],
+      "arabic_keywords": ["سلطة فلسطينية", "سلطة وطنية", "1994", "اتفاقيات أوسلو", "تاريخ", "سياسة", "حكم ذاتي"],
+      "related_knowledge_ids": ["fig005", "event011"]
+    },
+    {
+      "id": "event013",
+      "year": 2000,
+      "title_arabic": "اندلاع الانتفاضة الثانية (الأقصى)",
+      "title_english": "Start of Second (Al-Aqsa) Intifada",
+      "description_arabic": "اندلاع انتفاضة ثانية بعد زيارة أرييل شارون للحرم القدسي الشريف، شهدت تصعيداً عسكرياً ومواجهات عنيفة وعمليات استشهادية.",
+      "description_english": "A second uprising begins following Ariel Sharon's visit to the Haram al-Sharif/Temple Mount, marked by increased militarization, violent confrontations, and suicide bombings.",
+      "keywords": ["second intifada", "al-aqsa intifada", "2000", "uprising", "resistance", "occupation", "history", "violence"],
+      "arabic_keywords": ["انتفاضة ثانية", "انتفاضة الأقصى", "2000", "مقاومة", "احتلال", "تاريخ", "عنف"],
+      "related_knowledge_ids": ["hist008", "geo013"]
+    },
+    {
+      "id": "event014",
+      "year": 2002,
+      "title_arabic": "بدء بناء جدار الفصل",
+      "title_english": "Construction of Separation Wall Begins",
+      "description_arabic": "إسرائيل تبدأ بناء جدار الفصل (أو الضم والتوسع)، الذي يمتد معظمه داخل أراضي الضفة الغربية.",
+      "description_english": "Israel begins construction of the Separation Wall/Barrier, mostly inside West Bank territory.",
+      "keywords": ["separation wall", "barrier", "2002", "history", "occupation", "west bank", "construction", "land confiscation"],
+      "arabic_keywords": ["جدار الفصل", "جدار الضم", "2002", "تاريخ", "احتلال", "ضفة غربية", "بناء", "مصادرة أراضي"],
+      "related_knowledge_ids": ["hist007"]
+    },
+    {
+      "id": "event015",
+      "year": 2007,
+      "title_arabic": "فرض الحصار على غزة",
+      "title_english": "Gaza Blockade Imposed",
+      "description_arabic": "إسرائيل ومصر تفرضان حصاراً مشدداً على قطاع غزة بعد سيطرة حماس على القطاع، مما أدى إلى أزمة إنسانية خانقة.",
+      "description_english": "Israel and Egypt impose a strict blockade on the Gaza Strip following Hamas's takeover, leading to a severe humanitarian crisis.",
+      "keywords": ["gaza blockade", "siege", "2007", "history", "gaza strip", "hamas", "humanitarian crisis", "israel", "egypt"],
+      "arabic_keywords": ["حصار غزة", "2007", "تاريخ", "قطاع غزة", "حماس", "أزمة إنسانية", "إسرائيل", "مصر"],
+      "related_knowledge_ids": ["geo007", "gaza2023_004"]
+    },
+    {
+      "id": "event016",
+      "year": 2023,
+      "title_arabic": "هجوم ٧ أكتوبر وحرب غزة",
+      "title_english": "October 7th Attack & Subsequent Gaza War",
+      "description_arabic": "هجوم تقوده حماس على جنوب إسرائيل يؤدي إلى رد عسكري إسرائيلي واسع النطاق ومدمر على قطاع غزة، مسبباً كارثة إنسانية وعدد هائل من الضحايا.",
+      "description_english": "An attack led by Hamas on southern Israel leads to a massive and devastating Israeli military response on the Gaza Strip, causing a humanitarian catastrophe and vast numbers of casualties.",
+      "keywords": ["gaza war", "october 7", "2023", "history", "conflict", "israel", "hamas", "gaza strip", "humanitarian crisis", "casualties"],
+      "arabic_keywords": ["حرب غزة", "7 أكتوبر", "2023", "تاريخ", "صراع", "إسرائيل", "حماس", "قطاع غزة", "أزمة إنسانية", "ضحايا"],
+      "related_knowledge_ids": ["gaza2023_001", "gaza2023_002", "gaza2023_003", "gaza2023_004", "gaza2023_005"]
+    },
+    {
+      "id": "event017",
+      "year": 2024,
+      "title_arabic": "قضية محكمة العدل الدولية (جنوب أفريقيا ضد إسرائيل)",
+      "title_english": "ICJ Case (South Africa v. Israel)",
+      "description_arabic": "جنوب أفريقيا ترفع دعوى أمام محكمة العدل الدولية تتهم فيها إسرائيل بارتكاب أعمال إبادة جماعية في غزة. المحكمة تصدر تدابير مؤقتة وتستمر في النظر بالقضية.",
+      "description_english": "South Africa initiates proceedings at the International Court of Justice (ICJ) accusing Israel of committing genocide in Gaza. The Court issues provisional measures and continues examining the case.",
+      "keywords": ["icj", "international court of justice", "2024", "history", "south africa", "israel", "gaza", "genocide allegations", "international law"],
+      "arabic_keywords": ["محكمة العدل الدولية", "2024", "تاريخ", "جنوب أفريقيا", "إسرائيل", "غزة", "اتهامات إبادة جماعية", "قانون دولي"],
+      "related_knowledge_ids": ["gaza2023_007"]
+    }
+  ]

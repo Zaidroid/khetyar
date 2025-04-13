@@ -1,0 +1,211 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Earthy base - Adjusted */
+    --background: 40 30% 97%;         /* Lighter sand */
+    --foreground: 20 15% 10%;         /* Darker brown */
+
+    --card: 40 30% 100%;              /* White card */
+    --card-foreground: 20 15% 10%;
+
+    --popover: 40 30% 100%;
+    --popover-foreground: 20 15% 10%;
+
+    /* Vibrant embroidery accent - Adjusted Blue */
+    --primary: 210 45% 35%;           /* Darker, muted Blue */
+    --primary-foreground: 0 0% 100%;  /* White */
+
+    --secondary: 80 25% 42%;          /* Darker olive */
+    --secondary-foreground: 0 0% 100%; /* White */
+
+    --muted: 40 20% 90%;              /* Adjusted muted sand */
+    --muted-foreground: 20 10% 45%;
+
+    --accent: 20 55% 50%;             /* Darker terracotta */
+    --accent-foreground: 0 0% 100%;   /* White */
+
+    --destructive: 0 80% 55%;         /* Adjusted destructive */
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 40 20% 85%;             /* Adjusted muted sand border */
+    --input: 40 20% 90%;              /* Lighter input background */
+    --ring: 210 45% 35%;              /* Match new primary blue */
+
+    --radius: 0.5rem;
+
+    /* Sidebar (if used) - Adjusted */
+    --sidebar-background: 80 25% 42%;
+    --sidebar-foreground: 0 0% 100%;
+    --sidebar-primary: 210 45% 35%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 20 55% 50%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 40 20% 85%;
+    --sidebar-ring: 210 45% 35%;
+  }
+
+  .dark {
+    /* Dark earthy base - Adjusted */
+    --background: 40 10% 15%;         /* Darker olive/brown */
+    --foreground: 40 30% 97%;         /* Lighter sand */
+
+    --card: 40 10% 18%;               /* Slightly lighter card */
+    --card-foreground: 40 30% 97%;
+
+    --popover: 40 10% 18%;
+    --popover-foreground: 40 30% 97%;
+
+    /* Vibrant embroidery accent - Adjusted Blue */
+    --primary: 210 45% 45%;           /* Darker, muted Blue for dark */
+    --primary-foreground: 0 0% 100%;  /* White */
+
+    --secondary: 80 25% 45%;          /* Slightly lighter olive */
+    --secondary-foreground: 0 0% 100%; /* White */
+
+    --muted: 40 10% 25%;              /* Adjusted muted dark */
+    --muted-foreground: 40 30% 75%;
+
+    --accent: 20 60% 60%;             /* Slightly lighter terracotta */
+    --accent-foreground: 0 0% 100%;   /* White */
+
+    --destructive: 0 70% 40%;         /* Adjusted destructive */
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 40 10% 25%;             /* Adjusted muted dark border */
+    --input: 40 10% 25%;
+    --ring: 210 45% 45%;              /* Match new primary blue */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+  
+  .font-arabic {
+    font-family: 'Amiri', serif;
+    text-align: right;
+  }
+  
+  .font-english {
+    font-family: 'Merriweather', serif;
+  }
+
+  .direction-rtl {
+    direction: rtl;
+  }
+  
+  .direction-ltr {
+    direction: ltr;
+  }
+  
+  /* Palestinian embroidery pattern border */
+  .border-pattern {
+    background-image: repeating-linear-gradient(45deg, transparent, transparent 8px, var(--tw-gradient-from) 8px, var(--tw-gradient-from) 10px);
+    @apply from-khetyar-red;
+  }
+}
+
+/* Custom styling for chat bubbles */
+.chat-bubble {
+  position: relative;
+  @apply rounded-xl p-4 max-w-[80%] shadow-md;
+}
+
+.chat-bubble.user {
+  @apply bg-accent text-accent-foreground ml-auto;
+}
+
+.chat-bubble.khetyar {
+  @apply bg-primary text-primary-foreground;
+}
+
+.chat-bubble.khetyar::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: -8px;
+  width: 16px;
+  height: 16px;
+  @apply bg-primary rounded-bl-lg;
+  z-index: -1;
+}
+
+.chat-bubble.user::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: -8px;
+  width: 16px;
+  height: 16px;
+  @apply bg-accent rounded-br-lg;
+  z-index: -1;
+}
+
+/* Ensure content area is properly sized with fixed input */
+html, body {
+  @apply h-full overflow-hidden;
+}
+
+/* Fix for mobile view with fixed input */
+@media (max-width: 640px) {
+  .chat-container {
+    padding-bottom: 70px; /* Ensure space for the fixed input */
+  }
+}
+
+/* Animation for typing indicator */
+.animate-pulse-slow {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+.animate-bounce {
+  animation: bounce 1.5s infinite;
+}
+
+/* Scale animation */
+@keyframes scale {
+  0% {
+    transform: scale(0.95);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(0.95);
+  }
+}
+
+.animate-scale {
+  animation: scale 3s ease-in-out infinite;
+}
+

@@ -1,0 +1,68 @@
+[
+    {
+      "id": "gaza2023_001",
+      "topic": "Gaza Situation 2023-Present",
+      "subtopic": "Overview",
+      "keywords": ["gaza", "غزة", "conflict", "صراع", "نزاع", "2023", "2024", "israel", "إسرائيل", "hamas", "حماس", "war", "حرب", "hostilities", "أعمال عدائية", "bombardment", "قصف", "october 7", "٧ أكتوبر"],
+      "arabic_fact": "منذ أواخر عام ٢٠٢٣، شهد قطاع غزة تصعيداً عسكرياً واسع النطاق وعمليات قصف مكثفة من قبل إسرائيل، جاءت كرد على الهجوم الذي قادته حماس في ٧ أكتوبر.",
+      "english_fact": "Since late 2023, the Gaza Strip has experienced large-scale military operations and intense bombardment by Israel, following the October 7th attack led by Hamas.",
+      "persona_lens_ref": "gaza_recent_crisis_overview_lens"
+    },
+    {
+      "id": "gaza2023_002",
+      "topic": "Gaza Situation 2023-Present",
+      "subtopic": "Displacement",
+      "keywords": ["gaza", "غزة", "displacement", "نزوح", "تهجير", "population", "سكان", "refugees", "لاجئين", "idps", "نازحين داخلياً", "internal displacement", "نزوح داخلي", "shelters", "ملاجئ", "rafah", "رفح", "unsafe", "غير آمن"],
+      "arabic_fact": "أدت الحرب الإسرالئيلية إلى نزوح داخلي هائل لمعظم سكان قطاع غزة، حيث لجأ مئات الآلاف إلى ملاجئ مؤقتة، خاصة في الجنوب مثل رفح، وغالباً في ظروف تفتقر للأمان والمقومات الأساسية.",
+      "english_fact": "The Israeli war on Gaza led to massive internal displacement of the majority of Gaza's population, with hundreds of thousands seeking refuge in temporary shelters, particularly in southern areas like Rafah, often in unsafe conditions lacking basic necessities.",
+      "persona_lens_ref": "gaza_displacement_lens"
+    },
+    {
+      "id": "gaza2023_003",
+      "topic": "Gaza Situation 2023-Present",
+      "subtopic": "Infrastructure Destruction",
+      "keywords": ["gaza", "غزة", "destruction", "دمار", "هدم", "infrastructure", "بنية تحتية", "homes", "بيوت", "منازل", "hospitals", "مستشفيات", "schools", "مدارس", "unrwa", "الأونروا", "bombing", "قصف", "damage", "ضرر", "rubble", "ركام"],
+      "arabic_fact": "تسبب القصف والعمليات البرية في دمار واسع النطاق للبنية التحتية في غزة، بما في ذلك تدمير أو تضرر نسبة كبيرة جداً من المنازل والمستشفيات والمدارس ومرافق الأمم المتحدة.",
+      "english_fact": "Bombardment and ground operations have caused widespread destruction of infrastructure in Gaza, including the damage or destruction of a very high percentage of homes, hospitals, schools, and UN facilities.",
+      "persona_lens_ref": "gaza_destruction_lens"
+    },
+    {
+      "id": "gaza2023_004",
+      "topic": "Gaza Situation 2023-Present",
+      "subtopic": "Humanitarian Crisis",
+      "keywords": ["gaza", "غزة", "humanitarian crisis", "أزمة إنسانية", "food shortage", "نقص غذاء", "famine", "مجاعة", "starvation", "تجويع", "water", "مياه", "sanitation", "صرف صحي", "medical supplies", "مستلزمات طبية", "healthcare collapse", "انهيار صحي", "disease", "أمراض", "aid access", "وصول المساعدات"],
+      "arabic_fact": "تواجه غزة أزمة إنسانية كارثية، تشمل نقصاً حاداً في الغذاء (مع تحذيرات من مجاعة)، والمياه النظيفة، والصرف الصحي، والأدوية، والوقود، وانهيار النظام الصحي، وصعوبات كبيرة في إيصال المساعدات.",
+      "english_fact": "Gaza faces a catastrophic humanitarian crisis, including severe shortages of food (with warnings of famine), clean water, sanitation, medicine, fuel, the collapse of the healthcare system, and significant challenges to aid access.",
+      "persona_lens_ref": "gaza_humanitarian_lens"
+    },
+    {
+      "id": "gaza2023_005",
+      "topic": "Gaza Situation 2023-Present",
+      "subtopic": "Reported Casualties",
+      "keywords": ["gaza", "غزة", "casualties", "ضحايا", "خسائر بشرية", "deaths", "شهداء", "قتلى", "injuries", "جرحى", "civilians", "مدنيين", "children", "أطفال", "women", "نساء", "gaza health ministry", "وزارة الصحة غزة", "un reports", "تقارير الأمم المتحدة", "high numbers", "أعداد كبيرة"],
+      "arabic_fact": "أفادت وزارة الصحة في غزة ومصادر الأمم المتحدة عن سقوط عشرات الآلاف من الشهداء والجرحى الفلسطينيين نتيجة للنزاع، مع نسبة عالية جداً من الضحايا من المدنيين، بمن فيهم عدد كبير من الأطفال والنساء.",
+      "english_fact": "The Gaza Health Ministry and UN sources have reported tens of thousands of Palestinian deaths and injuries resulting from the conflict, with a very high proportion of casualties reported to be civilians, including a large number of children and women.",
+      "persona_lens_ref": "gaza_casualties_lens",
+      "detail_level": 1 
+    },
+    {
+      "id": "gaza2023_006",
+      "topic": "Gaza Situation 2023-Present",
+      "subtopic": "Impact on Children",
+      "keywords": ["gaza", "children", "casualties", "orphans", "trauma", "health", "nutrition", "education", "unicef"],
+      "arabic_fact": "كان للأطفال في غزة تأثراً مدمراً بشكل خاص، حيث شكلوا نسبة كبيرة من الضحايا، وفقد الكثيرون عائلاتهم وبيوتهم، ويعانون من صدمات نفسية حادة ونقص التغذية والرعاية الصحية والتعليم.",
+      "english_fact": "Children in Gaza have been disproportionately affected, reportedly constituting a large percentage of casualties, with many losing families and homes, suffering acute trauma, malnutrition, and lack of healthcare and education.",
+      "persona_lens_ref": "gaza_children_impact_lens", 
+      "related_ids": ["gaza2023_005"],
+      "detail_level": 2 
+    },
+    {
+      "id": "gaza2023_007",
+      "topic": "Gaza Situation 2023-Present",
+      "subtopic": "International Response & Legal Context",
+      "keywords": ["gaza", "international response", "un", "ceasefire calls", "humanitarian aid", "icj", "international court of justice", "south africa", "genocide allegations", "war crimes"],
+      "arabic_fact": "كانت هناك دعوات دولية متكررة لوقف إطلاق النار وإيصال المساعدات الإنسانية دون عوائق. كما تنظر محكمة العدل الدولية في قضية رفعتها جنوب إفريقيا تتهم فيها إسرائيل بارتكاب إبادة جماعية، بينما تتزايد الدعوات للتحقيق في جرائم حرب محتملة.",
+      "english_fact": "There have been repeated international calls for ceasefires and unimpeded humanitarian aid access. The International Court of Justice (ICJ) is considering a case brought by South Africa alleging genocide by Israel, while calls increase for investigations into potential war crimes.",
+      "persona_lens_ref": "gaza_international_legal_lens" 
+    }
+  ]

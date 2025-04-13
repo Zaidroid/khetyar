@@ -1,0 +1,74 @@
+[
+  {
+    "question": {
+      "arabic": "متى وقعت النكبة الفلسطينية، التي أدت إلى تهجير جماعي للفلسطينيين؟",
+      "english": "In which year did the Palestinian Nakba, leading to mass displacement, occur?"
+    },
+    "options": [
+      { "arabic": "١٩١٧", "english": "1917" },
+      { "arabic": "١٩٤٨", "english": "1948" },
+      { "arabic": "١٩٦٧", "english": "1967" },
+      { "arabic": "١٩٨٧", "english": "1987" }
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": {
+      "arabic": "النكبة ('الكارثة') وقعت عام ١٩٤٨، وهو عام تأسيس دولة إسرائيل وما رافقه من تهجير لأكثر من ٧٥٠ ألف فلسطيني.",
+      "english": "The Nakba ('Catastrophe') occurred in 1948, the year of Israel's establishment and the accompanying displacement of over 750,000 Palestinians."
+    },
+    "topicId": "history"
+  },
+  {
+    "question": {
+      "arabic": "ما هو الاسم الذي يطلق على حرب عام ١٩٦٧ في الذاكرة الفلسطينية؟",
+      "english": "What name is given to the 1967 war in Palestinian memory?"
+    },
+    "options": [
+      { "arabic": "النكبة", "english": "Nakba (Catastrophe)" },
+      { "arabic": "الانتفاضة", "english": "Intifada (Uprising)" },
+      { "arabic": "النكسة", "english": "Naksa (Setback)" },
+      { "arabic": "الثورة", "english": "Thawra (Revolution)" }
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": {
+      "arabic": "تُعرف حرب ١٩٦٧ بـ 'النكسة'، وتعني الانتكاسة، حيث أدت إلى احتلال إسرائيل للضفة الغربية وقطاع غزة والقدس الشرقية.",
+      "english": "The 1967 war is known as the 'Naksa', meaning Setback, as it resulted in Israel's occupation of the West Bank, Gaza Strip, and East Jerusalem."
+    },
+    "topicId": "history"
+  },
+  {
+    "question": {
+      "arabic": "ما هو قرار الأمم المتحدة الذي يؤكد على حق اللاجئين الفلسطينيين في العودة؟",
+      "english": "Which UN resolution affirms the right of return for Palestinian refugees?"
+    },
+    "options": [
+      { "arabic": "قرار ١٨١", "english": "Resolution 181" },
+      { "arabic": "قرار ١٩٤", "english": "Resolution 194" },
+      { "arabic": "قرار ٢٤٢", "english": "Resolution 242" },
+      { "arabic": "قرار ٣٣٨", "english": "Resolution 338" }
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": {
+      "arabic": "قرار الجمعية العامة للأمم المتحدة رقم ١٩٤، الصادر عام ١٩٤٨، ينص على أن اللاجئين الراغبين في العودة إلى ديارهم والعيش بسلام مع جيرانهم يجب أن يسمح لهم بذلك.",
+      "english": "UN General Assembly Resolution 194, passed in 1948, states that refugees wishing to return to their homes and live at peace should be permitted to do so."
+    },
+    "topicId": "history"
+  },
+  {
+    "question": {
+      "arabic": "متى بدأت الانتفاضة الفلسطينية الأولى؟",
+      "english": "When did the First Palestinian Intifada begin?"
+    },
+    "options": [
+      { "arabic": "١٩٤٨", "english": "1948" },
+      { "arabic": "١٩٦٧", "english": "1967" },
+      { "arabic": "١٩٨٧", "english": "1987" },
+      { "arabic": "٢٠٠٠", "english": "2000" }
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": {
+      "arabic": "بدأت الانتفاضة الأولى، وهي انتفاضة شعبية ضد الاحتلال الإسرائيلي، في ديسمبر ١٩٨٧.",
+      "english": "The First Intifada, a popular uprising against the Israeli occupation, began in December 1987."
+    },
+    "topicId": "history"
+  }
+]

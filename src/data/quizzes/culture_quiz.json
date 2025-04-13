@@ -1,0 +1,74 @@
+[
+  {
+    "question": {
+      "arabic": "ما هو اسم التطريز الفلسطيني التقليدي الذي يزين الأثواب النسائية؟",
+      "english": "What is the name of the traditional Palestinian embroidery that adorns women's dresses?"
+    },
+    "options": [
+      { "arabic": "كوفية", "english": "Kufiyah" },
+      { "arabic": "دبكة", "english": "Dabke" },
+      { "arabic": "تطريز", "english": "Tatreez" },
+      { "arabic": "حناء", "english": "Henna" }
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": {
+      "arabic": "التطريز هو فن التطريز اليدوي الغني بالأنماط والألوان التي تمثل الهوية والمناطق الفلسطينية المختلفة.",
+      "english": "Tatreez is the art of hand embroidery rich in patterns and colors representing Palestinian identity and regions."
+    },
+    "topicId": "culture"
+  },
+  {
+    "question": {
+      "arabic": "ما اسم الرقصة الشعبية الفلسطينية الجماعية التي تؤدى في الأفراح؟",
+      "english": "What is the name of the collective Palestinian folk dance performed at weddings?"
+    },
+    "options": [
+      { "arabic": "ميجانا", "english": "Mijana" },
+      { "arabic": "عتابا", "english": "Ataba" },
+      { "arabic": "موال", "english": "Mawwal" },
+      { "arabic": "دبكة", "english": "Dabke" }
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": {
+      "arabic": "الدبكة هي رقصة خط حيوية تتميز بضربات الأقدام الإيقاعية وتعبر عن الوحدة والفرح المجتمعي.",
+      "english": "Dabke is a lively line dance characterized by rhythmic foot-stomping, expressing community unity and joy."
+    },
+    "topicId": "culture"
+  },
+  {
+    "question": {
+      "arabic": "ما هو المفهوم الثقافي الذي يعني 'الصمود' أو 'الثبات' في وجه الصعاب؟",
+      "english": "What cultural concept means 'steadfastness' or 'resilience' in the face of hardship?"
+    },
+    "options": [
+      { "arabic": "كرم", "english": "Karam (Generosity)" },
+      { "arabic": "صمود", "english": "Sumud (Steadfastness)" },
+      { "arabic": "عونة", "english": "Aouna (Mutual aid)" },
+      { "arabic": "بركة", "english": "Baraka (Blessing)" }
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": {
+      "arabic": "الصمود هو مبدأ ثقافي وسياسي مهم يؤكد على البقاء والتجذر في الأرض والمحافظة على الهوية رغم التحديات.",
+      "english": "Sumud is an important cultural and political principle emphasizing staying rooted on the land and maintaining identity despite challenges."
+    },
+    "topicId": "culture"
+  },
+  {
+    "question": {
+      "arabic": "ما هو الاسم التقليدي للراوي الذي كان يقص الحكايات في المقاهي؟",
+      "english": "What was the traditional name for the storyteller who narrated tales in coffee houses?"
+    },
+    "options": [
+      { "arabic": "الشاعر", "english": "Al-Sha'er (The Poet)" },
+      { "arabic": "المغني", "english": "Al-Mughanni (The Singer)" },
+      { "arabic": "الحكواتي", "english": "Al-Hakawati (The Storyteller)" },
+      { "arabic": "الفلاح", "english": "Al-Fellah (The Farmer)" }
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": {
+      "arabic": "الحكواتي كان شخصية مهمة في الحفاظ على التراث الشفهي من خلال رواية القصص الشعبية والتاريخية.",
+      "english": "The Hakawati was an important figure in preserving oral heritage by narrating folk tales and histories."
+    },
+    "topicId": "culture"
+  }
+]

@@ -1,0 +1,80 @@
+[
+    {
+      "id": "heritage001",
+      "topic": "Heritage",
+      "subtopic": "Thobe Details",
+      "keywords": ["heritage", "تراث", "clothing", "ملابس", "زي", "thobe", "ثوب", "tatreez", "تطريز", "embroidery", "dress", "فستان", "women", "نساء", "regional", "مناطق", "identity", "هوية", "colors", "ألوان", "fabric", "قماش", "status", "حالة اجتماعية"],
+      "arabic_fact": "الثوب الفلسطيني التقليدي يختلف تطريزه وقماشه وألوانه حسب المنطقة (الخليل، رام الله، بيت لحم، غزة، الساحل، الجليل). كان يعكس الحالة الاجتماعية للمرأة (متزوجة، عزباء) وقريتها.",
+      "english_fact": "The traditional Palestinian Thobe varies in embroidery (Tatreez), fabric, and color by region (Hebron, Ramallah, Bethlehem, Gaza, Coast, Galilee). It historically reflected a woman's social status (married, unmarried) and village.",
+      "persona_lens_ref": "thobe_details_lens",
+      "related_ids": ["cult002", "cult012"]
+    },
+    {
+      "id": "heritage002",
+      "topic": "Heritage",
+      "subtopic": "Kufiyah Details",
+      "keywords": ["heritage", "تراث", "clothing", "ملابس", "زي", "kufiyah", "keffiyeh", "كوفية", "حطة", "headscarf", "غطاء رأس", "men", "رجال", "symbol", "رمز", "patterns", "نقشة", "colors", "ألوان", "black and white", "أبيض وأسود", "red and white", "أبيض وأحمر", "resistance", "مقاومة", "arafat", "عرفات"],
+      "arabic_fact": "الكوفية (الكوفية أو الحطة) غطاء رأس تقليدي للرجال، أصبحت رمزاً وطنياً فلسطينياً عالمياً. النقشة الشائعة (شبكة صيد وورق زيتون) والألوان (أبيض وأسود، أو أبيض وأحمر) لها دلالات رمزية.",
+      "english_fact": "The Kufiyah (Keffiyeh or Hatta) is a traditional men's headscarf that became a global Palestinian national symbol. The common pattern (fishnet, olive leaves) and colors (black & white, or red & white) hold symbolic meaning.",
+      "persona_lens_ref": "kufiyah_details_lens",
+      "related_ids": ["fig005"]
+    },
+    {
+      "id": "heritage003",
+      "topic": "Heritage",
+      "subtopic": "Hebron Glassmaking",
+      "keywords": ["heritage", "تراث", "crafts", "حرف يدوية", "hebron", "الخليل", "glass", "زجاج", "glassblowing", "نفخ الزجاج", "traditional", "تقليدي", "phoenician", "فينيقي", "colors", "ألوان", "blue", "أزرق", "green", "أخضر", "sand", "رمل", "soda ash", "رماد الصودا"],
+      "arabic_fact": "تشتهر الخليل بصناعة الزجاج النفخ اليدوي التقليدي منذ قرون، ربما يعود للفينيقيين. تستخدم رمل محلي ورماد الصودا، وتشتهر باللون الأزرق والأخضر المميز.",
+      "english_fact": "Hebron is famous for traditional hand-blown glassmaking, a craft dating back centuries, possibly to Phoenician times. It uses local sand, soda ash, and is known for distinctive blue and green colors.",
+      "persona_lens_ref": "hebron_glass_lens",
+      "related_ids": ["geo003", "art012"]
+    },
+    {
+      "id": "heritage004",
+      "topic": "Heritage",
+      "subtopic": "Nablus Soap",
+      "keywords": ["heritage", "تراث", "crafts", "حرف يدوية", "nablus", "نابلس", "soap", "صابون", "sabon", "olive oil", "زيت زيتون", "traditional", "تقليدي", "natural", "طبيعي", "ingredients", "مكونات", "history", "تاريخ"],
+      "arabic_fact": "الصابون النابلسي (صابون) هو صابون تقليدي مشهور مصنوع من زيت الزيتون البكر، الصودا الكاوية، والماء فقط. صناعته قديمة في نابلس ويعتبر طبيعياً ومفيداً للبشرة.",
+      "english_fact": "Nabulsi soap (sabon) is famous traditional soap made purely from virgin olive oil, caustic soda, and water. Its production in Nablus is ancient; it's considered natural and beneficial for skin.",
+      "persona_lens_ref": "nablus_soap_lens",
+      "related_ids": ["geo004", "art012"]
+    },
+    {
+      "id": "heritage005",
+      "topic": "Heritage",
+      "subtopic": "Olive Wood Carving",
+      "keywords": ["heritage", "تراث", "crafts", "حرف يدوية", "olive wood", "خشب زيتون", "carving", "نحت", "bethlehem", "بيت لحم", "traditional", "تقليدي", "religious items", "تحف دينية", "souvenirs", "تذكارات", "wood grain", "عروق الخشب"],
+      "arabic_fact": "نحت خشب الزيتون، خاصة في منطقة بيت لحم، هو حرفة تقليدية تنتج منحوتات دينية وتذكارات وتحف منزلية، مستفيدة من جمال عروق خشب الزيتون القديم.",
+      "english_fact": "Olive wood carving, especially around Bethlehem, is a traditional craft producing religious figures, souvenirs, and household items, utilizing the beautiful grain of aged olive wood.",
+      "persona_lens_ref": "olive_wood_lens",
+      "related_ids": ["geo006", "geo009", "art012"]
+    },
+    {
+      "id": "heritage006",
+      "topic": "Heritage",
+      "subtopic": "Festivals - Eid",
+      "keywords": ["heritage", "تراث", "festivals", "أعياد", "celebrations", "احتفالات", "eid al-fitr", "عيد الفطر", "eid al-adha", "عيد الأضحى", "islamic", "إسلامي", "family visits", "زيارات عائلية", "new clothes", "ملابس جديدة", "sweets", "حلويات", "kaak", "كعك", "maamoul", "معمول", "eidiyeh", "عيدية"],
+      "arabic_fact": "عيد الفطر وعيد الأضحى هما أهم الأعياد الإسلامية. تشمل التقاليد صلاة العيد، زيارة الأقارب، ارتداء ملابس جديدة، صنع كعك العيد والمعمول، وإعطاء العيدية للأطفال.",
+      "english_fact": "Eid al-Fitr and Eid al-Adha are major Islamic holidays. Traditions include Eid prayer, visiting relatives, wearing new clothes, baking special sweets (ka'ak, ma'amoul), and giving children money (Eidiyeh).",
+      "persona_lens_ref": "eid_traditions_lens"
+    },
+    {
+      "id": "heritage007",
+      "topic": "Heritage",
+      "subtopic": "Wedding Customs",
+      "keywords": ["heritage", "تراث", "celebrations", "احتفالات", "wedding", "عرس", "زفاف", "marriage", "زواج", "customs", "عادات", "engagement", "خطوبة", "khutbeh", "henna", "حناء", "zaffeh", "زفة", "dabke", "دبكة", "mahr", "مهر", "feast", "وليمة"],
+      "arabic_fact": "تتضمن الأعراس الفلسطينية التقليدية مراحل عديدة: الخطبة، ليلة الحناء للعريس والعروس، الزفة الصاخبة بالدبكة والأغاني، ووليمة العرس. المهر جزء أساسي من الاتفاق.",
+      "english_fact": "Traditional Palestinian weddings involve stages: engagement (khutbeh), henna night for bride and groom, the lively procession (zaffeh) with dabke and songs, and the wedding feast (walima). The Mahr (dowry) is key.",
+      "persona_lens_ref": "wedding_customs_lens",
+      "related_ids": ["cult003"]
+    },
+    {
+      "id": "heritage008",
+      "topic": "Heritage",
+      "subtopic": "Traditional Architecture",
+      "keywords": ["heritage", "تراث", "architecture", "عمارة", "بناء", "housing", "سكن", "traditional", "تقليدي", "stone", "حجر", "arches", "أقواس", "عقود", "courtyard", "فناء", "hosh", "حوش", "dome", "قبة", "cross-vault", "عقد متقاطع", "climate adaptation", "تكيف مناخي"],
+      "arabic_fact": "تتميز البيوت الفلسطينية التقليدية بالحجر السميك، العقود والأقواس (العقد المتقاطع)، السقوف المقببة أحياناً، والفناء الداخلي (الحوش) الذي يوفر الخصوصية ويتكيف مع المناخ.",
+      "english_fact": "Traditional Palestinian homes feature thick stone walls, arches and cross-vaults, sometimes domed roofs, and central courtyards (hosh) providing privacy and climate adaptation.",
+      "persona_lens_ref": "old_house_lens"
+    }
+  ]

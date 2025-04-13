@@ -1,0 +1,68 @@
+[
+    {
+      "id": "diaspora001",
+      "topic": "Diaspora",
+      "subtopic": "Definition & Scale",
+      "keywords": ["diaspora", "شتات", "shatat", "refugees", "لاجئين", "exile", "منفى", "nakba", "النكبة", "naksa", "النكسة", "majority", "غالبية", "outside palestine", "خارج فلسطين"],
+      "arabic_fact": "يشكل الفلسطينيون في الشتات (الشَتات) غالبية الشعب الفلسطيني، وهم أولئك الذين يعيشون خارج فلسطين التاريخية، معظمهم كلاجئين أو أحفاد لاجئين نتيجة النكبة والنكسة.",
+      "english_fact": "The Palestinian diaspora ('Shatat') constitutes the majority of the Palestinian people, living outside historic Palestine, mostly as refugees or their descendants resulting from the Nakba and Naksa.",
+      "persona_lens_ref": "diaspora_definition_lens",
+      "related_ids": ["hist002", "hist004", "nakba005"]
+    },
+    {
+      "id": "diaspora002",
+      "topic": "Diaspora",
+      "subtopic": "Major Communities",
+      "keywords": ["diaspora", "شتات", "communities", "جاليات", "jordan", "الأردن", "lebanon", "لبنان", "syria", "سوريا", "camps", "مخيمات", "chile", "تشيلي", "usa", "أمريكا", "gulf", "الخليج", "europe", "أوروبا", "latin america", "أمريكا اللاتينية"],
+      "arabic_fact": "توجد أكبر تجمعات الشتات الفلسطيني في الدول العربية المجاورة (الأردن، لبنان، سوريا)، مع وجود جاليات كبيرة أيضاً في تشيلي، الولايات المتحدة، دول الخليج، وأوروبا.",
+      "english_fact": "The largest Palestinian diaspora communities are in neighboring Arab states (Jordan, Lebanon, Syria), with significant populations also in Chile, the USA, Gulf countries, and Europe.",
+      "persona_lens_ref": "diaspora_locations_lens"
+    },
+    {
+      "id": "diaspora003",
+      "topic": "Diaspora",
+      "subtopic": "Life in Arab Host Countries",
+      "keywords": ["diaspora", "شتات", "jordan", "الأردن", "lebanon", "لبنان", "syria", "سوريا", "camps", "مخيمات", "rights", "حقوق", "citizenship", "جنسية", "restrictions", "قيود", "variation", "اختلاف"],
+      "arabic_fact": "تختلف أوضاع الفلسطينيين في الدول المضيفة: فالأردن منح الجنسية للكثيرين، بينما يواجهون في لبنان قيوداً قانونية واقتصادية كبيرة، وفي سوريا تأثروا بالصراع الأخير.",
+      "english_fact": "Conditions vary in host countries: Jordan granted citizenship to many, while in Lebanon Palestinians face significant legal/economic restrictions. In Syria, the recent conflict heavily impacted them.",
+      "persona_lens_ref": "diaspora_arab_countries_lens",
+      "related_ids": ["hist009"]
+    },
+    {
+      "id": "diaspora004",
+      "topic": "Diaspora",
+      "subtopic": "Challenges - Identity & Culture",
+      "keywords": ["diaspora", "شتات", "challenges", "تحديات", "identity", "هوية", "culture", "ثقافة", "language", "لغة", "heritage", "تراث", "generations", "أجيال", "assimilation", "اندماج", "preservation", "حفاظ", "youth", "شباب"],
+      "arabic_fact": "يواجه الفلسطينيون في الشتات تحدي الحفاظ على هويتهم ولغتهم وثقافتهم عبر الأجيال، خاصة مع اندماج الشباب في مجتمعاتهم الجديدة.",
+      "english_fact": "Palestinians in diaspora face the challenge of maintaining their identity, language, and culture across generations, especially as youth integrate into new societies.",
+      "persona_lens_ref": "diaspora_identity_lens"
+    },
+    {
+      "id": "diaspora005",
+      "topic": "Diaspora",
+      "subtopic": "Challenges - Legal Status & Rights",
+      "keywords": ["diaspora", "شتات", "challenges", "تحديات", "legal status", "وضع قانوني", "rights", "حقوق", "statelessness", "انعدام الجنسية", "refugee documents", "وثائق سفر اللاجئين", "travel", "سفر", "discrimination", "تمييز", "unrwa", "الأونروا"],
+      "arabic_fact": "يعاني الكثيرون في الشتات من مشاكل تتعلق بالوضع القانوني، بما في ذلك انعدام الجنسية، وصعوبة السفر بوثائق اللاجئين، وأحياناً التمييز في بلد الإقامة.",
+      "english_fact": "Many in the diaspora struggle with legal status issues, including statelessness, difficulty traveling with refugee documents, and sometimes discrimination in their country of residence.",
+      "persona_lens_ref": "diaspora_legal_lens",
+      "related_ids": ["nakba005"]
+    },
+    {
+      "id": "diaspora006",
+      "topic": "Diaspora",
+      "subtopic": "Connection to Homeland",
+      "keywords": ["diaspora", "شتات", "connection", "ارتباط", "homeland", "وطن", "palestine", "فلسطين", "remittances", "تحويلات مالية", "visits", "زيارات", "politics", "سياسة", "advocacy", "مناصرة", "online", "انترنت", "longing", "حنين", "sumud", "صمود"],
+      "arabic_fact": "يحافظ الشتات على روابط قوية بالوطن من خلال التحويلات المالية، الزيارات (إن أمكن)، النشاط السياسي، دعم الصمود، والمجتمعات الافتراضية عبر الإنترنت.",
+      "english_fact": "The diaspora maintains strong ties to the homeland through remittances, visits (when possible), political advocacy, supporting sumud, and online communities.",
+      "persona_lens_ref": "diaspora_connection_lens"
+    },
+    {
+      "id": "diaspora007",
+      "topic": "Diaspora",
+      "subtopic": "Generational Differences",
+      "keywords": ["diaspora", "شتات", "generations", "أجيال", "first generation", "الجيل الأول", "nakba survivors", "ناجو النكبة", "born in exile", "مولود في المنفى", "memory", "ذاكرة", "experience", "تجربة", "identity negotiation", "تفاوض الهوية"],
+      "arabic_fact": "تختلف تجربة الجيل الأول الذي عاش النكبة عن تجربة الأجيال التي ولدت في المنفى، حيث تتشكل الذاكرة والهوية بشكل مختلف مع مرور الوقت.",
+      "english_fact": "The experience of the first generation who lived the Nakba differs from generations born in exile, with memory and identity negotiated differently over time.",
+      "persona_lens_ref": "diaspora_generations_lens"
+    }
+  ]

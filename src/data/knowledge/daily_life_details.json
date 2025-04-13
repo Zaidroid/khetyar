@@ -1,0 +1,87 @@
+[
+    {
+      "id": "daily001",
+      "topic": "Daily Life",
+      "subtopic": "Morning Routine",
+      "keywords": ["daily life", "حياة يومية", "routine", "روتين", "morning", "صباح", "coffee", "قهوة", "qahwa", "fajr", "فجر", "prayer", "صلاة", "breakfast", "فطور", "zeit", "زيت", "zaatar", "زعتر"],
+      "arabic_fact": "يبدأ اليوم عادةً مع صلاة الفجر، يتبعها فنجان قهوة (قهوة سادة غالباً) وفطور بسيط من الخبز والزيت والزعتر أو اللبنة.",
+      "english_fact": "The day often starts with Fajr prayer, followed by coffee (often bitter 'qahwa sada') and a simple breakfast of bread, olive oil ('zeit'), za'atar, or labneh.",
+      "persona_lens_ref": "daily_morning_lens"
+    },
+    {
+      "id": "daily002",
+      "topic": "Daily Life",
+      "subtopic": "Work & School Day",
+      "keywords": ["daily life", "حياة يومية", "work", "عمل", "شغل", "school", "مدرسة", "routine", "روتين", "occupation impact", "تأثير الاحتلال", "challenges", "تحديات", "checkpoints", "حواجز", "economy", "اقتصاد"],
+      "arabic_fact": "الحياة العملية والمدرسية تتأثر بتقلبات الوضع والاحتلال. الذهاب للعمل أو المدرسة قد يتضمن تأخيرات عند الحواجز، والفرص الاقتصادية محدودة.",
+      "english_fact": "Work and school life are often affected by the situation and occupation. Commutes can involve checkpoint delays, and economic opportunities can be limited.",
+      "persona_lens_ref": "daily_work_school_lens",
+      "related_ids": ["hist010"]
+    },
+    {
+      "id": "daily003",
+      "topic": "Daily Life",
+      "subtopic": "Evening & Family Time",
+      "keywords": ["daily life", "حياة يومية", "evening", "مساء", "family", "عائلة", "أهل", "gathering", "جمعة", "لمة", "dinner", "عشاء", "stories", "قصص", "television", "تلفزيون", "community", "مجتمع"],
+      "arabic_fact": "المساء هو وقت للعائلة عادةً، يجتمعون لتناول العشاء، مشاهدة التلفاز، تبادل الأحاديث والأخبار، وسماع قصص الكبار.",
+      "english_fact": "Evenings are typically family time, gathering for dinner, watching television, sharing conversation and news, and listening to elders' stories.",
+      "persona_lens_ref": "daily_evening_lens",
+      "related_ids": ["cult005"]
+    },
+    {
+      "id": "daily004",
+      "topic": "Daily Life",
+      "subtopic": "Market Life (Souk)",
+      "keywords": ["daily life", "حياة يومية", "market", "سوق", "shopping", "تسوق", "vendors", "باعة", "bargaining", "مفاصلة", "spices", "بهارات", "vegetables", "خضار", "atmosphere", "جو"],
+      "arabic_fact": "الأسواق التقليدية (السوق) نابضة بالحياة، مليئة بروائح التوابل والخضروات الطازجة وأصوات الباعة والناس. المساومة جزء من ثقافة البيع والشراء.",
+      "english_fact": "Traditional markets (souks) are vibrant, filled with smells of spices, fresh produce, and the sounds of vendors and shoppers. Bargaining is part of the culture.",
+      "persona_lens_ref": "market_scene_lens"
+    },
+    {
+      "id": "daily005",
+      "topic": "Daily Life",
+      "subtopic": "Transportation Challenges",
+      "keywords": ["daily life", "حياة يومية", "transportation", "مواصلات", "نقل", "movement", "تنقل", "checkpoints", "حواجز", "service taxi", "سرفيس", "buses", "باصات", "restrictions", "قيود", "permits", "تصاريح", "delays", "تأخير"],
+      "arabic_fact": "التنقل بين المدن والقرى يعتمد كثيراً على سيارات الأجرة العمومية (السرفيس) والحافلات، ويواجه صعوبات بسبب الحواجز ونظام التصاريح والطرق الالتفافية.",
+      "english_fact": "Travel between cities/villages often relies on shared 'service' taxis and buses, facing difficulties due to checkpoints, the permit system, and bypass roads.",
+      "persona_lens_ref": "transport_challenges_lens",
+      "related_ids": ["hist010", "hist012"]
+    },
+    {
+      "id": "daily006",
+      "topic": "Daily Life",
+      "subtopic": "Utility Challenges",
+      "keywords": ["daily life", "حياة يومية", "utilities", "خدمات", "water shortage", "نقص مياه", "electricity cuts", "انقطاع كهرباء", "generators", "مولدات", "water tanks", "خزانات مياه", "infrastructure", "بنية تحتية", "gaza siege", "حصار غزة"],
+      "arabic_fact": "نقص المياه وانقطاع الكهرباء مشكلة شائعة في العديد من المناطق، مما يجبر الناس على الاعتماد على خزانات المياه والمولدات الكهربائية. الوضع حاد بشكل خاص في غزة بسبب الحصار.",
+      "english_fact": "Water shortages and electricity cuts are common issues in many areas, forcing reliance on water tanks and generators. The situation is particularly acute in Gaza due to the blockade.",
+      "persona_lens_ref": "utility_challenges_lens",
+      "related_ids": ["geo014", "gaza2023_004"]
+    },
+    {
+      "id": "daily007",
+      "topic": "Daily Life",
+      "subtopic": "Simple Joys & Leisure",
+      "keywords": ["daily life", "حياة يومية", "leisure", "ترفيه", "joy", "فرح", "gardening", "زراعة منزلية", "balcony", "شرفة", "seasonal changes", "تغير الفصول", "rain", "مطر", "blossoms", "زهر", "neighborhood", "حارة", "games", "ألعاب"],
+      "arabic_fact": "رغم الصعوبات، يجد الناس أفراحاً بسيطة: زراعة النعناع والحبق على الشرفات، فرحة أول المطر، تفتح اللوز، جلسات الجيران، لعب الأطفال في الحارة.",
+      "english_fact": "Despite hardships, people find simple joys: growing mint/basil on balconies, the first rain, almond blossoms, chatting with neighbors, children playing in the alleyways.",
+      "persona_lens_ref": "simple_joys_lens"
+    },
+    {
+      "id": "daily008",
+      "topic": "Daily Life",
+      "subtopic": "Education System Value",
+      "keywords": ["daily life", "حياة يومية", "education", "تعليم", "schools", "مدارس", "universities", "جامعات", "unrwa", "الأونروا", "pa", "السلطة", "value", "قيمة", "challenges", "تحديات", "access", "وصول", "future", "مستقبل"],
+      "arabic_fact": "يولي الفلسطينيون قيمة عالية جداً للتعليم كسبيل للمستقبل، رغم التحديات التي تواجه المدارس (التابعة للسلطة أو الأونروا أو الخاصة) والجامعات من حيث الموارد والوصول.",
+      "english_fact": "Palestinians place a very high value on education as a path to the future, despite challenges faced by schools (PA, UNRWA, private) and universities regarding resources and access.",
+      "persona_lens_ref": "education_value_lens"
+    },
+    {
+      "id": "daily009",
+      "topic": "Daily Life",
+      "subtopic": "Healthcare System Challenges",
+      "keywords": ["daily life", "حياة يومية", "healthcare", "صحة", "رعاية صحية", "hospitals", "مستشفيات", "clinics", "عيادات", "access", "وصول", "permits", "تصاريح", "costs", "تكاليف", "specialized care", "رعاية متخصصة", "occupation impact", "تأثير الاحتلال"],
+      "arabic_fact": "يعاني النظام الصحي من ضغوط بسبب نقص الموارد وصعوبة الوصول للرعاية المتخصصة (بسبب التصاريح والتكاليف والحواجز)، خاصة خارج المدن الرئيسية.",
+      "english_fact": "The healthcare system faces strains due to resource shortages and difficulty accessing specialized care (due to permits, costs, checkpoints), especially outside major cities.",
+      "persona_lens_ref": "healthcare_challenges_lens"
+    }
+  ]

@@ -1,0 +1,74 @@
+[
+    {
+      "question": {
+        "arabic": "ما هو الطبق الفلسطيني الذي يتكون من دجاج بالبصل والسماق على خبز الطابون؟",
+        "english": "What Palestinian dish consists of chicken with onions and sumac on Taboon bread?"
+      },
+      "options": [
+        { "arabic": "مقلوبة", "english": "Maqloubeh" },
+        { "arabic": "فتة", "english": "Fatteh" },
+        { "arabic": "مسخن", "english": "Musakhan" },
+        { "arabic": "قدرة", "english": "Qidreh" }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": {
+        "arabic": "المسخن هو طبق فلسطيني شهير، خاصة في موسم الزيتون، ويعتبر الطبق الوطني غير الرسمي.",
+        "english": "Musakhan is a famous Palestinian dish, especially during olive season, considered the unofficial national dish."
+      },
+      "topicId": "food"
+    },
+    {
+      "question": {
+        "arabic": "أي مدينة فلسطينية تشتهر بصناعة حلوى الكنافة بالجبنة؟",
+        "english": "Which Palestinian city is most famous for producing Knafeh dessert with cheese?"
+      },
+      "options": [
+        { "arabic": "القدس", "english": "Jerusalem" },
+        { "arabic": "غزة", "english": "Gaza" },
+        { "arabic": "الخليل", "english": "Hebron" },
+        { "arabic": "نابلس", "english": "Nablus" }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": {
+        "arabic": "تشتهر نابلس بشكل خاص بالكنافة النابلسية، ذات الجبنة البيضاء الحلوة والطبقة البرتقالية.",
+        "english": "Nablus is particularly famous for Nabulsi Knafeh, with its sweet white cheese and distinct orange topping."
+      },
+      "topicId": "food"
+    },
+    {
+      "question": {
+        "arabic": "ما هو الاسم العربي لخليط الزعتر والسماق والسمسم الذي يؤكل عادة مع الزيت والخبز؟",
+        "english": "What is the Arabic name for the thyme, sumac, and sesame mixture commonly eaten with oil and bread?"
+      },
+      "options": [
+        { "arabic": "دقة", "english": "Dukka" },
+        { "arabic": "زعتر", "english": "Za'atar" },
+        { "arabic": "كمون", "english": "Kamoun (Cumin)" },
+        { "arabic": "بهار", "english": "Bahar (Spice Mix)" }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": {
+        "arabic": "الزعتر هو خليط توابل أساسي ومحبوب في المطبخ الفلسطيني، ويشير أيضاً إلى نبتة الزعتر البري نفسها.",
+        "english": "Za'atar is a staple and beloved spice mix in Palestinian cuisine, also referring to the wild thyme plant itself."
+      },
+      "topicId": "food"
+    },
+    {
+      "question": {
+        "arabic": "ما هو اسم أوراق العنب المحشوة بالأرز واللحم أو الخضار؟",
+        "english": "What is the name for vine leaves stuffed with rice and meat or vegetables?"
+      },
+      "options": [
+        { "arabic": "كبة", "english": "Kibbeh" },
+        { "arabic": "ورق دوالي / ورق عنب", "english": "Waraq Dawali / Waraq Enab" },
+        { "arabic": "شيشبرك", "english": "Shishbarak" },
+        { "arabic": "محشي", "english": "Mahshi" }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": {
+        "arabic": "ورق الدوالي (أو ورق العنب) هو طبق شائع في العديد من مطابخ شرق المتوسط، بما في ذلك فلسطين.",
+        "english": "Waraq Dawali (or Waraq Enab - vine leaves) is a common dish across many Eastern Mediterranean cuisines, including Palestine."
+      },
+      "topicId": "food"
+    }
+  ]

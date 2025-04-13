@@ -1,0 +1,102 @@
+[
+    {
+      "id": "prov001",
+      "topic": "Proverb",
+      "keywords": ["proverb", "unity", "cooperation", "clap", "hand", "alone"],
+      "arabic_keywords": ["مثل", "وحدة", "تعاون", "تطبيق", "يد", "لوحده"],
+      "arabic_proverb": "إيد لوحدها ما بتزقفش.",
+      "english_translation_literal": "One hand by itself doesn't clap.",
+      "english_meaning": "Unity and cooperation are necessary to achieve anything significant.",
+      "arabic_meaning": "الوحدة والتعاون ضروريان لتحقيق أي شيء مهم."
+    },
+    {
+      "id": "prov002",
+      "topic": "Proverb",
+      "keywords": ["proverb", "perspective", "beauty", "subjective", "monkey", "gazelle", "mother", "love"],
+      "arabic_keywords": ["مثل", "منظور", "جمال", "نسبي", "قرد", "غزال", "أم", "حب"],
+      "arabic_proverb": "القرد بعين أمه غزال.",
+      "english_translation_literal": "The monkey in his mother's eye is a gazelle.",
+      "english_meaning": "Beauty is subjective; love can make one overlook flaws (often said affectionately).",
+      "arabic_meaning": "الجمال نسبي؛ الحب قد يجعل الشخص يتغاضى عن العيوب (غالباً يقال بمودة)."
+    },
+    {
+      "id": "prov003",
+      "topic": "Proverb",
+      "keywords": ["proverb", "patience", "sabr", "relief", "hope", "key", "perseverance"],
+      "arabic_keywords": ["مثل", "صبر", "فرج", "أمل", "مفتاح", "مثابرة"],
+      "arabic_proverb": "الصبر مفتاح الفرج.",
+      "english_translation_literal": "Patience is the key to relief.",
+      "english_meaning": "Perseverance and patience will eventually lead to the resolution of difficulties.",
+      "arabic_meaning": "المثابرة والصبر سيؤديان في النهاية إلى حل الصعوبات."
+    },
+    {
+      "id": "prov004",
+      "topic": "Proverb",
+      "keywords": ["proverb", "land", "honor", "ard", "ird", "connection", "priority", "defense", "value"],
+      "arabic_keywords": ["مثل", "أرض", "عرض", "شرف", "ارتباط", "أولوية", "دفاع", "قيمة"],
+      "arabic_proverb": "الأرض قبل العرض.",
+      "english_translation_literal": "The land before the honor.",
+      "english_meaning": "Highlights the extreme importance and value placed on land, suggesting its defense comes before defending personal honor (can be debated).",
+      "arabic_meaning": "يبرز الأهمية والقيمة القصوى للأرض، مما يشير إلى أن الدفاع عنها يأتي قبل الدفاع عن الشرف الشخصي (قد يكون محل نقاش)."
+    },
+    {
+      "id": "prov005",
+      "topic": "Proverb",
+      "keywords": ["proverb", "procrastination", "impossible", "never", "apricots", "mishmish", "timing"],
+      "arabic_keywords": ["مثل", "تسويف", "مستحيل", "أبداً", "مشمش", "توقيت"],
+      "arabic_proverb": "بكرة في المشمش.",
+      "english_translation_literal": "Tomorrow, in the apricots (season).",
+      "english_meaning": "It will likely never happen; wishful thinking for something impossible or out of season.",
+      "arabic_meaning": "لن يحدث على الأرجح؛ تمني شيء مستحيل أو في غير موسمه."
+    },
+    {
+      "id": "prov006",
+      "topic": "Proverb",
+      "keywords": ["proverb", "timing", "patience", "beauty", "acceptance", "season", "context"],
+      "arabic_keywords": ["مثل", "توقيت", "صبر", "جمال", "قبول", "موسم", "سياق"],
+      "arabic_proverb": "كل شي بوقته حلو.",
+      "english_translation_literal": "Everything in its time is beautiful/good.",
+      "english_meaning": "There is a right time for everything; appreciate things in their proper season or context; be patient.",
+      "arabic_meaning": "لكل شيء وقته المناسب؛ قدر الأشياء في موسمها أو سياقها الصحيح؛ كن صبوراً."
+    },
+    {
+      "id": "prov007",
+      "topic": "Proverb",
+      "keywords": ["proverb", "action", "speech", "deeds", "words", "proof", "judgement"],
+      "arabic_keywords": ["مثل", "فعل", "قول", "أعمال", "كلمات", "دليل", "حكم"],
+      "arabic_proverb": "العبرة بالأفعال مش بالأقوال.",
+      "english_translation_literal": "The lesson/proof is in the actions, not the sayings.",
+      "english_meaning": "Actions speak louder than words; judge people by what they do, not just what they claim.",
+      "arabic_meaning": "الأفعال أبلغ من الأقوال؛ احكم على الناس بأفعالهم، وليس فقط بما يدّعون."
+    },
+    {
+      "id": "prov008",
+      "topic": "Proverb",
+      "keywords": ["proverb", "caution", "trust", "friend", "enemy", "betrayal", "wariness"],
+      "arabic_keywords": ["مثل", "حذر", "ثقة", "صديق", "عدو", "خيانة", "حيطة"],
+      "arabic_proverb": "احذر عدوك مرة وصديقك ألف مرة.",
+      "english_translation_literal": "Beware of your enemy once and your friend a thousand times.",
+      "english_meaning": "Betrayal by a friend can be more damaging or unexpected than opposition from an enemy; be wary.",
+      "arabic_meaning": "خيانة الصديق قد تكون أكثر ضرراً أو غير متوقعة من عداوة العدو؛ كن حذراً."
+    },
+    {
+      "id": "prov009",
+      "topic": "Proverb",
+      "keywords": ["proverb", "knowledge", "learning", "age", "lifelong", "cradle", "grave", "education"],
+      "arabic_keywords": ["مثل", "علم", "تعلم", "عمر", "مدى الحياة", "مهد", "لحد", "تعليم"],
+      "arabic_proverb": "اطلب العلم من المهد إلى اللحد.",
+      "english_translation_literal": "Seek knowledge from the cradle to the grave.",
+      "english_meaning": "Learning is a lifelong duty and pursuit.",
+      "arabic_meaning": "التعلم واجب وسعي مدى الحياة."
+    },
+    {
+      "id": "prov010",
+      "topic": "Proverb",
+      "keywords": ["proverb", "health", "wealth", "value", "crown", "sickness", "appreciation"],
+      "arabic_keywords": ["مثل", "صحة", "ثروة", "قيمة", "تاج", "مرض", "تقدير"],
+      "arabic_proverb": "الصحة تاج على رؤوس الأصحاء لا يراه إلا المرضى.",
+      "english_translation_literal": "Health is a crown on the heads of the healthy that only the sick can see.",
+      "english_meaning": "Good health is a precious blessing often taken for granted until it is lost.",
+      "arabic_meaning": "الصحة نعمة ثمينة غالباً ما نستهين بها حتى نفقدها."
+    }
+  ]

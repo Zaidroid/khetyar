@@ -1,0 +1,70 @@
+[
+    {
+      "id": "custom001",
+      "topic": "Customs & Etiquette",
+      "subtopic": "Greetings",
+      "keywords": ["customs", "عادات", "etiquette", "آداب", "greetings", "تحيات", "assalamu alaykum", "السلام عليكم", "marhaba", "مرحباً", "sabah al-khair", "صباح الخير", "masa al-khair", "مساء الخير", "formality", "رسمية", "handshake", "مصافحة"],
+      "arabic_fact": "التحية الشائعة هي 'السلام عليكم' (وعليكم السلام)، وتستخدم 'مرحباً' كتحية أقل رسمية. 'صباح الخير' و'مساء الخير' تستخدم في أوقاتها. المصافحة شائعة بين الرجال.",
+      "english_fact": "Common greeting is 'Assalamu alaykum' (response: Wa alaykumu s-salam). 'Marhaba' is less formal. 'Sabah al-khair' (Good morning) and 'Masa' al-khair' (Good evening) are used. Handshakes are common between men.",
+      "persona_lens_ref": "greetings_custom_lens"
+    },
+    {
+      "id": "custom002",
+      "topic": "Customs & Etiquette",
+      "subtopic": "Titles & Respect",
+      "keywords": ["customs", "عادات", "etiquette", "آداب", "titles", "ألقاب", "respect", "احترام", "elders", "كبار السن", "haj", "حاج", "hajjeh", "حجة", "abu", "أبو", "umm", "أم", "ammo", "عمو", "khalto", "خالتو"],
+      "arabic_fact": "يُظهر الاحترام لكبار السن باستخدام ألقاب مثل 'حاج' أو 'حجة' لمن حجوا، أو 'عمو/خالتو' (عمي/خالتي) كصيغة احترام عامة. استخدام الكنية (أبو فلان/أم فلان) شائع أيضاً.",
+      "english_fact": "Respect for elders is shown using titles like 'Haj'/'Hajjeh' (for those who performed pilgrimage), or 'Ammo'/'Khalto' (Uncle/Aunt) as general respectful terms. Using Kunya (Abu/Umm Name) is also common.",
+      "persona_lens_ref": "titles_respect_lens",
+      "related_ids": ["cult005"]
+    },
+    {
+      "id": "custom003",
+      "topic": "Customs & Etiquette",
+      "subtopic": "Visiting Etiquette",
+      "keywords": ["customs", "عادات", "etiquette", "آداب", "visiting", "زيارة", "family", "عائلة", "neighbors", "جيران", "hospitality", "ضيافة", "كرم", "refreshments", "ضيافة", "gifts", "هدايا", "sweets", "حلويات", "short visits", "زيارات قصيرة"],
+      "arabic_fact": "الزيارات الاجتماعية، خاصة للعائلة والجيران والمرضى، مهمة جداً. يجب قبول المشروبات المقدمة (قهوة، شاي). غالباً ما تُجلب هدية بسيطة (حلويات أو فاكهة) عند الزيارة. الزيارات القصيرة والمتكررة مفضلة أحياناً.",
+      "english_fact": "Social visits, especially to family, neighbors, and the sick, are very important. Offered refreshments (coffee, tea) should be accepted. A small gift (sweets, fruit) is often brought. Short, frequent visits are sometimes preferred.",
+      "persona_lens_ref": "visiting_rules_lens",
+      "related_ids": ["cult004"]
+    },
+    {
+      "id": "custom004",
+      "topic": "Customs & Etiquette",
+      "subtopic": "Coffee/Tea Rituals",
+      "keywords": ["customs", "عادات", "etiquette", "آداب", "coffee", "قهوة", "tea", "شاي", "qahwa", "serving order", "ترتيب التقديم", "small cups", "فناجين صغيرة", "bitter coffee", "قهوة سادة", "sada", "سادة", "reading grounds", "قراءة الفنجان"],
+      "arabic_fact": "تقدم القهوة العربية غالباً في فناجين صغيرة، ويُبدأ بالضيف الأكبر سناً أو الأعلى مكانة. قد تقدم القهوة المرة (سادة) أولاً في بعض المناسبات. قراءة الفنجان ممارسة ثقافية شائعة.",
+      "english_fact": "Arabic coffee is often served in small cups, starting with the eldest or most honored guest. Bitter coffee ('sada') might be served first on formal occasions. Coffee ground reading is a common cultural practice.",
+      "persona_lens_ref": "coffee_serving_lens",
+      "related_ids": ["cult004"]
+    },
+    {
+      "id": "custom005",
+      "topic": "Customs & Etiquette",
+      "subtopic": "Condolences ('Aza)",
+      "keywords": ["customs", "عادات", "etiquette", "آداب", "condolences", "عزاء", "aza", "mourning", "حداد", "death", "وفاة", "community support", "دعم مجتمعي", "phrases", "عبارات", "visiting", "زيارة"],
+      "arabic_fact": "تقديم العزاء واجب اجتماعي هام. يجتمع المعزون (عادة لمدة ثلاثة أيام) لتقديم المواساة لعائلة المتوفى. تُستخدم عبارات محددة مثل 'عظم الله أجركم' أو 'البقية في حياتكم'.",
+      "english_fact": "Offering condolences ('Aza) is an important social duty. Mourners gather (often for three days) to support the deceased's family. Specific phrases like 'Azam Allah ajrakum' (May God magnify your reward) are used.",
+      "persona_lens_ref": "condolence_custom_lens"
+    },
+    {
+      "id": "custom006",
+      "topic": "Customs & Etiquette",
+      "subtopic": "Neighborly Rights (Haqq al-Jar)",
+      "keywords": ["customs", "عادات", "etiquette", "آداب", "neighbors", "جيران", "community", "مجتمع", "haqq al-jar", "حق الجار", "rights", "حقوق", "duties", "واجبات", "support", "دعم", "looking out", "مساعدة"],
+      "arabic_fact": "مفهوم 'حق الجار' يؤكد على أهمية العلاقة الطيبة مع الجيران وواجبات الدعم والمساعدة المتبادلة، والنظر إليهم كجزء من العائلة الممتدة.",
+      "english_fact": "The concept of 'Haqq al-Jar' (Right/Duty of the Neighbor) emphasizes the importance of good relations with neighbors, mutual support, assistance, and considering them part of the extended community.",
+      "persona_lens_ref": "neighbor_duty_lens",
+      "related_ids": ["cult005"]
+    },
+    {
+      "id": "custom007",
+      "topic": "Customs & Etiquette",
+      "subtopic": "Eating Etiquette",
+      "keywords": ["customs", "عادات", "etiquette", "آداب", "food", "طعام", "eating", "أكل", "sharing", "مشاركة", "shared dish", "طبق مشترك", "right hand", "اليد اليمنى", "bread", "خبز", "communal", "جماعي"],
+      "arabic_fact": "تناول الطعام غالباً ما يكون جماعياً من طبق مشترك كبير. من الأدب استخدام اليد اليمنى للأكل، واستخدام الخبز كأداة لغرف الطعام.",
+      "english_fact": "Eating is often communal, from a large shared dish. It's customary to eat with the right hand and use bread as a utensil to scoop food.",
+      "persona_lens_ref": "eating_etiquette_lens",
+      "related_ids": ["cult001"]
+    }
+  ]

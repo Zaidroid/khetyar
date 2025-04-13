@@ -1,0 +1,74 @@
+[
+    {
+      "question": {
+        "arabic": "من هو الفنان التشكيلي الفلسطيني الذي اشتهر بلوحة 'جمل المحامل'؟",
+        "english": "Which Palestinian visual artist is famous for the painting 'Camel of Hardship'?"
+      },
+      "options": [
+        { "arabic": "إسماعيل شموط", "english": "Ismail Shammout" },
+        { "arabic": "سليمان منصور", "english": "Sliman Mansour" },
+        { "arabic": "كمال بلاطة", "english": "Kamal Boullata" },
+        { "arabic": "ناجي العلي", "english": "Naji al-Ali" }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": {
+        "arabic": "سليمان منصور هو فنان بارز، و'جمل المحامل' هي أيقونة فنية تمثل صمود الشعب الفلسطيني وهو يحمل القدس.",
+        "english": "Sliman Mansour is a prominent artist, and 'Camel of Hardship' is an iconic artwork representing Palestinian steadfastness carrying Jerusalem."
+      },
+      "topicId": "art_music"
+    },
+    {
+      "question": {
+        "arabic": "ما اسم الشخصية الكرتونية الشهيرة التي ابتكرها ناجي العلي؟",
+        "english": "What is the name of the famous cartoon character created by Naji al-Ali?"
+      },
+      "options": [
+        { "arabic": "أبو العبد", "english": "Abu El Abed" },
+        { "arabic": "أم خماس", "english": "Um Khammas" },
+        { "arabic": "حنظلة", "english": "Handala" },
+        { "arabic": "جحا", "english": "Juha" }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": {
+        "arabic": "حنظلة هو طفل لاجئ يظهر دائماً وهو يدير ظهره، وأصبح رمزاً عالمياً للهوية والمقاومة الفلسطينية.",
+        "english": "Handala is a refugee child always shown with his back turned, becoming a global symbol of Palestinian identity and resistance."
+      },
+      "topicId": "art_music"
+    },
+    {
+      "question": {
+        "arabic": "من هو المغني الفلسطيني من غزة الذي فاز بلقب 'آراب آيدول'؟",
+        "english": "Who is the Palestinian singer from Gaza who won the title 'Arab Idol'?"
+      },
+      "options": [
+        { "arabic": "محمد عساف", "english": "Mohammed Assaf" },
+        { "arabic": "تامر نفار (دام)", "english": "Tamer Nafar (DAM)" },
+        { "arabic": "عمر كمال", "english": "Omar Kamal" },
+        { "arabic": "الثلاثي جبران", "english": "Le Trio Joubran" }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": {
+        "arabic": "محمد عساف حقق شهرة واسعة بعد فوزه بالبرنامج عام ٢٠١٣، وأصبح صوته رمزاً للأمل للكثيرين.",
+        "english": "Mohammed Assaf gained widespread fame after winning the show in 2013, his voice becoming a symbol of hope for many."
+      },
+      "topicId": "art_music"
+    },
+    {
+      "question": {
+        "arabic": "ما اسم الآلة الموسيقية الوترية الشبيهة بالعود والتي اشتهر بعزفها الثلاثي جبران؟",
+        "english": "What is the name of the lute-like string instrument famously played by Le Trio Joubran?"
+      },
+      "options": [
+        { "arabic": "قانون", "english": "Qanun" },
+        { "arabic": "بزق", "english": "Buzuq" },
+        { "arabic": "عود", "english": "Oud" },
+        { "arabic": "ربابة", "english": "Rababa" }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": {
+        "arabic": "العود هو آلة وترية أساسية في الموسيقى العربية، والثلاثي جبران هم أساتذة معاصرون مشهورون في العزف عليها.",
+        "english": "The Oud is a core string instrument in Arabic music, and Le Trio Joubran are famous contemporary masters of playing it."
+      },
+      "topicId": "art_music"
+    }
+  ]

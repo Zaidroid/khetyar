@@ -1,0 +1,99 @@
+[
+    {
+      "id": "foodtrad001",
+      "topic": "Food Traditions",
+      "subtopic": "Regional - Overview",
+      "keywords": ["food", "طعام", "traditions", "تقاليد", "regional", "مناطق", "cuisine", "مطبخ", "variation", "تنوع", "geography", "جغرافيا", "climate", "مناخ", "local ingredients", "مكونات محلية", "palestine", "فلسطين"],
+      "arabic_fact": "يتميز المطبخ الفلسطيني بتنوعه حسب المنطقة، متأثراً بالجغرافيا والمناخ والمكونات المحلية المتوفرة تاريخياً.",
+      "english_fact": "Palestinian cuisine varies significantly by region, influenced by geography, climate, and historically available local ingredients.",
+      "persona_lens_ref": "regional_food_overview_lens",
+      "related_ids": ["cult001"]
+    },
+    {
+      "id": "foodtrad002",
+      "topic": "Food Traditions",
+      "subtopic": "Regional - Galilee",
+      "keywords": ["food", "طعام", "traditions", "تقاليد", "regional", "مناطق", "galilee", "الجليل", "nazareth", "الناصرة", "wild greens", "أعشاب برية", "hubeza", "خبيزة", "zaatar", "زعتر", "freekeh", "فريكة", "bulgur", "برغل", "fresh herbs", "أعشاب طازجة"],
+      "arabic_fact": "يشتهر مطبخ الجليل (مثل منطقة الناصرة) باستخدام الأعشاب البرية (كالخبيزة والزعتر) والفريكة والبرغل بكثرة.",
+      "english_fact": "Galilee cuisine (around Nazareth) is known for its extensive use of wild greens (like Khubeza/mallow, Za'atar), freekeh, and bulgur.",
+      "persona_lens_ref": "regional_food_galilee_lens",
+      "related_ids": ["geo008", "landmark004"]
+    },
+    {
+      "id": "foodtrad003",
+      "topic": "Food Traditions",
+      "subtopic": "Regional - Central West Bank",
+      "keywords": ["food", "طعام", "traditions", "تقاليد", "regional", "مناطق", "west bank", "الضفة الغربية", "ramallah", "رام الله", "nablus", "نابلس", "hebron", "الخليل", "musakhan", "مسخن", "maqloubeh", "مقلوبة", "knafeh", "كنافة", "qidreh", "قدرة", "taboon bread", "خبز طابون"],
+      "arabic_fact": "المنطقة الوسطى (رام الله، نابلس، الخليل) تشتهر بأطباق مثل المسخن، المقلوبة، الكنافة النابلسية، وقدرة الخليل (لحم وأرز بالحمص). خبز الطابون أساسي.",
+      "english_fact": "The central region (Ramallah, Nablus, Hebron) is famous for dishes like Musakhan, Maqloubeh, Nabulsi Knafeh, and Hebron's Qidreh (meat & rice with chickpeas). Taboon bread is fundamental.",
+      "persona_lens_ref": "regional_food_central_lens",
+      "related_ids": ["cult001", "cult010", "geo003", "geo004", "geo005"]
+    },
+    {
+      "id": "foodtrad004",
+      "topic": "Food Traditions",
+      "subtopic": "Regional - Gaza",
+      "keywords": ["food", "طعام", "traditions", "تقاليد", "regional", "مناطق", "gaza", "غزة", "spicy", "حار", "hot peppers", "فلفل حار", "seafood", "مأكولات بحرية", "sumagiyya", "سماقية", "rummaniyya", "رمانية", "dagga", "دقة", "dill", "شبت", "tahini", "طحينة"],
+      "arabic_fact": "مطبخ غزة حار ونكهاته قوية، يعتمد على الفلفل الحار والشطة، الأسماك، وأطباق خاصة كالسماقية (بالسماق والطحينة والشبت) والرمانية (عدس ورمان).",
+      "english_fact": "Gaza's cuisine is often spicy with bold flavors, using hot peppers, seafood, and unique dishes like Sumagiyya (sumac-tahini-dill stew) and Rummaniyya (lentil-pomegranate).",
+      "persona_lens_ref": "regional_food_gaza_lens",
+      "related_ids": ["geo007", "cult011"]
+    },
+    {
+      "id": "foodtrad005",
+      "topic": "Food Traditions",
+      "subtopic": "Regional - Coastal (Historic)",
+      "keywords": ["food", "طعام", "traditions", "تقاليد", "regional", "مناطق", "coastal", "ساحل", "jaffa", "يافا", "haifa", "حيفا", "acre", "عكا", "seafood", "مأكولات بحرية", "fish", "سمك", "oranges", "برتقال", "citrus", "حمضيات", "pre-nakba", "قبل النكبة"],
+      "arabic_fact": "اشتهرت المدن الساحلية قبل النكبة (يافا، حيفا، عكا) بأطباق السمك والمأكولات البحرية الطازجة، بالإضافة إلى برتقال يافا الشهير.",
+      "english_fact": "Coastal cities pre-Nakba (Jaffa, Haifa, Acre) were known for fresh fish and seafood dishes, alongside the famous Jaffa oranges.",
+      "persona_lens_ref": "regional_food_coastal_lens",
+      "related_ids": ["geo008"]
+    },
+    {
+      "id": "foodtrad006",
+      "topic": "Food Traditions",
+      "subtopic": "Seasonal - Spring",
+      "keywords": ["food", "طعام", "traditions", "تقاليد", "seasonal", "موسمي", "spring", "ربيع", "freekeh", "فريكة", "green almonds", "لوز أخضر", "loz", "artichokes", "خرشوف", "khorshof", "wild greens", "أعشاب برية", "hubeza", "خبيزة"],
+      "arabic_fact": "الربيع هو موسم الفريكة (القمح الأخضر المدخن)، اللوز الأخضر، الخرشوف، والعديد من النباتات البرية الصالحة للأكل كالخبيزة.",
+      "english_fact": "Spring is the season for Freekeh (smoked green wheat), green almonds (loz akhdar), artichokes (khorshof), and various edible wild greens like mallow (khubeza).",
+      "persona_lens_ref": "seasonal_eating_spring_lens"
+    },
+    {
+      "id": "foodtrad007",
+      "topic": "Food Traditions",
+      "subtopic": "Seasonal - Summer",
+      "keywords": ["food", "طعام", "traditions", "تقاليد", "seasonal", "موسمي", "summer", "صيف", "figs", "تين", "teen", "grapes", "عنب", "einab", "stuffed vegetables", "محاشي", "mahshi", "tomatoes", "بندورة", "cucumbers", "خيار"],
+      "arabic_fact": "الصيف هو موسم التين والعنب والخضروات الطازجة كالطماطم والخيار، ويكثر فيه تحضير المحاشي (خضروات محشوة بالأرز واللحم).",
+      "english_fact": "Summer brings figs (teen) and grapes (einab), fresh vegetables like tomatoes and cucumbers, and is peak season for making Mahshi (vegetables stuffed with rice/meat).",
+      "persona_lens_ref": "seasonal_eating_summer_lens"
+    },
+    {
+      "id": "foodtrad008",
+      "topic": "Food Traditions",
+      "subtopic": "Seasonal - Autumn/Winter",
+      "keywords": ["food", "طعام", "traditions", "تقاليد", "seasonal", "موسمي", "autumn", "خريف", "winter", "شتاء", "olives", "زيتون", "olive oil", "زيت زيتون", "pomegranates", "رمان", "rumman", "lentils", "عدس", "soups", "شوربات", "stews", "يخنات"],
+      "arabic_fact": "الخريف هو موسم قطاف الزيتون والحصول على الزيت الجديد، والرمان. الشتاء هو وقت العدس والحبوب والشوربات واليخنات الدسمة.",
+      "english_fact": "Autumn is the olive harvest season for new oil, and pomegranates (rumman). Winter is the time for lentils, grains, hearty soups, and stews.",
+      "persona_lens_ref": "seasonal_eating_winter_lens",
+      "related_ids": ["geo009"]
+    },
+    {
+      "id": "foodtrad009",
+      "topic": "Food Traditions",
+      "subtopic": "Occasion - Eid Sweets",
+      "keywords": ["food", "طعام", "traditions", "تقاليد", "occasions", "مناسبات", "eid", "عيد", "sweets", "حلويات", "baking", "خبز", "kaak", "كعك", "maamoul", "معمول", "semolina", "سميد", "dates", "تمر", "nuts", "مكسرات", "family", "عائلة"],
+      "arabic_fact": "في الأعياد، تجتمع النساء لصنع كميات كبيرة من كعك العيد (باليانسون والشمر) والمعمول (محشو بالتمر أو الجوز أو الفستق).",
+      "english_fact": "For Eid, women traditionally gather to bake large quantities of Eid cookies (Ka'ak - often flavored with anise/fennel) and Ma'amoul (semolina pastries stuffed with dates, walnuts, or pistachios).",
+      "persona_lens_ref": "eid_baking_lens",
+      "related_ids": ["heritage006"]
+    },
+    {
+      "id": "foodtrad010",
+      "topic": "Food Traditions",
+      "subtopic": "Food Preservation",
+      "keywords": ["food", "طعام", "traditions", "تقاليد", "preservation", "حفظ الطعام", "mouneh", "مونة", "drying", "تجفيف", "figs", "تين", "grapes", "عنب", "apricots", "مشمش", "jameed", "جميد", "pickling", "تخليل", "makdous", "مكدوس", "olive oil preservation", "حفظ في الزيت"],
+      "arabic_fact": "تشمل طرق حفظ الطعام التقليدية ('المونة') تجفيف الفواكه (تين، عنب)، صنع الجميد (لبن مجفف)، تخليل الخضروات (المخللات)، وصنع المكدوس (باذنجان مخلل محشو).",
+      "english_fact": "Traditional food preservation ('Mouneh') includes drying fruits (figs, grapes), making Jameed (dried yogurt), pickling vegetables (mukhallalat), and making Makdous (pickled stuffed eggplants).",
+      "persona_lens_ref": "food_preservation_lens"
+    }
+  ]

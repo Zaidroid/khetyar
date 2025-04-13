@@ -1,0 +1,326 @@
+[
+    {
+      "id": "glossary001",
+      "term_arabic": "النكبة",
+      "term_transliterated": "Nakba",
+      "definition_arabic": "تعني 'الكارثة'. تشير إلى أحداث عام ١٩٤٨ التي أدت إلى تهجير وتشريد مئات الآلاف من الفلسطينيين وتدمير مجتمعهم ووطنهم عند قيام دولة إسرائيل.",
+      "definition_english": "Meaning 'Catastrophe'. Refers to the events of 1948 leading to the displacement and dispossession of hundreds of thousands of Palestinians and the destruction of their society and homeland during the establishment of the State of Israel.",
+      "keywords": ["nakba", "catastrophe", "1948", "history", "displacement", "refugees", "loss", "dispossession", "ethnic cleansing"],
+      "arabic_keywords": ["نكبة", "كارثة", "1948", "تاريخ", "تهجير", "لاجئون", "خسارة", "سلب", "تطهير عرقي"]
+    },
+    {
+      "id": "glossary002",
+      "term_arabic": "النكسة",
+      "term_transliterated": "Naksa",
+      "definition_arabic": "تعني 'الانتكاسة'. تشير إلى حرب عام ١٩٦٧ التي أدت إلى احتلال إسرائيل للضفة الغربية وقطاع غزة والقدس الشرقية، وموجة نزوح فلسطينية جديدة.",
+      "definition_english": "Meaning 'Setback'. Refers to the 1967 war which resulted in Israel's occupation of the West Bank, Gaza Strip, and East Jerusalem, and a further wave of Palestinian displacement.",
+      "keywords": ["naksa", "setback", "1967", "history", "occupation", "displacement", "six day war"],
+      "arabic_keywords": ["نكسة", "انتكاسة", "1967", "تاريخ", "احتلال", "تهجير", "حرب الأيام الستة"]
+    },
+    {
+      "id": "glossary003",
+      "term_arabic": "صمود",
+      "term_transliterated": "Sumud",
+      "definition_arabic": "يعني 'الصمود' أو 'الثبات'. مفهوم ثقافي وسياسي يؤكد على البقاء والمقاومة على الأرض الفلسطينية رغم الصعاب، والحفاظ على الهوية والتراث.",
+      "definition_english": "Meaning 'Steadfastness' or 'Resilience'. A cultural and political concept emphasizing remaining on and resisting from Palestinian land despite hardship, maintaining identity and heritage.",
+      "keywords": ["sumud", "steadfastness", "resilience", "resistance", "land", "identity", "culture", "perseverance"],
+      "arabic_keywords": ["صمود", "ثبات", "مرونة", "مقاومة", "أرض", "هوية", "ثقافة", "مثابرة"]
+    },
+    {
+      "id": "glossary004",
+      "term_arabic": "انتفاضة",
+      "term_transliterated": "Intifada",
+      "definition_arabic": "تعني 'الانتفاضة' أو 'النفضة'. تشير إلى الانتفاضات الشعبية الفلسطينية الكبرى ضد الاحتلال الإسرائيلي (الأولى بدأت عام ١٩٨٧، والثانية عام ٢٠٠٠).",
+      "definition_english": "Meaning 'Uprising' or 'Shaking Off'. Refers to the major popular Palestinian uprisings against Israeli occupation (First began 1987, Second in 2000).",
+      "keywords": ["intifada", "uprising", "resistance", "first intifada", "second intifada", "history", "occupation"],
+      "arabic_keywords": ["انتفاضة", "مقاومة", "انتفاضة أولى", "انتفاضة ثانية", "تاريخ", "احتلال"]
+    },
+    {
+      "id": "glossary005",
+      "term_arabic": "تطريز",
+      "term_transliterated": "Tatreez",
+      "definition_arabic": "فن التطريز الفلسطيني التقليدي اليدوي، يتميز بأنماط وألوان غنية تزين الثوب النسائي (الثوب) وتعكس الهوية الإقليمية والاجتماعية.",
+      "definition_english": "Traditional Palestinian hand embroidery, characterized by rich patterns and colors that adorn women's dresses (Thobes) and reflect regional and social identity.",
+      "keywords": ["tatreez", "embroidery", "crafts", "heritage", "culture", "thobe", "patterns", "art", "women"],
+      "arabic_keywords": ["تطريز", "حرف يدوية", "تراث", "ثقافة", "ثوب", "أنماط", "فن", "نساء"]
+    },
+    {
+      "id": "glossary006",
+      "term_arabic": "دبكة",
+      "term_transliterated": "Dabke",
+      "definition_arabic": "رقصة شعبية فلسطينية وعربية جماعية تؤدى في صفوف، تتميز بضربات أقدام إيقاعية قوية ومتزامنة. تؤدى في الأفراح والاحتفالات.",
+      "definition_english": "A collective Palestinian and Arab folk line dance characterized by rhythmic and synchronized stomping and footwork. Performed at weddings and celebrations.",
+      "keywords": ["dabke", "dance", "folk dance", "culture", "celebration", "music", "community", "wedding"],
+      "arabic_keywords": ["دبكة", "رقص", "رقص شعبي", "ثقافة", "احتفال", "موسيقى", "مجتمع", "عرس"]
+    },
+    {
+      "id": "glossary007",
+      "term_arabic": "كوفية / حطة",
+      "term_transliterated": "Kufiyah / Keffiyeh / Hatta",
+      "definition_arabic": "غطاء رأس تقليدي للرجال، أصبح رمزاً وطنياً فلسطينياً معترفاً به عالمياً. النقشة والألوان لها دلالات.",
+      "definition_english": "A traditional men's headscarf that has become an internationally recognized Palestinian national symbol. Patterns and colors carry meaning.",
+      "keywords": ["kufiyah", "keffiyeh", "hatta", "headscarf", "symbol", "identity", "culture", "clothing", "resistance"],
+      "arabic_keywords": ["كوفية", "حطة", "غطاء رأس", "رمز", "هوية", "ثقافة", "ملابس", "مقاومة"]
+    },
+    {
+      "id": "glossary008",
+      "term_arabic": "ثوب",
+      "term_transliterated": "Thobe",
+      "definition_arabic": "الثوب الفلسطيني التقليدي الطويل للمرأة، غالباً ما يكون مزيناً بالتطريز (التطريز) الذي يختلف حسب المنطقة.",
+      "definition_english": "The traditional long Palestinian dress for women, often decorated with Tatreez embroidery that varies by region.",
+      "keywords": ["thobe", "dress", "clothing", "women", "tatreez", "embroidery", "heritage", "culture", "traditional"],
+      "arabic_keywords": ["ثوب", "فستان", "ملابس", "نساء", "تطريز", "تراث", "ثقافة", "تقليدي"]
+    },
+    {
+      "id": "glossary009",
+      "term_arabic": "زعتر",
+      "term_transliterated": "Za'atar",
+      "definition_arabic": "يشير إلى نبتة الزعتر البري (Origanum syriacum وأنواع أخرى)، وأيضاً إلى خليط التوابل الشهير المصنوع منه مع السماق والسمسم والملح.",
+      "definition_english": "Refers to wild thyme (Origanum syriacum and related species), and also the popular spice mix made from it with sumac, sesame seeds, and salt.",
+      "keywords": ["zaatar", "thyme", "spice mix", "food", "herb", "cuisine", "culture", "palestinian food"],
+      "arabic_keywords": ["زعتر", "صعتر", "توابل", "طعام", "عشبة", "مطبخ", "ثقافة", "أكل فلسطيني"]
+    },
+    {
+      "id": "glossary010",
+      "term_arabic": "زيتون",
+      "term_transliterated": "Zeitoun / Zaytoun",
+      "definition_arabic": "شجرة الزيتون وثمرتها وزيتها. لها أهمية ثقافية واقتصادية ورمزية كبيرة في فلسطين، تمثل السلام والتجذر والصمود.",
+      "definition_english": "The olive tree, its fruit, and its oil. Holds immense cultural, economic, and symbolic importance in Palestine, representing peace, rootedness, and sumud.",
+      "keywords": ["zeitoun", "zaytoun", "olive", "olive tree", "olive oil", "symbol", "culture", "agriculture", "sumud", "peace", "land"],
+      "arabic_keywords": ["زيتون", "شجرة زيتون", "زيت زيتون", "رمز", "ثقافة", "زراعة", "صمود", "سلام", "أرض"]
+    },
+    {
+      "id": "glossary011",
+      "term_arabic": "فلاح / فلاحين",
+      "term_transliterated": "Fellah / Fellahin",
+      "definition_arabic": "مزارع أو قروي. يشير إلى السكان الريفيين الذين يعملون في الأرض، ويمثلون جزءاً أساسياً من التراث والارتباط بالأرض في فلسطين.",
+      "definition_english": "A farmer or peasant/villager. Refers to the rural population working the land, representing a core part of Palestinian heritage and connection to the land.",
+      "keywords": ["fellah", "fellahin", "farmer", "peasant", "villager", "agriculture", "land", "rural", "heritage"],
+      "arabic_keywords": ["فلاح", "فلاحين", "مزارع", "قروي", "زراعة", "أرض", "ريف", "تراث"]
+    },
+    {
+      "id": "glossary012",
+      "term_arabic": "حكواتي",
+      "term_transliterated": "Hakawati",
+      "definition_arabic": "الراوي أو القاص التقليدي الذي كان يروي الحكايات الشعبية والتاريخية في المقاهي والأماكن العامة.",
+      "definition_english": "The traditional storyteller or narrator who recounted folk tales and histories in coffee houses and public spaces.",
+      "keywords": ["hakawati", "storyteller", "narrator", "oral tradition", "folklore", "history", "culture", "heritage"],
+      "arabic_keywords": ["حكواتي", "راوي", "قاص", "تراث شفهي", "فولكلور", "تاريخ", "ثقافة", "تراث"]
+    },
+    {
+      "id": "glossary013",
+      "term_arabic": "بلد",
+      "term_transliterated": "Balad",
+      "definition_arabic": "تعني بلدة أو قرية، وغالباً ما تستخدم أيضاً بمعنى الوطن أو البلد الأم.",
+      "definition_english": "Means town or village, often also used more broadly to mean homeland or home country.",
+      "keywords": ["balad", "town", "village", "homeland", "country", "home", "place"],
+      "arabic_keywords": ["بلد", "بلدة", "قرية", "وطن", "بلد أم", "بيت", "مكان"]
+    },
+    {
+      "id": "glossary014",
+      "term_arabic": "أرض",
+      "term_transliterated": "Ard",
+      "definition_arabic": "تعني الأرض أو التراب. لها دلالة عميقة في الهوية الفلسطينية، تمثل الوطن، التراث، والانتماء.",
+      "definition_english": "Means land or earth/soil. Holds deep significance in Palestinian identity, representing homeland, heritage, and belonging.",
+      "keywords": ["ard", "land", "earth", "soil", "homeland", "identity", "heritage", "connection", "belonging"],
+      "arabic_keywords": ["أرض", "تراب", "وطن", "هوية", "تراث", "ارتباط", "انتماء"]
+    },
+    {
+      "id": "glossary015",
+      "term_arabic": "قهوة سادة",
+      "term_transliterated": "Qahwa Sada",
+      "definition_arabic": "قهوة عربية مرة بدون سكر، تقدم غالباً في المناسبات الرسمية أو في بيوت العزاء كدليل على الجدية والاحترام.",
+      "definition_english": "Bitter Arabic coffee made without sugar, often served on formal occasions or during condolences as a sign of seriousness and respect.",
+      "keywords": ["qahwa sada", "coffee", "bitter coffee", "arabic coffee", "hospitality", "customs", "condolences"],
+      "arabic_keywords": ["قهوة سادة", "قهوة", "قهوة مرة", "قهوة عربية", "ضيافة", "عادات", "عزاء"]
+    },
+    {
+      "id": "glossary016",
+      "term_arabic": "شاي بالنعناع",
+      "term_transliterated": "Shai bi Na'na",
+      "definition_arabic": "شاي أسود يقدم ساخناً مع أوراق النعناع الطازج، وهو مشروب شائع جداً للضيافة والاسترخاء.",
+      "definition_english": "Black tea served hot with fresh mint leaves, a very common drink for hospitality and relaxation.",
+      "keywords": ["shai bi nana", "tea", "mint tea", "drink", "hospitality", "refreshment", "culture"],
+      "arabic_keywords": ["شاي بالنعناع", "شاي", "مشروب", "ضيافة", "ثقافة"]
+    },
+    {
+      "id": "glossary017",
+      "term_arabic": "طابون",
+      "term_transliterated": "Taboon",
+      "definition_arabic": "فرن طيني تقليدي على شكل قبة يستخدم لخبز الخبز (خبز طابون) وأنواع أخرى من الفطائر. يشير أيضاً إلى الخبز نفسه.",
+      "definition_english": "A traditional clay dome-shaped oven used for baking bread (Taboon bread) and other flatbreads. Also refers to the bread itself.",
+      "keywords": ["taboon", "oven", "bread", "clay oven", "baking", "traditional", "food", "heritage"],
+      "arabic_keywords": ["طابون", "فرن", "خبز", "فرن طين", "خبيز", "تقليدي", "طعام", "تراث"]
+    },
+    {
+      "id": "glossary018",
+      "term_arabic": "صبر",
+      "term_transliterated": "Sabr",
+      "definition_arabic": "يعني الصبر والمثابرة والتحمل، وهي قيمة عالية في الثقافة الفلسطينية لمواجهة الشدائد والمحن.",
+      "definition_english": "Meaning patience, perseverance, and endurance, a highly valued quality in Palestinian culture for facing hardship and adversity.",
+      "keywords": ["sabr", "patience", "perseverance", "endurance", "steadfastness", "virtue", "culture", "islam"],
+      "arabic_keywords": ["صبر", "مثابرة", "تحمل", "صمود", "فضيلة", "ثقافة", "إسلام"]
+    },
+    {
+      "id": "glossary019",
+      "term_arabic": "كرم",
+      "term_transliterated": "Karam",
+      "definition_arabic": "يعني الكرم والسخاء وحسن الضيافة، وهي قيمة اجتماعية أساسية في الثقافة العربية والفلسطينية.",
+      "definition_english": "Meaning generosity, magnanimity, and hospitality, a fundamental social value in Arab and Palestinian culture.",
+      "keywords": ["karam", "generosity", "hospitality", "magnanimity", "culture", "values", "social customs"],
+      "arabic_keywords": ["كرم", "سخاء", "ضيافة", "ثقافة", "قيم", "عادات اجتماعية"]
+    },
+    {
+      "id": "glossary020",
+      "term_arabic": "عودة / العودة",
+      "term_transliterated": "Awda / Al-Awda",
+      "definition_arabic": "تعني 'العودة'. تشير بشكل خاص إلى حق اللاجئين الفلسطينيين في العودة إلى ديارهم التي هُجّروا منها عام ١٩٤٨.",
+      "definition_english": "Meaning 'The Return'. Refers specifically to the Palestinian refugees' Right of Return to the homes and lands they were expelled from in 1948.",
+      "keywords": ["awda", "al-awda", "return", "right of return", "nakba", "refugees", "hope", "politics", "law"],
+      "arabic_keywords": ["عودة", "العودة", "حق العودة", "نكبة", "لاجئون", "أمل", "سياسة", "قانون"]
+    },
+    {
+      "id": "glossary021",
+      "term_arabic": "مفتاح",
+      "term_transliterated": "Miftah",
+      "definition_arabic": "يعني 'مفتاح'. أصبح رمزاً قوياً للنكبة وحق العودة، يمثل البيوت المفقودة والذاكرة والأمل بالعودة.",
+      "definition_english": "Meaning 'Key'. Has become a powerful symbol of the Nakba and the Right of Return, representing lost homes, memory, and the hope of returning.",
+      "keywords": ["miftah", "key", "symbol", "nakba", "return", "awda", "memory", "hope", "loss", "house"],
+      "arabic_keywords": ["مفتاح", "رمز", "نكبة", "عودة", "ذاكرة", "أمل", "خسارة", "بيت"]
+    },
+    {
+      "id": "glossary022",
+      "term_arabic": "شهيد / شهداء",
+      "term_transliterated": "Shaheed / Shuhada",
+      "definition_arabic": "يعني 'شهيد' (جمع: شهداء). في السياق الفلسطيني والإسلامي، يشير إلى من يُقتل دفاعاً عن وطنه أو دينه أو كضحية للظلم.",
+      "definition_english": "Meaning 'Martyr' (plural: Shuhada). In Palestinian and Islamic context, refers to someone killed defending their homeland, faith, or as a victim of injustice.",
+      "keywords": ["shaheed", "shuhada", "martyr", "martyrs", "victim", "conflict", "resistance", "religion", "islam"],
+      "arabic_keywords": ["شهيد", "شهداء", "ضحية", "صراع", "مقاومة", "دين", "إسلام"]
+    },
+    {
+      "id": "glossary023",
+      "term_arabic": "مستوطنة / مستوطنات",
+      "term_transliterated": "Mustawtana / Mustawtanat",
+      "definition_arabic": "مجتمعات مدنية إسرائيلية مقامة على أراض فلسطينية محتلة (الضفة الغربية والقدس الشرقية)، تعتبر غير شرعية بموجب القانون الدولي.",
+      "definition_english": "Israeli civilian communities built on occupied Palestinian territory (West Bank and East Jerusalem), considered illegal under international law.",
+      "keywords": ["mustawtana", "mustawtanat", "settlement", "settlements", "occupation", "illegal", "west bank", "land", "politics"],
+      "arabic_keywords": ["مستوطنة", "مستوطنات", "احتلال", "غير شرعي", "ضفة غربية", "أرض", "سياسة"]
+    },
+    {
+      "id": "glossary024",
+      "term_arabic": "جدار الفصل",
+      "term_transliterated": "Jidar al-Fasl",
+      "definition_arabic": "الجدار أو الحاجز الذي بنته إسرائيل، ويمتد معظمه داخل الضفة الغربية، مما يعزل أراضٍ ومجتمعات فلسطينية.",
+      "definition_english": "The Wall or Barrier built by Israel, running mostly inside the West Bank, isolating Palestinian land and communities.",
+      "keywords": ["jidar al-fasl", "separation wall", "separation barrier", "apartheid wall", "occupation", "west bank", "land annexation", "movement restriction"],
+      "arabic_keywords": ["جدار الفصل", "جدار الضم والتوسع", "جدار الفصل العنصري", "احتلال", "ضفة غربية", "ضم أراضي", "تقييد حركة"]
+    },
+    {
+      "id": "glossary025",
+      "term_arabic": "مخيم / مخيمات",
+      "term_transliterated": "Mukhayyam / Mukhayyamat",
+      "definition_arabic": "مخيم اللاجئين الفلسطينيين. مناطق سكنية، غالباً مكتظة، أقيمت لإيواء اللاجئين بعد ١٩٤٨ و ١٩٦٧، وأصبحت دائمة بحكم الواقع.",
+      "definition_english": "Palestinian refugee camp. Residential areas, often crowded, established to house refugees after 1948 and 1967, which became de facto permanent.",
+      "keywords": ["mukhayyam", "mukhayyamat", "camp", "refugee camp", "refugees", "nakba", "naksa", "unrwa", "displacement"],
+      "arabic_keywords": ["مخيم", "مخيمات", "مخيم لاجئين", "لاجئون", "نكبة", "نكسة", "أونروا", "تهجير"]
+    },
+    {
+      "id": "glossary026",
+      "term_arabic": "مقلوبة",
+      "term_transliterated": "Maqloubeh",
+      "definition_arabic": "طبق فلسطيني شهير 'مقلوب'، يتكون من طبقات من الأرز والخضروات (غالباً باذنجان أو قرنبيط) واللحم (دجاج أو خروف) تطهى معاً ثم تقلب عند التقديم.",
+      "definition_english": "A famous Palestinian 'upside-down' dish with layers of rice, vegetables (often eggplant or cauliflower), and meat (chicken or lamb) cooked together and then flipped for serving.",
+      "keywords": ["maqloubeh", "food", "dish", "cuisine", "palestinian food", "rice", "vegetables", "meat", "upside down"],
+      "arabic_keywords": ["مقلوبة", "طعام", "طبق", "مطبخ", "أكل فلسطيني", "رز", "خضروات", "لحم", "مقلوب"]
+    },
+    {
+      "id": "glossary027",
+      "term_arabic": "مسخن",
+      "term_transliterated": "Musakhan",
+      "definition_arabic": "طبق فلسطيني وطني غير رسمي، يتكون من دجاج مشوي مع كميات كبيرة من البصل والسماق وزيت الزيتون، يقدم فوق خبز الطابون.",
+      "definition_english": "An unofficial Palestinian national dish consisting of roasted chicken with copious amounts of onions, sumac, and olive oil, served over Taboon bread.",
+      "keywords": ["musakhan", "food", "dish", "cuisine", "palestinian food", "chicken", "sumac", "onions", "taboon bread", "national dish"],
+      "arabic_keywords": ["مسخن", "طعام", "طبق", "مطبخ", "أكل فلسطيني", "دجاج", "سماق", "بصل", "خبز طابون", "طبق وطني"]
+    },
+    {
+      "id": "glossary028",
+      "term_arabic": "كنافة",
+      "term_transliterated": "Knafeh",
+      "definition_arabic": "حلوى شرق أوسطية شهيرة، خاصة الكنافة النابلسية، تتكون من طبقة من الجبن الحلو المغطى بشعيرية الكنافة المصبوغة بالبرتقالي والمشبعة بالقطر والمزينة بالفستق.",
+      "definition_english": "A popular Middle Eastern dessert, especially Nabulsi Knafeh, made with a layer of sweet cheese topped with shredded phyllo dough (kataifi), dyed orange, soaked in syrup, and often garnished with pistachios.",
+      "keywords": ["knafeh", "kunafa", "dessert", "sweet", "cheese pastry", "nablus", "food", "cuisine", "palestinian food"],
+      "arabic_keywords": ["كنافة", "حلويات", "حلو", "جبنة", "نابلس", "طعام", "مطبخ", "أكل فلسطيني"]
+    },
+    {
+      "id": "glossary029",
+      "term_arabic": "عود",
+      "term_transliterated": "Oud",
+      "definition_arabic": "آلة وترية كمثرية الشكل بدون أعتاب (frets)، تعتبر أساسية في الموسيقى العربية والشرق أوسطية.",
+      "definition_english": "A pear-shaped, fretless stringed instrument, central to Arabic and Middle Eastern music.",
+      "keywords": ["oud", "music", "instrument", "string instrument", "arabic music", "middle east", "lute"],
+      "arabic_keywords": ["عود", "موسيقى", "آلة موسيقية", "آلة وترية", "موسيقى عربية", "شرق أوسط"]
+    },
+    {
+      "id": "glossary030",
+      "term_arabic": "شتات",
+      "term_transliterated": "Shatat",
+      "definition_arabic": "يعني 'التشتت' أو 'الانتشار'. يشير إلى الشتات الفلسطيني، أي الفلسطينيين الذين يعيشون خارج فلسطين التاريخية، غالبيتهم كلاجئين.",
+      "definition_english": "Meaning 'Dispersion' or 'Scattering'. Refers to the Palestinian diaspora, those living outside historic Palestine, the majority as refugees.",
+      "keywords": ["shatat", "diaspora", "dispersion", "exile", "refugees", "nakba", "palestinians abroad"],
+      "arabic_keywords": ["شتات", "منفى", "لاجئون", "نكبة", "فلسطينيو الخارج"]
+    },
+    {
+      "id": "glossary031",
+      "term_arabic": "حبيبي / حبيبتي",
+      "term_transliterated": "Habibi / Habibti",
+      "definition_arabic": "تعني 'حبيبي' (للمذكر) أو 'حبيبتي' (للمؤنث). تستخدم بشكل واسع ككلمة محببة أو تعبير عن المودة، ليس فقط للعشاق بل للأصدقاء والأقارب والأطفال.",
+      "definition_english": "Means 'my love' (m.) / 'my love' (f.). Widely used term of endearment, not just romantically but for friends, relatives, children.",
+      "keywords": ["habibi", "habibti", "my love", "darling", "dear", "term of endearment", "arabic", "language"],
+      "arabic_keywords": ["حبيبي", "حبيبتي", "حبي", "عزيزي", "عزيزتي", "كلمة محببة", "عربي", "لغة"]
+    },
+    {
+      "id": "glossary032",
+      "term_arabic": "أهلاً وسهلاً",
+      "term_transliterated": "Ahlan wa Sahlan",
+      "definition_arabic": "عبارة ترحيب شائعة جداً، تعني 'أهلاً بك وسهلاً'، وتدل على الترحيب الحار بالضيف.",
+      "definition_english": "A very common welcoming phrase, meaning 'Welcome', indicating a warm reception for a guest.",
+      "keywords": ["ahlan wa sahlan", "welcome", "greeting", "hospitality", "arabic", "language", "culture"],
+      "arabic_keywords": ["أهلاً وسهلاً", "مرحباً", "ترحيب", "ضيافة", "عربي", "لغة", "ثقافة"]
+    },
+    {
+      "id": "glossary033",
+      "term_arabic": "الله يرحمه / يرحمها",
+      "term_transliterated": "Allah Yerhamo / Yerhamha",
+      "definition_arabic": "عبارة تقال عند ذكر شخص متوفى، تعني 'الله يرحمه' (للمذكر) أو 'الله يرحمها' (للمؤنث).",
+      "definition_english": "A phrase said when mentioning someone deceased, meaning 'May God have mercy on him' (m.) or 'May God have mercy on her' (f.).",
+      "keywords": ["allah yerhamo", "allah yerhamha", "god have mercy", "deceased", "memory", "prayer", "islamic phrase", "arabic"],
+      "arabic_keywords": ["الله يرحمه", "الله يرحمها", "رحمة الله", "متوفى", "ذكرى", "دعاء", "عبارة إسلامية", "عربي"]
+    },
+    {
+      "id": "glossary034",
+      "term_arabic": "إن شاء الله",
+      "term_transliterated": "Inshallah",
+      "definition_arabic": "تعني 'إن شاء الله' أو 'بمشيئة الله'. تستخدم عند الحديث عن خطط أو آمال مستقبلية، إقراراً بأن كل شيء بيد الله.",
+      "definition_english": "Meaning 'If God wills' or 'God willing'. Used when discussing future plans or hopes, acknowledging divine will.",
+      "keywords": ["inshallah", "god willing", "future", "hope", "plans", "islamic phrase", "arabic", "culture"],
+      "arabic_keywords": ["إن شاء الله", "بمشيئة الله", "مستقبل", "أمل", "خطط", "عبارة إسلامية", "عربي", "ثقافة"]
+    },
+    {
+      "id": "glossary035",
+      "term_arabic": "الحمد لله",
+      "term_transliterated": "Alhamdulillah",
+      "definition_arabic": "تعني 'الحمد لله'. عبارة شكر وحمد لله تقال في السراء والضراء وعند الانتهاء من الأكل أو عند الرد على سؤال 'كيف حالك؟'.",
+      "definition_english": "Meaning 'Praise be to God'. An expression of gratitude and praise to God, said in good times and bad, after eating, or when answering 'How are you?'.",
+      "keywords": ["alhamdulillah", "praise god", "thank god", "gratitude", "islamic phrase", "arabic", "culture", "religion"],
+      "arabic_keywords": ["الحمد لله", "الشكر لله", "امتنان", "عبارة إسلامية", "عربي", "ثقافة", "دين"]
+    },
+    {
+      "id": "glossary036",
+      "term_arabic": "بركة",
+      "term_transliterated": "Baraka",
+      "definition_arabic": "تعني 'البركة' أو النعمة الإلهية أو الزيادة في الخير. يمكن أن تكون في الطعام، الوقت، الصحة، أو الأبناء.",
+      "definition_english": "Meaning 'Blessing', divine grace, or an abundance of goodness. Can be found in food, time, health, or children.",
+      "keywords": ["baraka", "blessing", "grace", "abundance", "goodness", "islamic concept", "arabic", "culture"],
+      "arabic_keywords": ["بركة", "نعمة", "خير", "مفهوم إسلامي", "عربي", "ثقافة"]
+    }
+  ]

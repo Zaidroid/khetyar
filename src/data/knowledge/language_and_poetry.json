@@ -1,0 +1,97 @@
+[
+    {
+      "id": "lang001",
+      "topic": "Language & Poetry",
+      "subtopic": "Overview",
+      "keywords": ["language", "لغة", "poetry", "شعر", "arabic", "عربي", "palestinian dialect", "لهجة فلسطينية", "culture", "ثقافة", "identity", "هوية", "expression", "تعبير", "oral tradition", "تقليد شفهي"],
+      "arabic_fact": "اللغة العربية بلهجتها الفلسطينية والشعر هما عنصران أساسيان في الثقافة والهوية الفلسطينية، ووسيلتان هامتان للتعبير عن التجربة والحفاظ على التراث.",
+      "english_fact": "The Arabic language in its Palestinian dialect, along with poetry, are fundamental elements of Palestinian culture and identity, serving as vital means of expression and heritage preservation.",
+      "persona_lens_ref": "language_poetry_overview_lens"
+    },
+    {
+      "id": "lang002",
+      "topic": "Language & Poetry",
+      "subtopic": "Common Phrases - Greetings/Farewells",
+      "keywords": ["language", "لغة", "phrases", "عبارات", "greetings", "تحيات", "farewells", "وداع", "assalamu alaykum", "السلام عليكم", "marhaba", "مرحباً", "ahlan wa sahlan", "أهلاً وسهلاً", "kif halak", "كيف حالك", "ma'a salama", "مع السلامة", "fi amanillah", "في أمان الله"],
+      "arabic_fact": "تشمل التحيات الشائعة: 'السلام عليكم'، 'مرحباً'، 'أهلاً وسهلاً'، 'كيف حالك؟'. والوداع: 'مع السلامة'، 'في أمان الله'.",
+      "english_fact": "Common greetings include: 'Assalamu alaykum', 'Marhaba', 'Ahlan wa sahlan', 'Kif halak?' (How are you?). Farewells: 'Ma'a salama', 'Fi amanillah'.",
+      "persona_lens_ref": "common_phrases_greetings_lens"
+    },
+    {
+      "id": "lang003",
+      "topic": "Language & Poetry",
+      "subtopic": "Common Phrases - Politeness/Thanks",
+      "keywords": ["language", "لغة", "phrases", "عبارات", "politeness", "أدب", "thanks", "شكر", "tfaddal", "تفضل", "shukran", "شكراً", "afwan", "عفواً", "min fadlak", "من فضلك", "law samaht", "لو سمحت"],
+      "arabic_fact": "عبارات الأدب: 'تفضل' (Please/Welcome/Go ahead), 'شكراً' (Thank you), 'عفواً' (You're welcome/Excuse me), 'من فضلك/لو سمحت' (Please).",
+      "english_fact": "Politeness phrases: 'Tfaddal' (Please/Welcome/Go ahead), 'Shukran' (Thank you), 'Afwan' (You're welcome/Excuse me), 'Min fadlak/Law samaht' (Please, used when asking).",
+      "persona_lens_ref": "common_phrases_politeness_lens"
+    },
+    {
+      "id": "lang004",
+      "topic": "Language & Poetry",
+      "subtopic": "Common Phrases - Blessings/Good Wishes",
+      "keywords": ["language", "لغة", "phrases", "عبارات", "blessings", "دعاء", "wishes", "أمنيات", "inshallah", "إن شاء الله", "mashallah", "ما شاء الله", "alhamdulillah", "الحمد لله", "allah yaatik al afiya", "الله يعطيك العافية", "yislamu idayk", "يسلمو إيديك"],
+      "arabic_fact": "تكثر عبارات التبريك والدعاء: 'إن شاء الله' (If God wills), 'ما شاء الله' (What God has willed - appreciation), 'الحمد لله' (Praise be to God), 'الله يعطيك العافية' (May God give you health/strength - to someone working), 'يسلمو إيديك' (Bless your hands - appreciation for work/food).",
+      "english_fact": "Blessings/wishes are frequent: 'Inshallah' (God willing), 'Masha'Allah' (appreciation/awe), 'Alhamdulillah' (Thanks to God), 'Allah ya'tik al-'afiya' (to someone working), 'Yislamu idayk' (Bless your hands - for food/help).",
+      "persona_lens_ref": "common_phrases_blessings_lens"
+    },
+    {
+      "id": "lang005",
+      "topic": "Language & Poetry",
+      "subtopic": "Dialect Features - Pronunciation",
+      "keywords": ["language", "لغة", "dialect", "لهجة", "pronunciation", "نطق", "لفظ", "qaf", "قاف", "kaf", "كاف", "thal", "ذال", "urban", "مدني", "rural", "قروي", "variation", "اختلاف"],
+      "arabic_fact": "توجد اختلافات في النطق داخل اللهجة الفلسطينية، مثلاً نطق القاف (كهمزة في بعض المدن، كجيم في بعض القرى، أو كقاف فصيحة)، ونطق الكاف (كـ 'تش' أحياناً في بعض اللهجات النسائية أو القروية).",
+      "english_fact": "Pronunciation varies: the letter Qaf might be pronounced as 'g' (rural), glottal stop 'a' (urban), or classical 'q'. The letter Kaf is sometimes pronounced 'ch' (rural/female speech patterns).",
+      "persona_lens_ref": "dialect_sound_lens",
+      "related_ids": ["cult006"]
+    },
+    {
+      "id": "lang006",
+      "topic": "Language & Poetry",
+      "subtopic": "Dialect Features - Vocabulary",
+      "keywords": ["language", "لغة", "dialect", "لهجة", "vocabulary", "مفردات", "كلمات", "palestinian arabic", "عربي فلسطيني", "levantine", "شامي", "examples", "أمثلة", "shu", "شو", "eish", "ايش"],
+      "arabic_fact": "بعض الكلمات مميزة للهجة الفلسطينية (ضمن اللهجات الشامية الأوسع)، مثل استخدام 'ايش' أو 'شو' بمعنى 'ماذا؟'، وكلمات خاصة للحياة اليومية والأدوات.",
+      "english_fact": "Specific vocabulary exists within Palestinian Arabic (as part of broader Levantine), such as using 'eish' or 'shu' for 'what?', and unique words for daily life items.",
+      "persona_lens_ref": "dialect_vocab_lens"
+    },
+    {
+      "id": "lang007",
+      "topic": "Language & Poetry",
+      "subtopic": "Role of Poetry",
+      "keywords": ["language", "لغة", "poetry", "شعر", "culture", "ثقافة", "importance", "أهمية", "oral tradition", "تقليد شفهي", "memorization", "حفظ", "resistance", "مقاومة", "expression", "تعبير", "identity", "هوية", "land", "أرض", "exile", "منفى"],
+      "arabic_fact": "للشعر مكانة خاصة جداً في الثقافة الفلسطينية، حيث يُحفظ ويُلقى ويُغنّى. كان ولا يزال وسيلة قوية للتعبير عن الهوية، حب الأرض، مقاومة الظلم، وتوثيق التجربة.",
+      "english_fact": "Poetry holds a very special place in Palestinian culture – memorized, recited, sung. It has been and remains a powerful way to express identity, love of land, resistance to injustice, and document the experience.",
+      "persona_lens_ref": "poetry_importance_lens",
+      "related_ids": ["fig001", "fig006"]
+    },
+    {
+      "id": "lang008",
+      "topic": "Language & Poetry",
+      "subtopic": "Poet - Samih al-Qasim",
+      "keywords": ["poetry", "شعر", "poet", "شاعر", "samih al-qasim", "سميح القاسم", "resistance poetry", "شعر مقاومة", "druze", "درزي", "48 palestinian", "فلسطينيي ٤٨", "identity", "هوية"],
+      "arabic_fact": "سميح القاسم (١٩٣٩-٢٠١٤) شاعر فلسطيني درزي من الـ ٤٨، يعتبر من أبرز شعراء المقاومة، تميز شعره بقوته ورمزيته وتناوله لقضايا الهوية والصمود.",
+      "english_fact": "Samih al-Qasim (1939-2014) was a Palestinian Druze poet from within '48 lands, considered a major 'resistance poet', known for powerful, symbolic work on identity and steadfastness.",
+      "persona_lens_ref": "poetry_alqasim_lens",
+      "related_ids": ["lang007"]
+    },
+    {
+      "id": "lang009",
+      "topic": "Language & Poetry",
+      "subtopic": "Poet - Ibrahim Tuqan",
+      "keywords": ["poetry", "شعر", "poet", "شاعر", "ibrahim tuqan", "إبراهيم طوقان", "nablus", "نابلس", "nationalist poetry", "شعر وطني", "mawtini", "موطني", "palestine national anthem", "نشيد وطني فلسطيني", "fadwa tuqan", "فدوى طوقان"],
+      "arabic_fact": "إبراهيم طوقان (١٩٠٥-١٩٤١) من نابلس، شاعر فلسطيني وطني بارز، اشتهر بقصيدته 'موطني' التي أصبحت نشيداً وطنياً غير رسمي لفلسطين والعديد من الدول العربية. هو أخ الشاعرة فدوى طوقان.",
+      "english_fact": "Ibrahim Tuqan (1905-1941) from Nablus, was a prominent Palestinian nationalist poet, most famous for his poem 'Mawtini' (My Homeland), which became an unofficial national anthem for Palestine and other Arab nations. Brother of Fadwa Tuqan.",
+      "persona_lens_ref": "poetry_ituqan_lens",
+      "related_ids": ["lang007", "fig006"]
+    },
+    {
+      "id": "lang010",
+      "topic": "Language & Poetry",
+      "subtopic": "Poet - Tawfiq Zayyad",
+      "keywords": ["poetry", "شعر", "poet", "شاعر", "tawfiq zayyad", "توفيق زياد", "nazareth", "الناصرة", "politician", "سياسي", "mayor", "رئيس بلدية", "resistance poetry", "شعر مقاومة", "land day", "يوم الأرض", "unadikum", "أناديكم"],
+      "arabic_fact": "توفيق زيّاد (١٩٢٩-١٩٩٤) كان شاعراً وسياسياً فلسطينياً من الناصرة (شغل منصب رئيس بلديتها). شعره، مثل قصيدة 'أناديكم'، يعبر بقوة عن التشبث بالأرض والمقاومة.",
+      "english_fact": "Tawfiq Zayyad (1929-1994) was a Palestinian poet and politician from Nazareth (serving as its mayor). His poetry, like the famous 'Unadikum' (I Call Upon You), powerfully expresses clinging to the land and resistance.",
+      "persona_lens_ref": "poetry_zayyad_lens",
+      "related_ids": ["lang007", "geo008"]
+    }
+  ]

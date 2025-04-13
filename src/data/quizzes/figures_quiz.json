@@ -1,0 +1,74 @@
+[
+    {
+      "question": {
+        "arabic": "من هو الشاعر الفلسطيني الذي يعتبر الشاعر الوطني وكتب قصائد مثل 'على هذه الأرض'؟",
+        "english": "Who is the Palestinian poet considered the national poet, author of poems like 'On This Land'?"
+      },
+      "options": [
+        { "arabic": "سميح القاسم", "english": "Samih al-Qasim" },
+        { "arabic": "محمود درويش", "english": "Mahmoud Darwish" },
+        { "arabic": "غسان كنفاني", "english": "Ghassan Kanafani" },
+        { "arabic": "توفيق زياد", "english": "Tawfiq Zayyad" }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": {
+        "arabic": "محمود درويش هو الشاعر الفلسطيني الأكثر شهرة عالمياً، وتعتبر أعماله تعبيراً قوياً عن الهوية والتجربة الفلسطينية.",
+        "english": "Mahmoud Darwish is the most internationally renowned Palestinian poet, whose works are powerful expressions of Palestinian identity and experience."
+      },
+      "topicId": "figures"
+    },
+    {
+      "question": {
+        "arabic": "ما اسم رسام الكاريكاتير الفلسطيني الذي ابتكر شخصية 'حنظلة'؟",
+        "english": "What is the name of the Palestinian cartoonist who created the character 'Handala'?"
+      },
+      "options": [
+        { "arabic": "ناجي العلي", "english": "Naji al-Ali" },
+        { "arabic": "إسماعيل شموط", "english": "Ismail Shammout" },
+        { "arabic": "كمال بلاطة", "english": "Kamal Boullata" },
+        { "arabic": "سليمان منصور", "english": "Sliman Mansour" }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": {
+        "arabic": "ناجي العلي هو رسام الكاريكاتير الشهير الذي أصبحت شخصيته 'حنظلة'، الطفل الذي يدير ظهره، رمزاً للمقاومة والنقد.",
+        "english": "Naji al-Ali is the famous cartoonist whose character 'Handala', the child with his back turned, became a symbol of resistance and commentary."
+      },
+      "topicId": "figures"
+    },
+    {
+      "question": {
+        "arabic": "من هو الزعيم الفلسطيني الذي ترأس منظمة التحرير الفلسطينية لعقود وحصل على جائزة نوبل للسلام؟",
+        "english": "Who was the Palestinian leader who chaired the PLO for decades and received a Nobel Peace Prize?"
+      },
+      "options": [
+        { "arabic": "جورج حبش", "english": "George Habash" },
+        { "arabic": "الشيخ أحمد ياسين", "english": "Sheikh Ahmed Yassin" },
+        { "arabic": "ياسر عرفات", "english": "Yasser Arafat" },
+        { "arabic": "إدوارد سعيد", "english": "Edward Said" }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": {
+        "arabic": "ياسر عرفات (أبو عمار) كان شخصية مركزية في الحركة الوطنية الفلسطينية ووقع اتفاقيات أوسلو مع إسرائيل.",
+        "english": "Yasser Arafat (Abu Ammar) was a central figure in the Palestinian national movement and signed the Oslo Accords with Israel."
+      },
+      "topicId": "figures"
+    },
+    {
+      "question": {
+        "arabic": "من هي الشاعرة الفلسطينية من نابلس الملقبة بـ 'شاعرة فلسطين'؟",
+        "english": "Who is the Palestinian poetess from Nablus nicknamed the 'Poetess of Palestine'?"
+      },
+      "options": [
+        { "arabic": "حنان عشراوي", "english": "Hanan Ashrawi" },
+        { "arabic": "ريم بنا", "english": "Rim Banna" },
+        { "arabic": "فدوى طوقان", "english": "Fadwa Tuqan" },
+        { "arabic": "منى حاطوم", "english": "Mona Hatoum" }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": {
+        "arabic": "فدوى طوقان كانت صوتاً شعرياً نسائياً رائداً، تناولت قصائدها المقاومة والحب والحياة الاجتماعية.",
+        "english": "Fadwa Tuqan was a pioneering female poetic voice whose poems addressed resistance, love, and social life."
+      },
+      "topicId": "figures"
+    }
+  ]

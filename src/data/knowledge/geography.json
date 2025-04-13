@@ -1,0 +1,137 @@
+[
+    {
+      "id": "geo001",
+      "topic": "Geography",
+      "subtopic": "Key Regions",
+      "keywords": ["geography", "regions", "west bank", "al-daffa", "gaza strip", "qita ghazza", "east jerusalem", "al-quds", "historic palestine", "48 lands"],
+      "arabic_fact": "تشمل المناطق الفلسطينية المعترف بها دولياً الضفة الغربية (الضفة الغربية)، قطاع غزة (قطاع غزة)، والقدس الشرقية (القدس الشرقية). فلسطين التاريخية تشمل الأراضي داخل حدود إسرائيل اليوم (أراضي ٤٨).",
+      "english_fact": "Internationally recognized Palestinian territories comprise the West Bank (Al-Daffa al-Gharbiyya), Gaza Strip (Qita' Ghazza), and East Jerusalem (Al-Quds Al-Sharqiyya). Historic Palestine includes land within Israel ('48 Lands).",
+      "related_ids": ["hist004"]
+    },
+    {
+      "id": "geo002",
+      "topic": "Geography",
+      "subtopic": "Cities - Jerusalem",
+      "keywords": ["geography", "cities", "jerusalem", "al-quds", "holy city", "old city", "al-aqsa", "dome of the rock", "holy sepulchre", "capital", "occupation"],
+      "arabic_fact": "القدس (القدس الشريف) مدينة مقدسة لثلاث ديانات، تضم البلدة القديمة والمسجد الأقصى وقبة الصخرة وكنيسة القيامة. يعتبرها الفلسطينيون عاصمتهم الأبدية وهي تحت الاحتلال.",
+      "english_fact": "Jerusalem (Al-Quds) is holy to three religions, housing the Old City, Al-Aqsa Mosque, Dome of the Rock, and Church of Holy Sepulchre. Considered Palestine's eternal capital, East Jerusalem is occupied.",
+      "persona_lens_ref": "cities_lens", 
+      "related_ids": ["geo013"]
+    },
+    {
+      "id": "geo003",
+      "topic": "Geography",
+      "subtopic": "Cities - Hebron",
+      "keywords": ["geography", "cities", "hebron", "al-khalil", "ibrahimi mosque", "tomb of patriarchs", "glass", "pottery", "old city", "division", "settlers"],
+      "arabic_fact": "الخليل (الخليل الرحمن) مدينة قديمة مقسمة حالياً، تضم الحرم الإبراهيمي الشريف وتشتهر بصناعة الزجاج والفخار والخزف التقليدي.",
+      "english_fact": "Hebron (Al-Khalil) is an ancient, currently divided city housing the Ibrahimi Mosque/Tomb of Patriarchs, known for traditional glassblowing, pottery, and ceramics.",
+      "persona_lens_ref": "cities_lens"
+    },
+    {
+      "id": "geo004",
+      "topic": "Geography",
+      "subtopic": "Cities - Nablus",
+      "keywords": ["geography", "cities", "nablus", "knafeh", "olive oil soap", "old city", "kasbah", "samaritans", "mount gerizim"],
+      "arabic_fact": "نابلس مدينة تاريخية في شمال الضفة، مركز اقتصادي وثقافي، تشتهر بالكنافة وصابون زيت الزيتون، وتضم بلدة قديمة كبيرة (القصبة) وجبل جرزيم موطن السامريين.",
+      "english_fact": "Nablus, a historic city in the northern West Bank, is an economic/cultural center famous for Knafeh, olive oil soap, its large Old City (Kasbah), and nearby Mount Gerizim (home to Samaritans).",
+      "persona_lens_ref": "cities_lens",
+      "related_ids": ["cult010"]
+    },
+    {
+      "id": "geo005",
+      "topic": "Geography",
+      "subtopic": "Cities - Ramallah",
+      "keywords": ["geography", "cities", "ramallah", "administrative center", "palestinian authority", "modern", "culture", "hub", "al-bireh"],
+      "arabic_fact": "رام الله هي المركز الإداري والسياسي الفعلي للسلطة الفلسطينية، وهي مدينة حديثة نسبياً ومركز ثقافي واقتصادي حيوي، متجاورة مع مدينة البيرة.",
+      "english_fact": "Ramallah serves as the de facto administrative and political center of the Palestinian Authority; a relatively modern, vibrant cultural and economic hub, adjacent to Al-Bireh.",
+      "persona_lens_ref": "cities_lens"
+    },
+    {
+      "id": "geo006",
+      "topic": "Geography",
+      "subtopic": "Cities - Bethlehem",
+      "keywords": ["geography", "cities", "bethlehem", "beit lahm", "nativity", "pilgrimage", "jesus", "tourism", "wall"],
+      "arabic_fact": "بيت لحم (بيت لحم)، مسقط رأس السيد المسيح، هي مركز ديني وسياحي هام، تضم كنيسة المهد ومحاطة بالجدار الفاصل.",
+      "english_fact": "Bethlehem (Beit Lahm), birthplace of Jesus, is a major religious and tourism center housing the Church of the Nativity, significantly impacted by the Separation Wall.",
+      "persona_lens_ref": "cities_lens",
+      "related_ids": ["geo012", "hist007"]
+    },
+    {
+      "id": "geo007",
+      "topic": "Geography",
+      "subtopic": "Cities - Gaza",
+      "keywords": ["geography", "cities", "gaza", "ghazza", "gaza strip", "siege", "blockade", "coast", "port", "history", "hardship"],
+      "arabic_fact": "مدينة غزة هي أكبر مدن قطاع غزة الساحلي المحاصر، ذات تاريخ يمتد لآلاف السنين، وكانت ميناءً هاماً، وتواجه حالياً ظروفاً إنسانية صعبة للغاية.",
+      "english_fact": "Gaza City is the largest city in the besieged coastal Gaza Strip, with thousands of years of history, once an important port, currently facing extreme humanitarian hardship.",
+      "persona_lens_ref": "cities_lens", 
+      "related_ids": ["cult011"]
+    },
+    {
+      "id": "geo008",
+      "topic": "Geography",
+      "subtopic": "Cities - Jaffa, Haifa, Acre, Nazareth",
+      "keywords": ["geography", "cities", "jaffa", "yafa", "haifa", "acre", "akka", "nazareth", "al-nasirah", "historic palestine", "48", "port", "coast", "galilee", "oranges"],
+      "arabic_fact": "يافا وحيفا وعكا هي مدن ساحلية تاريخية هامة كانت مراكز تجارية وثقافية فلسطينية قبل ١٩٤٨. الناصرة هي أكبر مدينة عربية في إسرائيل اليوم وتقع في الجليل.",
+      "english_fact": "Jaffa, Haifa, Acre are historic coastal port cities, major Palestinian commercial/cultural centers before 1948. Nazareth is the largest Arab city in Israel today, located in the Galilee.",
+      "persona_lens_ref": "cities_lens_historic"
+    },
+    {
+      "id": "geo009",
+      "topic": "Geography",
+      "subtopic": "The Land - Olive Trees",
+      "keywords": ["geography", "land", "nature", "olive tree", "shajar al-zaytun", "symbol", "sumud", "rootedness", "harvest", "qitaf", "olive oil", "ancient", "economy"],
+      "arabic_fact": "شجرة الزيتون (شجر الزيتون) هي رمز أيقوني لفلسطين تمثل السلام والتجذر والصمود. بعضها قديم جداً. زيت الزيتون وقطافه جزء أساسي من الثقافة والاقتصاد.",
+      "english_fact": "The olive tree (shajar al-zaytun) is an iconic symbol of Palestine representing peace, rootedness, and sumud. Some are ancient. Olive oil and the harvest (qitaf) are vital to culture and economy.",
+      "persona_lens_ref": "olive_tree_lens",
+      "related_ids": ["cult007", "geo010"]
+    },
+    {
+      "id": "geo010",
+      "topic": "Geography",
+      "subtopic": "The Land - Connection",
+      "keywords": ["geography", "land", "ard", "connection", "identity", "farming", "fellah", "loss", "refugees", "heritage", "spiritual"],
+      "arabic_fact": "الارتباط بالأرض (الأرض) هو جزء عميق من الهوية الفلسطينية، روحياً وثقافياً ومادياً. فقدان الأرض نتيجة النكبة والاحتلال هو صدمة مركزية.",
+      "english_fact": "Connection to the land (Al-Ard) is a profound part of Palestinian identity – spiritually, culturally, materially. Land loss due to Nakba/occupation is a central trauma.",
+      "persona_lens_ref": "land_connection_lens",
+      "related_ids": ["geo009", "hist002"]
+    },
+     {
+      "id": "geo011",
+      "topic": "Geography",
+      "subtopic": "The Land - Features & Climate",
+      "keywords": ["geography", "land", "features", "climate", "coast", "hills", "jordan valley", "desert", "mediterranean", "rainfall", "seasons"],
+      "arabic_fact": "تتمتع فلسطين بتنوع جغرافي يشمل السهل الساحلي، المرتفعات الجبلية الوسطى، غور الأردن، وصحراء النقب جنوباً. المناخ متوسطي مع شتاء ماطر وصيف حار جاف.",
+      "english_fact": "Palestine has diverse geography: coastal plain, central highlands, Jordan Valley Rift, Negev desert south. Climate is Mediterranean: rainy winters, hot dry summers.",
+      "related_ids": ["geo014"]
+    },
+    {
+      "id": "geo012",
+      "topic": "Geography",
+      "subtopic": "Landmark - Church of Nativity",
+      "keywords": ["geography", "landmark", "bethlehem", "church of nativity", "unesco", "grotto", "pilgrimage", "christianity", "history", "constantine"],
+      "arabic_fact": "كنيسة المهد في بيت لحم، أحد أقدم كنائس العالم المستخدمة باستمرار، مبنية فوق المغارة التي يعتقد أنها مكان ميلاد يسوع المسيح. موقع تراث عالمي.",
+      "english_fact": "The Church of the Nativity in Bethlehem, one of the world's oldest continuously used churches, is built over the grotto believed to be Jesus Christ's birthplace. A UNESCO World Heritage site.",
+      "persona_lens_ref": "nativity_church_lens",
+      "related_ids": ["geo006"]
+    },
+    {
+      "id": "geo013",
+      "topic": "Geography",
+      "subtopic": "Landmark - Al-Aqsa Compound",
+      "keywords": ["geography", "landmark", "jerusalem", "al-quds", "al-aqsa", "haram al-sharif", "dome of the rock", "islam", "holy site", "temple mount"],
+      "arabic_fact": "المسجد الأقصى / الحرم القدسي الشريف في القدس هو ثالث أقدس موقع في الإسلام، يضم المسجد الأقصى وقبة الصخرة ومساحات واسعة للصلاة.",
+      "english_fact": "Al-Aqsa Mosque / Haram al-Sharif (Noble Sanctuary) in Jerusalem is Islam's third holiest site, containing Al-Aqsa Mosque, Dome of the Rock, and vast prayer spaces.",
+      "persona_lens_ref": "al_aqsa_lens",
+      "related_ids": ["geo002"]
+    },
+     {
+      "id": "geo014",
+      "topic": "Geography",
+      "subtopic": "The Land - Water Scarcity",
+      "keywords": ["geography", "land", "water", "scarcity", "resources", "occupation", "control", "aquifer", "jordan river", "inequality", "agriculture"],
+      "arabic_fact": "تعاني فلسطين من شح المياه، ويتفاقم الوضع بسبب سيطرة إسرائيل على مصادر المياه الجوفية والسطحية المشتركة كالحوض الجبلي ونهر الأردن، مما يؤدي لعدم مساواة كبيرة.",
+      "english_fact": "Palestine suffers water scarcity, exacerbated by Israeli control over shared groundwater (Mountain Aquifer) and surface water (Jordan River), leading to significant inequality in access.",
+      "persona_lens_ref": "water_scarcity_lens",
+      "related_ids": ["geo011", "hist005"]
+    }
+  ]

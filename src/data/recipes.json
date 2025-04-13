@@ -1,0 +1,168 @@
+[
+    {
+      "id": "recipe_hummus",
+      "name_arabic": "حمص بالطحينة",
+      "name_english": "Hummus bi Tahini",
+      "description_arabic": "طبق مقبلات شرق أوسطي كريمي وشهير مصنوع من الحمص المهروس والطحينة والليمون والثوم.",
+      "description_english": "A famous creamy Middle Eastern dip or spread made from mashed chickpeas, tahini, lemon, and garlic.",
+      "keywords": ["hummus", "chickpeas", "tahini", "dip", "appetizer", "mezze", "recipe", "vegetarian"],
+      "arabic_keywords": ["حمص", "طحينة", "مقبلات", "وصفة", "نباتي"],
+      "ingredients": [
+        { "amount_arabic": "١ علبة (٤٠٠ غ)", "amount_english": "1 can (15oz/400g)", "item_arabic": "حمص، مصفى ومغسول", "item_english": "Chickpeas, drained and rinsed" },
+        { "amount_arabic": "١/٤ كوب", "amount_english": "1/4 cup", "item_arabic": "طحينة", "item_english": "Tahini" },
+        { "amount_arabic": "١/٤ كوب", "amount_english": "1/4 cup", "item_arabic": "عصير ليمون طازج (أو حسب الذوق)", "item_english": "Fresh lemon juice (or to taste)" },
+        { "amount_arabic": "١-٢ فص", "amount_english": "1-2 cloves", "item_arabic": "ثوم، مفروم", "item_english": "Garlic, minced" },
+        { "amount_arabic": "٢-٤ ملعقة كبيرة", "amount_english": "2-4 tbsp", "item_arabic": "ماء مثلج (للنعومة)", "item_english": "Ice water (for smoothness)" },
+        { "amount_arabic": "رشة", "amount_english": "Pinch", "item_arabic": "ملح", "item_english": "Salt" },
+        { "amount_arabic": "رشة", "amount_english": "Pinch", "item_arabic": "كمون (اختياري)", "item_english": "Cumin (optional)" },
+        { "amount_arabic": "للتزيين", "amount_english": "For garnish", "item_arabic": "زيت زيتون، بقدونس، سماق، بابريكا", "item_english": "Olive oil, parsley, sumac, paprika" }
+      ],
+      "instructions_arabic": [
+        "ضع الحمص والطحينة وعصير الليمون والثوم والملح في محضر الطعام.",
+        "اخلط حتى يتجانس المزيج.",
+        "أثناء دوران المحضر، أضف الماء المثلج تدريجياً، ملعقة واحدة في كل مرة، حتى تصل إلى القوام الكريمي المطلوب.",
+        "تذوق واضبط الملح أو الليمون حسب الرغبة. أضف الكمون إذا استخدمت.",
+        "انقل الحمص إلى طبق التقديم، اصنع حفرة صغيرة في المنتصف بالملعقة.",
+        "زين بزيت الزيتون ورشة بقدونس مفروم أو سماق أو بابريكا."
+      ],
+      "instructions_english": [
+        "Combine chickpeas, tahini, lemon juice, garlic, and salt in a food processor.",
+        "Blend until roughly combined.",
+        "With the processor running, gradually stream in ice water, 1 tablespoon at a time, until the hummus is very smooth and creamy.",
+        "Taste and adjust salt or lemon juice as needed. Blend in cumin if using.",
+        "Transfer hummus to a serving dish, creating a small well in the center with a spoon.",
+        "Garnish generously with olive oil and a sprinkle of chopped parsley, sumac, or paprika."
+      ],
+      "prep_time_minutes": 10,
+      "image_url": "/images/recipes/hummus.jpg"
+    },
+    {
+      "id": "recipe_tabbouleh",
+      "name_arabic": "تبولة",
+      "name_english": "Tabbouleh",
+      "description_arabic": "سلطة شرق أوسطية منعشة مصنوعة أساساً من البقدونس المفروم ناعماً، الطماطم، النعناع، البصل، والبرغل، متبلة بزيت الزيتون وعصير الليمون.",
+      "description_english": "A refreshing Middle Eastern salad primarily made of finely chopped parsley, tomatoes, mint, onion, and bulgur, dressed with olive oil and lemon juice.",
+      "keywords": ["tabbouleh", "salad", "parsley", "bulgur", "mint", "appetizer", "mezze", "recipe", "vegetarian", "healthy"],
+      "arabic_keywords": ["تبولة", "سلطة", "بقدونس", "برغل", "نعناع", "مقبلات", "وصفة", "نباتي", "صحي"],
+      "ingredients": [
+        { "amount_arabic": "١ كوب", "amount_english": "1 cup", "item_arabic": "بقدونس، مفروم ناعماً جداً", "item_english": "Parsley, very finely chopped" },
+        { "amount_arabic": "١/٤ كوب", "amount_english": "1/4 cup", "item_arabic": "نعناع طازج، مفروم ناعماً", "item_english": "Fresh mint, finely chopped" },
+        { "amount_arabic": "٢-٣ حبات", "amount_english": "2-3 medium", "item_arabic": "طماطم، مفرومة ناعماً", "item_english": "Tomatoes, finely diced" },
+        { "amount_arabic": "١/٤ كوب", "amount_english": "1/4 cup", "item_arabic": "بصل أخضر أو بصلة صغيرة، مفرومة ناعماً", "item_english": "Scallions or small onion, finely chopped" },
+        { "amount_arabic": "١/٤ كوب", "amount_english": "1/4 cup", "item_arabic": "برغل ناعم، منقوع ومصفى (أو أقل حسب الذوق)", "item_english": "Fine bulgur, soaked & drained (or less, to taste)" },
+        { "amount_arabic": "١/٤ كوب", "amount_english": "1/4 cup", "item_arabic": "عصير ليمون طازج", "item_english": "Fresh lemon juice" },
+        { "amount_arabic": "١/٤ كوب", "amount_english": "1/4 cup", "item_arabic": "زيت زيتون بكر ممتاز", "item_english": "Extra virgin olive oil" },
+        { "amount_arabic": "", "amount_english": "To taste", "item_arabic": "ملح وفلفل أسود", "item_english": "Salt and black pepper" }
+      ],
+      "instructions_arabic": [
+        "اغسل البقدونس والنعناع جيداً وجففهما تماماً قبل الفرم.",
+        "انقع البرغل الناعم في ماء بارد لمدة ١٠-١٥ دقيقة ثم صفه جيداً واعصره للتخلص من الماء الزائد.",
+        "في وعاء كبير، اخلط البقدونس المفروم، النعناع، الطماطم، والبصل.",
+        "أضف البرغل المصفى.",
+        "في وعاء صغير، اخفق عصير الليمون، زيت الزيتون، الملح، والفلفل.",
+        "اسكب الصلصة فوق السلطة واخلط بلطف.",
+        "قدمها فوراً أو اتركها قليلاً لتمتزج النكهات."
+      ],
+      "instructions_english": [
+        "Wash parsley and mint thoroughly and dry completely before chopping.",
+        "Soak fine bulgur in cold water for 10-15 minutes, then drain very well, squeezing out excess water.",
+        "In a large bowl, combine the chopped parsley, mint, tomatoes, and onion/scallions.",
+        "Add the drained bulgur.",
+        "In a small bowl, whisk together lemon juice, olive oil, salt, and pepper.",
+        "Pour the dressing over the salad and toss gently to combine.",
+        "Serve immediately or let it sit for a short while for flavors to meld."
+      ],
+      "prep_time_minutes": 25,
+      "image_url": "/images/recipes/tabbouleh.jpg"
+    },
+    {
+      "id": "recipe_maqloubeh",
+      "name_arabic": "مقلوبة",
+      "name_english": "Maqloubeh",
+      "description_arabic": "طبق فلسطيني رئيسي تقليدي واحتفالي يُطهى في قدر واحد ثم يُقلب رأساً على عقب للتقديم، يتكون من طبقات من اللحم (دجاج أو خروف) والأرز والخضروات المقلية (عادة باذنجان وقرنبيط وبطاطا).",
+      "description_english": "A traditional and festive Palestinian main dish cooked in one pot then flipped upside-down for serving, featuring layers of meat (chicken or lamb), rice, and fried vegetables (commonly eggplant, cauliflower, potato).",
+      "keywords": ["maqloubeh", "main course", "rice", "chicken", "lamb", "eggplant", "cauliflower", "upside down", "recipe", "palestinian food", "festive"],
+      "arabic_keywords": ["مقلوبة", "طبق رئيسي", "رز", "دجاج", "خروف", "باذنجان", "قرنبيط", "زهرة", "مقلوب", "وصفة", "أكل فلسطيني", "مناسبات"],
+      "ingredients": [
+        { "amount_arabic": "١", "amount_english": "1", "item_arabic": "دجاجة مقطعة أو ١ كغ لحم خروف", "item_english": "Chicken, cut up, or 1kg Lamb chunks" },
+        { "amount_arabic": "٢ كوب", "amount_english": "2 cups", "item_arabic": "أرز (يفضل متوسط الحبة)، منقوع", "item_english": "Rice (medium grain preferred), soaked" },
+        { "amount_arabic": "١ حبة كبيرة", "amount_english": "1 large", "item_arabic": "باذنجان، مقطع شرائح ومقلي", "item_english": "Eggplant, sliced and fried" },
+        { "amount_arabic": "١ رأس", "amount_english": "1 head", "item_arabic": "قرنبيط (زهرة)، مقطع زهيرات ومقلي", "item_english": "Cauliflower, cut into florets and fried" },
+        { "amount_arabic": "١-٢ حبة", "amount_english": "1-2", "item_arabic": "بطاطا، مقطعة شرائح ومقلية (اختياري)", "item_english": "Potatoes, sliced and fried (optional)" },
+        { "amount_arabic": "١ حبة", "amount_english": "1", "item_arabic": "بصلة، مفرومة", "item_english": "Onion, chopped" },
+        { "amount_arabic": "بهارات", "amount_english": "Spices", "item_arabic": "ملح، فلفل أسود، بهار مشكل أو بهار مقلوبة، قرفة، هيل، كركم", "item_english": "Salt, black pepper, mixed spice or Maqloubeh spice, cinnamon, cardamom, turmeric" },
+        { "amount_arabic": "٤-٥ أكواب", "amount_english": "4-5 cups", "item_arabic": "مرق دجاج أو لحم ساخن", "item_english": "Hot chicken or meat broth" },
+        { "amount_arabic": "للتزيين", "amount_english": "For garnish", "item_arabic": "لوز أو صنوبر مقلي، بقدونس مفروم", "item_english": "Fried almonds or pine nuts, chopped parsley" }
+      ],
+      "instructions_arabic": [
+        "اسلق الدجاج أو اللحم مع المطيبات حتى ينضج. احتفظ بالمرق.",
+        "تبّل الأرز المنقوع والمصفى بالبهارات والملح.",
+        "في قاع قدر الطهي، رتب شرائح طماطم (اختياري لمنع الالتصاق) ثم رص قطع الدجاج أو اللحم.",
+        "رتب طبقات من الخضروات المقلية (باذنجان، قرنبيط، بطاطا) فوق اللحم.",
+        "وزع الأرز المتبل فوق الخضروات.",
+        "اسكب المرق الساخن برفق فوق الأرز حتى يغمره بحوالي ١-٢ سم.",
+        "غطِ القدر واتركه يغلي، ثم خفف النار واتركه ينضج على نار هادئة جداً لمدة ٣٠-٤٥ دقيقة حتى يتشرب الأرز كل المرق وينضج تماماً.",
+        "اترك القدر يرتاح لمدة ١٠-١٥ دقيقة بعد إطفاء النار.",
+        "ضع طبق تقديم كبير فوق القدر، ثم اقلب القدر بحذر وثبات.",
+        "ارفع القدر ببطء. زين باللوز أو الصنوبر المقلي والبقدونس المفروم."
+      ],
+      "instructions_english": [
+        "Boil the chicken or lamb with aromatics until cooked. Reserve the broth.",
+        "Season the soaked and drained rice with spices and salt.",
+        "In the bottom of the cooking pot, arrange tomato slices (optional, prevents sticking), then layer the cooked chicken or lamb pieces.",
+        "Arrange layers of the fried vegetables (eggplant, cauliflower, potato) over the meat.",
+        "Spread the seasoned rice evenly over the vegetables.",
+        "Gently pour the hot broth over the rice until it covers it by about 1-2 cm (1/2 - 3/4 inch).",
+        "Cover the pot, bring to a boil, then reduce heat to very low and simmer for 30-45 minutes, until all broth is absorbed and rice is fully cooked.",
+        "Let the pot rest off the heat for 10-15 minutes.",
+        "Place a large serving platter over the pot. Carefully and firmly flip the pot over.",
+        "Lift the pot slowly. Garnish with fried almonds or pine nuts and chopped parsley."
+      ],
+      "prep_time_minutes": 90, 
+      "image_url": "/images/recipes/maqloubeh.jpg"
+    },
+    {
+      "id": "recipe_musakhan",
+      "name_arabic": "مسخن",
+      "name_english": "Musakhan",
+      "description_arabic": "طبق فلسطيني وطني بامتياز، عبارة عن دجاج مشوي مع كميات وفيرة من البصل المكرمل بالسماق وزيت الزيتون، يقدم فوق خبز الطابون أو خبز مشابه.",
+      "description_english": "A quintessential Palestinian national dish featuring roasted chicken with generous amounts of onions caramelized with sumac and olive oil, served over Taboon bread or similar flatbread.",
+      "keywords": ["musakhan", "chicken", "sumac", "onions", "olive oil", "taboon bread", "main course", "recipe", "palestinian food", "national dish"],
+      "arabic_keywords": ["مسخن", "دجاج", "سماق", "بصل", "زيت زيتون", "خبز طابون", "طبق رئيسي", "وصفة", "أكل فلسطيني", "طبق وطني"],
+      "ingredients": [
+        { "amount_arabic": "١", "amount_english": "1", "item_arabic": "دجاجة، مقطعة أو كاملة", "item_english": "Chicken, cut up or whole" },
+        { "amount_arabic": "٣-٤ حبات كبيرة", "amount_english": "3-4 large", "item_arabic": "بصل، مقطع شرائح", "item_english": "Onions, sliced" },
+        { "amount_arabic": "١/٢ - ١ كوب", "amount_english": "1/2 - 1 cup", "item_arabic": "زيت زيتون بكر ممتاز", "item_english": "Extra virgin olive oil" },
+        { "amount_arabic": "١/٤ - ١/٢ كوب", "amount_english": "1/4 - 1/2 cup", "item_arabic": "سماق بلدي", "item_english": "Sumac (preferably Baladi)" },
+        { "amount_arabic": "بهارات", "amount_english": "Spices", "item_arabic": "ملح، فلفل أسود، بهار مشكل أو هيل (اختياري)", "item_english": "Salt, black pepper, mixed spice or cardamom (optional)" },
+        { "amount_arabic": "٢-٣ أرغفة", "amount_english": "2-3 loaves", "item_arabic": "خبز طابون أو خبز شراك أو خبز عربي سميك", "item_english": "Taboon bread, Shrak, or thick pita bread" },
+        { "amount_arabic": "للتزيين", "amount_english": "For garnish", "item_arabic": "صنوبر مقلي", "item_english": "Toasted pine nuts" }
+      ],
+      "instructions_arabic": [
+        "تبّل الدجاج بالملح والفلفل والبهارات واشويه أو اسلقه حتى ينضج.",
+        "في قدر كبير، سخّن كمية وفيرة من زيت الزيتون. أضف البصل وقلّبه على نار متوسطة حتى يذبل ويصبح طرياً جداً (حوالي ١٥-٢٠ دقيقة).",
+        "أضف السماق والملح والفلفل إلى البصل وقلّب جيداً.",
+        "اغمس أرغفة الخبز في خليط زيت الزيتون والبصل حتى تتشرب جيداً.",
+        "ضع رغيف خبز متشرب بالزيت في صينية خبز، وزع فوقه كمية من خليط البصل والسماق.",
+        "ضع قطع الدجاج فوق البصل.",
+        "يمكن تكرار الطبقات إذا استخدمت أرغفة متعددة أو وضع الدجاج فوق طبقة واحدة.",
+        "اخبز في فرن محمى على ١٨٠ درجة مئوية (٣٥٠ فهرنهايت) لمدة ١٥-٢٠ دقيقة حتى يتحمر الخبز والدجاج قليلاً.",
+        "زين بالصنوبر المقلي قبل التقديم مباشرة.",
+        "يقدم ساخناً، وغالباً مع اللبن الزبادي."
+      ],
+      "instructions_english": [
+        "Season chicken with salt, pepper, and spices; roast or boil until cooked through.",
+        "In a large pot or pan, heat a generous amount of olive oil. Add sliced onions and cook over medium heat until very soft and caramelized (about 15-20 minutes).",
+        "Stir in the sumac, salt, and pepper into the onions and mix well.",
+        "Dip the loaves of bread into the onion and olive oil mixture, ensuring they are well coated.",
+        "Place an oil-soaked loaf of bread on a baking sheet. Spread a generous amount of the onion-sumac mixture over it.",
+        "Arrange pieces of cooked chicken on top of the onions.",
+        "You can layer multiple loaves or just have one base layer with chicken on top.",
+        "Bake in a preheated oven at 180°C (350°F) for 15-20 minutes, until the bread is slightly crisp and the chicken is heated through.",
+        "Garnish with toasted pine nuts just before serving.",
+        "Serve hot, often accompanied by plain yogurt."
+      ],
+      "prep_time_minutes": 75,
+      "image_url": "/images/recipes/musakhan.jpg"
+    }
+  ]

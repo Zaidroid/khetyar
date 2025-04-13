@@ -1,0 +1,77 @@
+[
+    {
+      "id": "landmark001",
+      "topic": "Landmarks & Nature",
+      "subtopic": "Historical Site - Hisham's Palace",
+      "keywords": ["landmark", "معلم", "history", "تاريخ", "ruins", "آثار", "jericho", "أريحا", "hishams palace", "قصر هشام", "umayyad", "أموي", "islamic architecture", "عمارة إسلامية", "mosaics", "فسيفساء", "bathhouse", "حمام", "qasr hisham"],
+      "arabic_fact": "قصر هشام قرب أريحا هو موقع أثري هام يعود للعصر الأموي (القرن الثامن)، يشتهر بفسيفساء 'شجرة الحياة' المذهلة في أرضية الحمام الفاخر.",
+      "english_fact": "Hisham's Palace near Jericho is an important Umayyad-era (8th century) archaeological site, famous for the stunning 'Tree of Life' mosaic in its luxurious bathhouse floor.",
+      "persona_lens_ref": "hishams_palace_lens"
+    },
+    {
+      "id": "landmark002",
+      "topic": "Landmarks & Nature",
+      "subtopic": "Historical Site - Sebastia",
+      "keywords": ["landmark", "معلم", "history", "تاريخ", "ruins", "آثار", "sebastia", "سبسطية", "samaria", "السامرة", "nablus", "نابلس", "roman", "روماني", "herodian", "هيرودي", "crusader", "صليبي", "byzantine", "بيزنطي", "archaeology", "علم الآثار"],
+      "arabic_fact": "سبسطية، قرب نابلس، هي موقع مدينة السامرة القديمة، وتضم آثاراً غنية من العصور الرومانية والهيرودية والبيزنطية والصليبية، بما في ذلك مدرج ومعابد.",
+      "english_fact": "Sebastia, near Nablus, is the site of ancient Samaria, containing rich ruins from Roman, Herodian, Byzantine, and Crusader periods, including a theater and temples.",
+      "persona_lens_ref": "sebastia_ruins_lens"
+    },
+    {
+      "id": "landmark003",
+      "topic": "Landmarks & Nature",
+      "subtopic": "Natural Landmark - Wadi Qelt",
+      "keywords": ["landmark", "معلم", "nature", "طبيعة", "wadi qelt", "وادي القلط", "judean desert", "صحراء يهودا", "jericho", "أريحا", "monastery", "دير", "st george", "مار جرجس", "hiking", "مسار مشي", "spring", "نبع", "canyon", "وادي"],
+      "arabic_fact": "وادي القلط هو وادٍ صحراوي مذهل بين القدس وأريحا، يشتهر بدير مار جرجس المعلق على جرفه وبمسارات المشي الطبيعية.",
+      "english_fact": "Wadi Qelt is a stunning desert canyon between Jerusalem and Jericho, famous for the cliff-hanging St. George Monastery and its hiking trails.",
+      "persona_lens_ref": "wadi_qelt_lens"
+    },
+    {
+      "id": "landmark004",
+      "topic": "Landmarks & Nature",
+      "subtopic": "Flora - Wild Thyme (Za'atar)",
+      "keywords": ["nature", "طبيعة", "plants", "نباتات", "flora", "نبات", "zaatar", "زعتر", "thyme", "wild herbs", "أعشاب برية", "gathering", "جمع", "food", "طعام", "culture", "ثقافة", "hills", "تلال"],
+      "arabic_fact": "الزعتر البري ينمو بكثرة في تلال فلسطين، وهو جزء أساسي من المطبخ والثقافة. جمعه من البرية تقليد قديم، ويستخدم طازجاً أو مجففاً.",
+      "english_fact": "Wild thyme (Za'atar - Origanum syriacum and related species) grows abundantly in Palestine's hills and is central to cuisine and culture. Gathering it wild is an old tradition.",
+      "persona_lens_ref": "wild_zaatar_lens",
+      "related_ids": ["cult001"]
+    },
+    {
+      "id": "landmark005",
+      "topic": "Landmarks & Nature",
+      "subtopic": "Flora - Poppy Anemone",
+      "keywords": ["nature", "طبيعة", "plants", "نباتات", "flora", "نبات", "flowers", "زهور", "poppy", "anemone", "شقائق النعمان", "shaqaiq al-numan", "red", "أحمر", "spring", "ربيع", "symbol", "رمز", "martyrs", "شهداء"],
+      "arabic_fact": "زهرة شقائق النعمان (Anemone coronaria)، بلونها الأحمر الزاهي، تغطي الحقول في الربيع وتعتبر رمزاً وطنياً غير رسمي، وترتبط أحياناً بذكرى الشهداء.",
+      "english_fact": "The Poppy Anemone (Anemone coronaria), with its bright red color, carpets fields in spring and is considered an informal national symbol, sometimes associated with martyrs.",
+      "persona_lens_ref": "poppy_anemone_lens",
+      "related_ids": ["art007"]
+    },
+    {
+      "id": "landmark006",
+      "topic": "Landmarks & Nature",
+      "subtopic": "Fauna - Palestine Sunbird",
+      "keywords": ["nature", "طبيعة", "animals", "حيوانات", "fauna", "حيوان", "birds", "طيور", "palestine sunbird", "تمير فلسطين", "national bird", "طائر وطني", "nectar", "رحيق", "colorful", "ملون", "symbol", "رمز"],
+      "arabic_fact": "طائر الشمس الفلسطيني (تمير فلسطين) هو الطائر الوطني لفلسطين، وهو طائر صغير ملون يتغذى على رحيق الأزهار.",
+      "english_fact": "The Palestine Sunbird is the national bird of Palestine, a small, colorful bird that feeds on nectar.",
+      "persona_lens_ref": "palestine_sunbird_lens"
+    },
+    {
+      "id": "landmark007",
+      "topic": "Landmarks & Nature",
+      "subtopic": "Fauna - Mountain Gazelle",
+      "keywords": ["nature", "طبيعة", "animals", "حيوانات", "fauna", "حيوان", "gazelle", "غزال", "mountain gazelle", "غزال الجبل", "mammals", "ثدييات", "endangered", "مهدد بالانقراض", "hills", "تلال", "wildlife", "حياة برية"],
+      "arabic_fact": "الغزال الجبلي الفلسطيني (غزال الجبل) هو نوع رشيق من الغزلان يعيش في التلال والمناطق المفتوحة، وهو مهدد بالانقراض.",
+      "english_fact": "The Palestinian Mountain Gazelle is a graceful species inhabiting hills and open areas, currently considered endangered.",
+      "persona_lens_ref": "mountain_gazelle_lens"
+    },
+    {
+      "id": "landmark008",
+      "topic": "Landmarks & Nature",
+      "subtopic": "Agricultural Cycles",
+      "keywords": ["nature", "طبيعة", "agriculture", "زراعة", "farming", "فلاحة", "seasons", "فصول", "مواسم", "harvest", "حصاد", "قطاف", "planting", "زراعة", "wheat", "قمح", "barley", "شعير", "olives", "زيتون", "grapes", "عنب", "figs", "تين", "almonds", "لوز", "fellah", "فلاح"],
+      "arabic_fact": "تتبع الزراعة التقليدية دورات المواسم: زراعة القمح والشعير في الشتاء، قطاف اللوزيات في الربيع، العنب والتين في الصيف، والزيتون في الخريف.",
+      "english_fact": "Traditional agriculture follows seasonal cycles: planting wheat/barley in winter, harvesting almonds in spring, grapes/figs in summer, and olives in autumn.",
+      "persona_lens_ref": "agri_cycles_lens",
+      "related_ids": ["geo009"]
+    }
+  ]

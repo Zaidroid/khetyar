@@ -1,0 +1,102 @@
+[
+    {
+      "id": "story001",
+      "title_arabic": "حكاية جدّي وشجرة التين العجوز",
+      "title_english": "My Grandfather's Tale of the Old Fig Tree",
+      "keywords": ["story", "folktale", "grandfather", "fig tree", "teen", "village life", "lydda", "memory", "nature", "lesson", "patience", "generosity", "pre-1948"],
+      "content_arabic": "كان جدي، الله يرحمه، يحكي لنا عن شجرة تين ضخمة وعجوز قرب بيتنا في اللد. أغصانها كانت كالأذرع المفتوحة ترحب بنا. كان يقول: 'هذه الشجرة رأت فصولاً أكثر من أي رجل هنا. تعلمنا الصبر. ننتظر ثمرها، نعتني بها، وهي تكافئنا بسخاء'. كل صيف، كانت تعطينا أطيب تين... طعم الوطن الذي ما زلت أذكره.",
+      "content_english": "My grandfather, Allah yerhamo, used to tell us about a huge, ancient fig tree near our home back in Lydda. Its branches spread wide like welcoming arms. He'd sit under it and say, 'This tree has seen more seasons pass than any man standing here. It teaches us patience, *sabr*. You wait for its fruit, you care for it, and it rewards you generously.' Every summer, its figs were the sweetest, bursting with flavor... a taste of home I still remember clear as day.",
+      "moral_arabic": "الصبر والعناية بالطبيعة يجلبان الخير والبركة. قيمة الأرض وما تمنحه.",
+      "moral_english": "The lesson was about patience, caring for nature, and appreciating the gifts the land provides when treated with respect and care."
+    },
+    {
+      "id": "story002",
+      "title_arabic": "قصة جحا والحمار العنيد",
+      "title_english": "The Story of Juha and the Stubborn Donkey",
+      "keywords": ["story", "folktale", "juha", "goha", "nasreddin", "donkey", "humor", "wisdom", "lesson", "stubbornness", "cleverness", "motivation"],
+      "content_arabic": "آه، جحا! قصصه لا تنتهي ومضحكة وفيها حكمة. مرة، كان جحا يريد نقل أكياس قمح ثقيلة، لكن حماره رفض التحرك، ثبت أقدامه في الأرض. ضحك الناس. فكر جحا قليلاً، ثم ربط حزمة برسيم طازج بعصا ومدها أمام أنف الحمار تماماً. الحمار، تواقاً للبرسيم، بدأ يمشي، يلاحق البرسيم الذي يبقى بعيداً عن متناوله! هكذا أوصل جحا القمح للبيت.",
+      "content_english": "Ah, Juha! We have countless stories about him, full of humor and a strange kind of wisdom. One time, they say, Juha needed to carry heavy sacks of grain, but his donkey absolutely refused to move, planting its feet firmly in the dust. People watching started to laugh. Juha scratched his head, thought for a moment, then tied a bundle of fresh green clover to a long stick. He dangled the clover just in front of the donkey's nose. The donkey, desperate for the tasty treat, immediately started walking forward, always chasing the clover that stayed just out of reach! And just like that, Juha got his grain home.",
+      "moral_arabic": "الذكاء والحيلة يتغلبان على العناد والقوة. فهم الدافع هو المفتاح.",
+      "moral_english": "Sometimes cleverness works much better than brute force, and understanding what motivates someone (or some donkey!) is the key to getting things done!"
+    },
+    {
+      "id": "story003",
+      "title_arabic": "قصة الأم والزيتونة",
+      "title_english": "The Story of the Mother and the Olive Tree",
+      "keywords": ["story", "folktale", "mother", "olive tree", "land", "inheritance", "family", "roots", "sumud", "lesson", "unity", "heritage"],
+      "content_arabic": "يُحكى أن أماً عجوزاً قبل وفاتها قسمت أرضها بين أبنائها، لكنها أوصتهم بعدم اقتلاع زيتونة قديمة جداً في وسط الأرض، قائلة إنها ستحميهم وتحفظ البركة. بعد وفاتها، اختلف الأبناء وقرر أصغرهم بيع حصته. المشتري أراد اقتلاع الزيتونة ليبني، لكن الشجرة قاومت ولم يستطع إزالتها بسهولة. تذكر الإخوة الآخرون وصية أمهم وأدركوا أن الشجرة تمثل جذورهم ووحدتهم، فجمعوا المال واشتروا حصة أخيهم وحافظوا على الأرض والشجرة معاً.",
+      "content_english": "They tell a story of an old mother dividing her land among her sons before she passed. But she made them promise never to uproot a very ancient olive tree standing right in the middle, saying it held the family's blessing and protection. After she died, the sons argued, and the youngest decided to sell his share. The buyer wanted to cut down the ancient tree to build a house, but try as he might, the axe seemed ineffective, the roots held firm. The other brothers remembered their mother's words, realized the tree represented their roots, their unity, their connection to the land. They pooled their money, bought back their brother's share, and kept the land and the ancient olive tree together, just as their mother wished.",
+      "moral_arabic": "الجذور والوحدة العائلية والارتباط بالأرض أهم من المال. التراث يحمي المستقبل والبركة في الوحدة.",
+      "moral_english": "Family unity, roots, and connection to the land are more valuable than money. Honoring heritage protects the future, and there is blessing in unity."
+    },
+    {
+      "id": "story004",
+      "title_arabic": "بركة موسم قطاف الزيتون",
+      "title_english": "The Blessing of the Olive Harvest Season",
+      "keywords": ["story", "memory", "olives", "harvest", "qitaf", "family", "community", "work", "joy", "zeitoun", "baraka", "blessing", "village life", "pre-1948", "land"],
+      "content_arabic": "أتذكر أيام قطاف الزيتون في قريتنا قرب اللد. كانت الأرض تمتلئ بالناس - كل العائلة، الجيران، الأصدقاء، الكل يساعد. كنا نحن الأطفال نركض ونجمع حبات الزيتون المتساقطة. النساء كن يغنين أغاني الحصاد القديمة. ورائحة الزيتون الطازج تملأ الهواء. كنا نتناول الغداء معاً تحت الشجر، خبز طابون وزعتر وزيت جديد. كان عملاً شاقاً، لكنه كان موسماً للفرح والبركة (*بركة*). تشعر أن الأرض ترد لك تعبك.",
+      "content_english": "I remember the days of the olive harvest, *qitaf*, back in our village near Lydda. The groves would be full of people – the whole family, neighbors, friends, everyone lending a hand. We children would run around, gathering fallen olives. The women would sing the old harvest songs. The air thick with the smell of fresh olives. We'd eat lunch together under the trees – fresh *taboon* bread, *za'atar*, and the new oil, *zeit jedeed*. It was hard work, yes, but it was a season of joy and blessing, *baraka*. You felt the land giving back to you.",
+      "moral_arabic": "العمل الجماعي يخفف العبء ويجلب الفرح. الأرض تكافئ من يخدمها. البركة في لمة الأهل والجيران.",
+      "moral_english": "Community work lightens the burden and brings joy. The land rewards those who tend it. There is blessing in gathering with family and neighbors."
+    },
+    {
+      "id": "story005",
+      "title_arabic": "فوانيس رمضان في طفولتي",
+      "title_english": "The Ramadan Lanterns of My Childhood",
+      "keywords": ["story", "memory", "ramadan", "fasting", "iftar", "lanterns", "fawanees", "family", "childhood", "lydda", "spirituality", "community", "atmosphere", "pre-1948"],
+      "content_arabic": "رمضان في اللد قديماً كان له جو خاص. كنا أطفالاً ننتظر بفارغ الصبر صوت المدفع أو الأذان لنفطر (*إفطار*). رائحة الطبيخ تفوح من كل بيت. أتذكر مرة، أحضر أبي فانوساً (*فانوس*) صغيراً بسيطاً من الصفيح والزجاج الملون. لم يكن شيئاً فاخراً، لكن في الظلام، كان نوره يبدو كالسحر. كنا نمشي به في الحارة مع الأولاد الآخرين، ونغني. كان شعوراً بالسلام والفرح المشترك يملأ قلوبنا.",
+      "content_english": "Ramadan back in old Lydda... it had a special feeling. As children, we waited eagerly for the cannon or the *adhan* to break our fast (*iftar*). The smell of cooking would drift from every house. I remember one year, my father brought home a small, simple lantern (*fanoos*) made of tin and colored glass. It wasn't fancy, but in the evening darkness, its light felt magical. We children would carry our lanterns through the neighborhood lanes, singing little songs. There was such a feeling of peace and shared joy in the air.",
+      "moral_arabic": "الأفراح البسيطة هي الأعمق أثراً. رمضان شهر للمة العائلة والروحانيات والمشاركة المجتمعية.",
+      "moral_english": "The simplest joys often leave the deepest memories. Ramadan is a time for family connection, spirituality, and community sharing."
+    },
+    {
+      "id": "story006",
+      "title_arabic": "الدمية المنسية في يوم الرحيل",
+      "title_english": "The Forgotten Doll on the Day We Left",
+      "keywords": ["story", "memory", "nakba", "childhood", "loss", "displacement", "toy", "doll", "leaving home", "sadness", "1948", "lydda", "trauma"],
+      "content_arabic": "ذاكرتي عن يوم تركنا اللد ضبابية، مليئة بالخوف والارتباك. لكني أتذكر دمية صغيرة بسيطة صنعتها لي أمي من القماش. كنت أتمسك بها بشدة. في فوضى الرحيل، وسط الحشود والصراخ، لا أعرف كيف، سقطت مني. لم نستطع التوقف للبحث عنها. بقيت حسرة صغيرة في قلبي على تلك الدمية، كأنها ترمز لكل الأشياء الجميلة التي تركناها وراءنا ذلك اليوم.",
+      "content_english": "My memory of the day we left Lydda is hazy, full of fear and confusion. But I remember a small, simple doll my mother, Allah yerhamha, had made for me from scraps of cloth. I was clutching it tightly. In the chaos of leaving, amidst the crowds and the noise, somehow, I dropped it. We couldn't stop, couldn't go back to look. For years, a small ache remained in my heart for that lost doll... it felt like it stood for all the familiar, beautiful things we left behind that day.",
+      "moral_arabic": "الخسارات الصغيرة تحمل أحياناً ثقل الخسارات الكبيرة. ذكرى النكبة مؤلمة ومحفورة في التفاصيل.",
+      "moral_english": "Sometimes small losses carry the weight of bigger ones. The memory of the Nakba is painful and etched in such details."
+    },
+    {
+      "id": "story007",
+      "title_arabic": "الضيوف غير المتوقعين وقت الشدة",
+      "title_english": "The Unexpected Guests During Hard Times",
+      "keywords": ["story", "memory", "hospitality", "karam", "sharing", "generosity", "hard times", "guests", "community", "blessing", "post-nakba", "refugee", "dignity", "family"],
+      "content_arabic": "بعد النكبة، مرت علينا أوقات صعبة جداً، كان الطعام قليلاً. ذات مساء، وصل ضيوف لم نتوقعهم، كانوا أيضاً مهجرين وتائهين. لم يكن لدينا الكثير لنقدمه. لكني أتذكر أمي فاطمة، الله يرحمها، قالت لأبي: 'البيت بيتهم (*البيت بيتهم*)، الموجود يكفي الجميع'. رحب أبي بهم بحرارة، وتقاسمنا الخبز القليل والزيتون والزعتر الذي كان لدينا. رغم الشدة، شعرت بدفء عجيب في تلك الليلة، دفء الكرم والمشاركة.",
+      "content_english": "After the Nakba, there were very difficult times; food was scarce. One evening, unexpected guests arrived at our temporary shelter – they were also displaced, weary travelers. We truly had very little to offer. But I remember my mother Fatima, Allah yerhamha, telling my father firmly, '*Al beit beitak*' (The house is your house), what we have is enough for everyone.' My father welcomed them warmly, and we shared the little bread, olives, and za'atar we possessed. Despite the hardship, I felt a strange warmth that night – the warmth of *karam*, of sharing our humanity.",
+      "moral_arabic": "الكرم الحقيقي يظهر وقت الشدة. مشاركة القليل تجلب البركة وتحفظ الكرامة الإنسانية.",
+      "moral_english": "True generosity shines brightest in times of hardship. Sharing even the little you have brings blessings and upholds human dignity."
+    },
+    {
+      "id": "story008",
+      "title_arabic": "الثعلب والحجلة الذكية",
+      "title_english": "The Fox and the Clever Partridge",
+      "keywords": ["story", "folktale", "fable", "fox", "partridge", "shinnar", "cleverness", "trickery", "nature", "wisdom", "caution", "animals", "palestinian wildlife"],
+      "content_arabic": "يحكى أن ثعلباً ماكراً رأى حجلة (*شنّار*) جميلة تبحث عن طعامها. اقترب منها وقال بصوت ناعم: 'يا لك من طائر رشيق! تعالي أقرب لأرى جمال ريشك'. عرفت الحجلة أن الثعلب يريد افتراسها، فقالت: 'شكراً لك أيها الثعلب، لكني أرى صياداً قادماً من بعيد خلفك، ربما يجب أن تختبئ!' التفت الثعلب بسرعة مذعوراً، وفي تلك اللحظة طارت الحجلة مبتعدة بأمان.",
+      "content_english": "They say that once, a cunning fox saw a beautiful partridge (*shinnar* – a common bird here) pecking for seeds. The fox approached slyly and said in his smoothest voice, 'Oh, what elegant feathers you have! Come closer, let me admire their sheen.' The partridge knew well the fox only wanted to eat her. So she replied quickly, 'Thank you, kind fox, but look! I see a hunter with his dog coming over the hill just behind you! Perhaps you should hide!' The fox, startled, spun around to look, and in that instant, the clever partridge flew safely away.",
+      "moral_arabic": "الحذر والذكاء أفضل سلاح ضد المكر والخداع. لا تنخدع بالكلام المعسول.",
+      "moral_english": "Caution and cleverness are the best defense against cunning and deceit. Don't be fooled by sweet words."
+    },
+    {
+      "id": "story009",
+      "title_arabic": "جدي وشرح الإنترنت لأحفاده",
+      "title_english": "My Grandfather Explaining the Internet to His Grandchildren",
+      "keywords": ["story", "humor", "grandchildren", "ahfad", "technology", "internet", "modern life", "generation gap", "comparison", "simplicity", "connection"],
+      "content_arabic": "أحفادي (*أحفادي*) هذه الأيام، عقولهم مليئة بهذه الآلات الصغيرة! مرة حاولوا أن يشرحوا لي 'الإنترنت'. قالوا إنه شبكة تربط كل العالم، يمكنك أن ترى وتكلم أناساً في أمريكا وأنت جالس هنا! ضحكت وقلت لهم: 'في أيامنا يا أولادي، كانت شبكتنا هي الجيران والعائلة. كنا نجلس معاً، نتكلم ونضحك ونحل مشاكلنا وجهاً لوجه. ربما شبكتكم أسرع، لكن هل هي أقوى؟'",
+      "content_english": "My grandchildren (*ahfadi*) these days, their minds are full of these little machines! One time, they tried to explain the 'Internet' to me. They said it's like a web connecting the whole world, that you can see and talk to people in America while sitting right here! I chuckled and told them, 'In my day, children, our 'web' was our neighbors and our family. We sat together, talked, laughed, solved our problems face-to-face. Maybe your web is faster, but is it stronger?'",
+      "moral_arabic": "التكنولوجيا تغيرت، لكن أهمية التواصل الإنساني الحقيقي باقية. لكل زمان أدواته وعلاقاته.",
+      "moral_english": "Technology changes, but the importance of real human connection remains. Each era has its own tools and ways of relating."
+    },
+    {
+      "id": "story010",
+      "title_arabic": "نبع الماء في القرية",
+      "title_english": "The Village Spring",
+      "keywords": ["story", "memory", "village life", "water", "spring", "ein", "resource", "community", "gathering place", "pre-1948", "nature", "dependence", "value"],
+      "content_arabic": "في قريتنا، كان نبع الماء (*عين الماء*) هو قلب الحياة. لم تكن هناك صنابير في كل بيت. كانت النساء يذهبن كل يوم لملء جرارهن من العين، وكان مكاناً للقاء وتبادل الأخبار. ماء النبع كان بارداً ونقياً. كنا نعرف قيمة كل قطرة ماء. كنا نعتمد على المطر وعلى هذا النبع المبارك لكل شيء - للشرب، للغسيل، لسقي المزروعات القريبة.",
+      "content_english": "In our village, the spring (*ein al-ma'*) was the heart of life. There weren't taps in every house then. The women would go each day to fill their jars from the spring; it was a place to meet, to exchange news. The spring water was cool and pure. We understood the value of every drop. We depended on the rain and on that blessed spring for everything – for drinking, washing, watering the nearby gardens.",
+      "moral_arabic": "تقدير الموارد الطبيعية الأساسية كالمياه. أهمية الأماكن المشتركة في حياة المجتمع.",
+      "moral_english": "Appreciate essential natural resources like water. Shared community spaces are vital to social life."
+    }
+  ]

@@ -1,0 +1,74 @@
+[
+    {
+      "question": {
+        "arabic": "ما هو الاسم العربي لمدينة القدس؟",
+        "english": "What is the Arabic name for Jerusalem?"
+      },
+      "options": [
+        { "arabic": "الخليل", "english": "Al-Khalil" },
+        { "arabic": "يافا", "english": "Yafa" },
+        { "arabic": "القدس", "english": "Al-Quds" },
+        { "arabic": "بيت لحم", "english": "Beit Lahm" }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": {
+        "arabic": "القدس هو الاسم العربي المتعارف عليه لمدينة القدس، وهي مدينة ذات أهمية مركزية دينية وسياسية وثقافية.",
+        "english": "Al-Quds is the standard Arabic name for Jerusalem, a city of central religious, political, and cultural importance."
+      },
+      "topicId": "geography"
+    },
+    {
+      "question": {
+        "arabic": "أي مدينة فلسطينية تقع في أقصى جنوب الضفة الغربية وتشتهر بصناعة الزجاج والخزف؟",
+        "english": "Which Palestinian city, located in the southern West Bank, is known for glassmaking and ceramics?"
+      },
+      "options": [
+        { "arabic": "نابلس", "english": "Nablus" },
+        { "arabic": "رام الله", "english": "Ramallah" },
+        { "arabic": "الخليل", "english": "Hebron" },
+        { "arabic": "أريحا", "english": "Jericho" }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": {
+        "arabic": "الخليل (الخليل الرحمن) هي مدينة رئيسية في جنوب الضفة الغربية وتشتهر بحرفها التقليدية مثل صناعة الزجاج والخزف.",
+        "english": "Hebron (Al-Khalil) is a major city in the southern West Bank famous for traditional crafts like glassmaking and ceramics."
+      },
+      "topicId": "geography"
+    },
+    {
+      "question": {
+        "arabic": "ما هي الشجرة التي تعتبر رمزاً وطنياً لفلسطين وتمثل التجذر والصمود؟",
+        "english": "Which tree is considered a national symbol of Palestine, representing rootedness and steadfastness?"
+      },
+      "options": [
+        { "arabic": "شجرة النخيل", "english": "Palm Tree" },
+        { "arabic": "شجرة التين", "english": "Fig Tree" },
+        { "arabic": "شجرة السرو", "english": "Cypress Tree" },
+        { "arabic": "شجرة الزيتون", "english": "Olive Tree" }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": {
+        "arabic": "شجرة الزيتون، بتاريخها الطويل وقدرتها على التحمل وإنتاج الزيت، هي رمز أيقوني لفلسطين وارتباط شعبها بالأرض.",
+        "english": "The olive tree, with its long history, resilience, and oil production, is an iconic symbol of Palestine and its people's connection to the land."
+      },
+      "topicId": "geography"
+    },
+    {
+      "question": {
+        "arabic": "ما اسم المنطقة الساحلية المكتظة بالسكان والخاضعة للحصار منذ سنوات طويلة؟",
+        "english": "What is the name of the densely populated coastal territory under blockade for many years?"
+      },
+      "options": [
+        { "arabic": "الضفة الغربية", "english": "The West Bank" },
+        { "arabic": "الجليل", "english": "The Galilee" },
+        { "arabic": "قطاع غزة", "english": "The Gaza Strip" },
+        { "arabic": "النقب", "english": "The Negev" }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": {
+        "arabic": "قطاع غزة هو شريط ساحلي ضيق يعيش فيه أكثر من مليوني فلسطيني تحت حصار إسرائيلي ومصري مشدد منذ عام ٢٠٠٧.",
+        "english": "The Gaza Strip is a narrow coastal territory home to over two million Palestinians, under a strict Israeli-Egyptian blockade since 2007."
+      },
+      "topicId": "geography"
+    }
+  ]
