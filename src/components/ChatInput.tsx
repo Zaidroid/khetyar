@@ -63,8 +63,19 @@ const ChatInput = ({ onSendMessage, language, isLoading, onStoryRequested }: Cha
     : "Ask Khetyar about Palestinian stories and heritage...";
 
   return (
-    <form onSubmit={handleSubmit} className="p-2 sm:p-4 border-t border-border bg-background sticky bottom-0 z-10 w-full chat-input-container" style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}>
-      <div className="flex gap-2 items-end">
+    <form
+      onSubmit={handleSubmit}
+      className="sticky bottom-0 z-20 w-full flex justify-center bg-transparent"
+      style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}
+    >
+      <div
+        className={cn(
+          "w-full max-w-2xl mx-auto flex gap-2 items-end p-2 sm:p-4",
+          "rounded-2xl shadow-lg border border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80",
+          "transition-all",
+          "mb-2"
+        )}
+      >
         <Textarea
           ref={textareaRef}
           value={message}
@@ -72,7 +83,7 @@ const ChatInput = ({ onSendMessage, language, isLoading, onStoryRequested }: Cha
           onKeyDown={handleKeyDown}
           placeholder={placeholder}
           className={cn(
-            "min-h-[50px] sm:min-h-[60px] max-h-[120px] sm:max-h-[180px] resize-none text-sm sm:text-base bg-input text-foreground border-border focus-visible:ring-ring", // Use theme colors
+            "min-h-[50px] sm:min-h-[60px] max-h-[120px] sm:max-h-[180px] resize-none text-sm sm:text-base bg-input text-foreground border-border focus-visible:ring-ring rounded-xl shadow-none",
             language === "arabic" ? "direction-rtl font-arabic" : "direction-ltr font-english"
           )}
           disabled={isLoading}
@@ -93,7 +104,7 @@ const ChatInput = ({ onSendMessage, language, isLoading, onStoryRequested }: Cha
           type="button"
           variant="outline"
           size="icon"
-          className="h-[50px] w-[50px] sm:h-[60px] sm:w-[60px] rounded-full flex-shrink-0 border-secondary text-secondary hover:bg-secondary/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2" // Use secondary theme color + focus ring
+          className="h-[50px] w-[50px] sm:h-[60px] sm:w-[60px] rounded-full flex-shrink-0 border-secondary text-secondary hover:bg-secondary/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 bg-background"
           onClick={handleQuizRequest}
           disabled={isLoading}
           aria-label={language === "arabic" ? "اطلب اختباراً" : "Request a quiz"}
@@ -105,7 +116,7 @@ const ChatInput = ({ onSendMessage, language, isLoading, onStoryRequested }: Cha
           type="button"
           variant="outline"
           size="icon"
-          className="h-[50px] w-[50px] sm:h-[60px] sm:w-[60px] rounded-full flex-shrink-0 border-secondary text-secondary hover:bg-secondary/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2" // Use secondary theme color + focus ring
+          className="h-[50px] w-[50px] sm:h-[60px] sm:w-[60px] rounded-full flex-shrink-0 border-secondary text-secondary hover:bg-secondary/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 bg-background"
           onClick={handleStoryRequest}
           disabled={isLoading}
           aria-label={language === "arabic" ? "اطلب قصة" : "Request a story"}
@@ -116,7 +127,7 @@ const ChatInput = ({ onSendMessage, language, isLoading, onStoryRequested }: Cha
         <Button
           type="submit"
           size="icon"
-          className="bg-primary hover:bg-primary/90 text-primary-foreground h-[50px] w-[50px] sm:h-[60px] sm:w-[60px] rounded-full flex-shrink-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2" // Use primary theme color + focus ring
+          className="bg-primary hover:bg-primary/90 text-primary-foreground h-[50px] w-[50px] sm:h-[60px] sm:w-[60px] rounded-full flex-shrink-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 shadow"
           disabled={!message.trim() || isLoading}
           aria-label={language === "arabic" ? "إرسال" : "Send"}
         >
