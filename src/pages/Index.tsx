@@ -20,7 +20,8 @@ interface Message {
 }
 
 const Index = () => {
-  const [language, setLanguage] = useState<"arabic" | "english">("english");
+  // Default to Arabic
+  const [language, setLanguage] = useState<"arabic" | "english">("arabic");
   const [messages, setMessages] = useState<Message[]>([]);
   const [isLoading, setIsLoading] = useState(false);
   const { toast } = useToast();
@@ -157,12 +158,17 @@ const Index = () => {
       setMessages(prev => [...prev, userMessage]);
     }
     setIsLoading(true);
-    
+
     try {
+      // Always enforce Palestinian dialect for Arabic
+      let promptToSend = trimmedText;
+      if (language === "arabic") {
+        promptToSend = `اكتب باللهجة الفلسطينية فقط: ${trimmedText}`;
+      }
       // Get response from chatbot service, passing current history
       // Pass currentTopic state to sendMessage
-      const response: ChatResponse = await sendMessage(trimmedText, language, messages, currentTopic);
-      
+      const response: ChatResponse = await sendMessage(promptToSend, language, messages, currentTopic);
+
       // Check for quiz data in response
       if (response.quizData) {
         setActiveQuiz({
@@ -170,7 +176,7 @@ const Index = () => {
           explanation: response.quizData.explanation
         });
       }
-      
+
       // Add Khetyar's response message (could be text or quiz question)
       // Update topic state if detected by chatService
       if (response.detectedTopicId) {
@@ -180,22 +186,22 @@ const Index = () => {
       setMessages(prev => [...prev, response]);
     } catch (error) {
       console.error("Error getting response:", error);
-      
+
       // Add error message
       const errorMessage: Message = {
         id: uuidv4(),
-        text: language === "arabic" 
+        text: language === "arabic"
           ? "عذراً، حدث خطأ في الاتصال. يرجى المحاولة مرة أخرى."
           : "Sorry, there was an error connecting. Please try again.",
         isKhetyar: true
       };
-      
+
       setMessages(prev => [...prev, errorMessage]);
-      
+
       // Show toast notification
       toast({
         title: language === "arabic" ? "خطأ" : "Error",
-        description: language === "arabic" 
+        description: language === "arabic"
           ? "حدث خطأ في الاتصال. يرجى المحاولة مرة أخرى."
           : "Connection error. Please try again.",
         variant: "destructive"
