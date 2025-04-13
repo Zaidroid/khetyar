@@ -317,25 +317,31 @@ const Index = () => {
 
   // Render chat interface if name is known
   return (
-    <div className="flex flex-col h-screen max-h-screen bg-background overflow-hidden">
+    <div className="flex flex-col h-screen bg-background">
       <EmbroideryPattern className="from-khetyar-red" />
-      {/* Pass userName to header if needed for display */}
-      <ChatHeader language={language} setLanguage={setLanguage} userName={userName} />
-      <div className="flex-1 overflow-hidden relative">
+      {/* Sticky Header */}
+      <div className="sticky top-0 z-30 shadow-md bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80 transition-all">
+        <ChatHeader language={language} setLanguage={setLanguage} userName={userName} />
+      </div>
+      {/* Chat Area (scrollable) */}
+      <div className="flex-1 min-h-0 overflow-y-auto">
         <ChatContainer
           messages={messages}
           language={language}
           isLoading={isLoading}
           onFeedback={handleFeedback}
-          onSendMessage={handleSendMessage} // Pass send message handler for quiz answers
+          onSendMessage={handleSendMessage}
         />
       </div>
-      <ChatInput
-        onSendMessage={handleSendMessage}
-        language={language}
-        isLoading={isLoading}
-        onStoryRequested={handleStoryRequested} // Pass story request handler
-      />
+      {/* Sticky Input */}
+      <div className="sticky bottom-0 z-20 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80 transition-all">
+        <ChatInput
+          onSendMessage={handleSendMessage}
+          language={language}
+          isLoading={isLoading}
+          onStoryRequested={handleStoryRequested}
+        />
+      </div>
       <EmbroideryPattern className="from-khetyar-olive" />
     </div>
   );
