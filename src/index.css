@@ -161,7 +161,18 @@ html, body {
 /* Fix for mobile view with fixed input */
 @media (max-width: 640px) {
   .chat-container {
-    padding-bottom: 70px; /* Ensure space for the fixed input */
+    padding-bottom: calc(70px + env(safe-area-inset-bottom)); /* Account for mobile bottom bar */
+  }
+  
+  /* Fix for sticky input on mobile */
+  .chat-input-container {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  
+  /* Better scrolling behavior */
+  .chat-messages {
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
   }
 }
 
