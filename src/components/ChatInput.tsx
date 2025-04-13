@@ -63,7 +63,7 @@ const ChatInput = ({ onSendMessage, language, isLoading, onStoryRequested }: Cha
     : "Ask Khetyar about Palestinian stories and heritage...";
 
   return (
-    <form onSubmit={handleSubmit} className="p-2 sm:p-4 border-t border-border bg-background sticky bottom-0 z-10 w-full">
+    <form onSubmit={handleSubmit} className="p-2 sm:p-4 border-t border-border bg-background sticky bottom-0 z-10 w-full chat-input-container" style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}>
       <div className="flex gap-2 items-end">
         <Textarea
           ref={textareaRef}
