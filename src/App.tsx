@@ -12,19 +12,19 @@ const queryClient = new QueryClient();
 
 const App = () => {
   // Handle theme detection and initialization
-  const [theme, setTheme] = useState<string>("light");
+  // Default to dark theme
+  const [theme, setTheme] = useState<string>("dark");
   
   useEffect(() => {
     // Check for user preference in local storage
     const savedTheme = localStorage.getItem("khetyar-theme");
-    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    
-    // Set initial theme based on preference or system setting
-    const initialTheme = savedTheme || (prefersDark ? "dark" : "light");
+    // Always default to dark unless user has set a preference
+    const initialTheme = savedTheme || "dark";
     setTheme(initialTheme);
+    document.documentElement.classList.remove("light", "dark");
     document.documentElement.classList.add(initialTheme);
-    
-    // Listen for system theme changes
+
+    // Listen for system theme changes, but only apply if no user preference
     const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
     const handleChange = (e: MediaQueryListEvent) => {
       if (!localStorage.getItem("khetyar-theme")) {
@@ -33,7 +33,7 @@ const App = () => {
         document.documentElement.classList.add(e.matches ? "dark" : "light");
       }
     };
-    
+
     mediaQuery.addEventListener("change", handleChange);
     return () => mediaQuery.removeEventListener("change", handleChange);
   }, []);
