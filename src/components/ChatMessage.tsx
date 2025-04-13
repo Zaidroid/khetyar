@@ -53,9 +53,15 @@ const ChatMessage = ({
         className={cn(
           "chat-bubble",
           isKhetyar
-            ? "khetyar bg-primary text-primary-foreground" // Khetyar uses primary color
-            : "user bg-card text-card-foreground", // User uses card background
-          "max-w-[75%] sm:max-w-[60%]" // Limit bubble width
+            ? "khetyar bg-primary text-primary-foreground"
+            : "user bg-muted text-foreground",
+          // Modern bubble style
+          "rounded-2xl shadow-md px-4 py-3 transition-all duration-300",
+          // Entry animation
+          "animate-slide-in",
+          // Sender alignment
+          isKhetyar ? "rounded-bl-md" : "rounded-br-md",
+          "max-w-[75%] sm:max-w-[60%]"
         )}
       >
         {/* Conditionally render Quiz or Normal Message */}
@@ -136,8 +142,14 @@ const ChatMessage = ({
         )}
       </div>
       {!isKhetyar && (
-        // Optional: Add a placeholder or user avatar here if needed
-        <div className="w-8 h-8 sm:w-10 sm:h-10"></div> // Spacer to align user messages
+        // User avatar placeholder for alignment
+        <div className="w-8 h-8 sm:w-10 sm:h-10 flex items-center justify-center">
+          <div className="bg-gray-300 dark:bg-gray-700 rounded-full w-8 h-8 sm:w-10 sm:h-10 flex items-center justify-center text-xs font-bold text-gray-600 dark:text-gray-200">
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
+            </svg>
+          </div>
+        </div>
       )}
     </div>
   );
