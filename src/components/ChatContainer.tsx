@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import ChatMessage from "./ChatMessage";
 import { cn } from "@/lib/utils";
 import { useIsMobile } from "@/hooks/use-mobile";
+import Avatar from './Avatar';
 
 interface Message {
   id: string;
@@ -113,7 +114,7 @@ const ChatContainer = ({ messages, language, isLoading, onFeedback, onSendMessag
     // Increased bottom padding (pb-20 sm:pb-24) to accommodate input height
     <div
       ref={containerRef}
-      className="flex-1 overflow-y-auto p-2 sm:p-4 space-y-4 pb-20 sm:pb-24 chat-messages touch-pan-y"
+      className="flex-1 overflow-y-auto p-2 sm:p-4 space-y-4 pb-4 sm:pb-6 chat-messages touch-pan-y"
       style={{
         paddingTop: 'env(safe-area-inset-top)',
         WebkitOverflowScrolling: 'touch',
@@ -172,7 +173,46 @@ const ChatContainer = ({ messages, language, isLoading, onFeedback, onSendMessag
       {/* Loading indicator is now handled in ChatInput */}
 
       {/* Empty div to ensure scrolling to the bottom works */}
+      {/* Typing indicator */}
+      {isLoading && messages.length > 0 && !messages[messages.length - 1].isKhetyar && (
+        <div className="flex items-end gap-2 mb-4 animate-fade-in">
+          <Avatar src="/abu-khalil.jpeg" alt="Abu Khalil Avatar" />
+          <div className="rounded-2xl shadow-md px-4 py-3 bg-primary text-primary-foreground max-w-[75%] sm:max-w-[60%] flex items-center">
+            <span className="inline-flex space-x-1">
+              <span className="w-2 h-2 bg-white/80 rounded-full animate-bounce" style={{ animationDelay: "0ms" }}></span>
+              <span className="w-2 h-2 bg-white/80 rounded-full animate-bounce" style={{ animationDelay: "150ms" }}></span>
+              <span className="w-2 h-2 bg-white/80 rounded-full animate-bounce" style={{ animationDelay: "300ms" }}></span>
+            </span>
+          </div>
+        </div>
+      )}
       <div ref={messagesEndRef} />
+
+      {/* Scroll-to-bottom FAB */}
+      <div
+        className={cn(
+          "pointer-events-none",
+          "fixed bottom-24 right-4 sm:bottom-28 sm:right-8 z-40",
+          "transition-all duration-300",
+          atBottom
+            ? "opacity-0 translate-y-4 scale-95"
+            : "opacity-100 translate-y-0 scale-100 pointer-events-auto"
+        )}
+        aria-hidden={atBottom}
+      >
+        <button
+          className="bg-primary text-primary-foreground rounded-full shadow-xl p-3 transition-transform hover:scale-110 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+          onClick={() => {
+            containerRef.current?.scrollTo({ top: containerRef.current.scrollHeight, behavior: "smooth" });
+          }}
+          aria-label={language === "arabic" ? "انتقل لأسفل" : "Scroll to bottom"}
+          tabIndex={atBottom ? -1 : 0}
+        >
+          <svg className="w-6 h-6" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M12 16l-6-6m12 0l-6 6" />
+          </svg>
+        </button>
+      </div>
     </div>
   );
 };
